@@ -20,7 +20,8 @@ we will let you know if further questions arise, and send back to you the update
 
 
 dear jimmy,
-	it's been a while since our last conversation, just wondering if our updates are okay? we'd love your comments and feedback. let us know your availability
+	it's been a while since our last conversation, just wondering if our updates are okay?
+we'd love your comments and feedback. let us know your availability
 
 
 ###################################
@@ -34,9 +35,10 @@ you set me up. 你陷害了我.
 count me in. 算我一个
 take a shower洗个澡
 thank you for your concern. 谢谢你的关心
+thanks for asking 谢谢关心
 nobody's perfect 人无完人
 I owe you 我欠你的
-time will tell 
+time will tell
 
 for old time's sake看在老交情的份上
 hand it over 交出来
@@ -50,9 +52,14 @@ I wasn't born yesterday 我又不是三岁小孩
 you are the boss 你说了算
 sleep tight 睡个好觉
 in your dreams 白日做梦
-seize the day 活在当下
+==seize the day 活在当下
+enjoy this moment享受当下
+seize the moment 享受当下==
 no pain no gain 没有付出就没有收获
 you look great 你看上去棒极了
+you look pretty
+you look stunning你看起来漂亮极了
+gorgeous
 anything is possible一切皆有可能
 I'm so proud of you 我真为你感到骄傲
 brotherhood兄弟情深, 仗义
@@ -71,27 +78,27 @@ every dog has its day 人人皆有出头日
 
 enough is enough 适可而止吧
 don't judge me 不要随意评判我
-this is the life 这才是生活
+==this is the life 这才是生活==
 don't cry 别哭了
-it was meant to me这是命中注定的
+==it was meant to me这是命中注定的==
 put up or shut up. 你行你上 不行别bb
 don't stay up too late不要熬夜熬得太晚
-I'm done with you 我们就此一刀两断
+==I'm done with you 我们就此一刀两断==
 you promised me 你答应过我的
-I'm crazy about you我为你痴狂 
-I think about you all the time我无时无刻不在想你
+I'm crazy about you我为你痴狂
+==I think about you all the time我无时无刻不在想你==
 you complete me你完整了我的人生
 break even 不赚不赔
 that's all that matters这才是最重要的
 my life sucks我的生活糟糕透了
 I've moveded on 我已经彻底放下了
 I despise you 我看不起你
-I feel the same way 我也是这么认为的
+==I feel the same way 我也是这么认为的==
 blessing in disguise塞翁失马焉知非福, 碎碎平安
 	it's blessing in disguise塞翁失马焉知非福
 
 what a baby 简直太幼稚了
-it will all blow over 一切都会烟消云散的
+==it will all blow over 一切都会烟消云散的==
 don't take it out on me不要拿我当出气筒
 driving me nuts快把我逼疯了
 	it's driving me nuts
@@ -102,39 +109,222 @@ it's raining cats and dogs 倾盆大雨
 showed one's true colors 原形毕露
 	she showed her true colors
 
+you are up late 你这么晚还没睡
+where did you go 你去哪了
+what do you want from me 你想要从我这里得到些什么
+don't push your luck 不要得寸进尺
+I told you so 我提醒过你
+I have no clue 我毫无头绪
+what am I supposed to do 我该怎么做
+==let it be顺其自然
+let nature take its course 顺其自然
+go with the flow顺其自然==
+tomorrow is another day 明天有事崭新的一天
+nighty night 晚安
+
+
+less is more 少即是多
+out of sight out of mind 眼不见为净
+keep a low profile保持低调
+you have nothing to fear 你无所畏惧
+out with the old in with the new 旧的不去新的不来
+it's just a matter of time只是时间问题
+good things happen to good people好人有好报
+
+
+
+got a second 有空吗
+it's my day off 今天我休息
+it's my treat 今天我请客
+I kid you not我没跟你开玩笑
+I'm good to go 我准备好了
+I'm all set我都准备好了
+I'm on my way我马上就到了
+catch you later待会见
+have a great/good/nice day 祝你拥有美妙的一天
+have a good one祝你过得愉快
+
+
+
+how's everything 一切都还顺利吗
+so far so good 目前一切顺利
+
+it's go time是时候了/该出发了/该开始了
+cut to the chase长话短说
+I'm all ears 我洗耳恭听
+it's a long shot机会渺茫
+no turning back 无路可退
+	there's no turning back没有回头路了
+follow your heart 追随你的内心
+give it a go试一试
+it's not a big deal 没什么大不了的
+best day ever最美好的一天
+
+
+how's your day going 今天过得怎样
+right as rain一切顺利
+that's pretty cool 那也太酷了吧
+believe in yourself 相信你自己
+you are the best你是最棒的
+you deserve better你值得更好的
+don't be so hard on yourself 别对自己太苛刻了
+don't blame yourself不要自责
+
+
+
+how did it go?事情进展如何
+easier said than done说起来容易做起来难
+don't patronize me 不要敷衍我
+try harder 再努力点
+get over it克服它
+take your time 慢慢来
+step by step一步一步来
+evrything will be fine一切都会变好的
+thanks for asking谢谢关心
+
+better safe than sorry 小心驶得万年船, 宁可事先谨慎有余,不要事后追悔莫及
+get ahold of yourself 控制住你自己, 冷静
+	get ahold of sb 联系上某人
+	get ahold of sth 得到某物
+get over yourself 别自以为是了
+first things first 重要的事先做
+I second that我同意
+
+
+what's done is done木已成舟
+the clock is ticking时间紧迫
+I gotta go我得走了
+let's get down to business 让我们言归正传
+goes without saying 不言而喻,理所当然
+	I'll help you. That goes without saying 
+	it goes without saying that ....
+
+
+we go way back我们认识很久了, 我们是老相识
+it would mean a lot to me那对我很重要
+it doesn't matter没关系
+
+without furthur ado废话不多说, 言归正传
+you are my priority你是我最在乎的人
+a match made in heaven天生是一对
+	they are a match made in heaven他们是天作之合
+believe it or not信不信由你
+fine by me好吧 我没意见
+
+take out the garbage 把垃圾拿出去  扔垃圾
+	don't forget to take out the garbage别忘了扔垃圾呀
+
+I got you back 我支持你
+I'm on your side 我支持你
+we are on the same page 我们意见一致
+I couldn't agree more 我非常同意
+I second that  我同意
+fine by me 我没意见
+it's up to you 听你的
+you are the boss 听你的
+it's your call 你说了算
+I'm all yours 我全听你的
+as long as you're happy只要你开心就好
+
+
+you are so smart
+you are so beautiful
+you are so awesome你太棒了
+that sounds great听起来棒极了
+
+it's all gonna be okay 一切都会变好的
+
+you only live once(YOLO)你只活一次
+look on the bright side 多往好处看看
+I'm not afraid 我无所畏惧
 
 
 
 
+how's everything 最近怎么样,一切都还顺利吗
+how's your day going 今天过得怎样
+how did it go?事情进展如何
+same old same old还是老样子
+how have you been 最近过得怎么样 how v u bin
+so far so good 目前一切顺利
+right as rain 一切顺利
 
 
 
+have a good/nice day祝你今天愉快
+have a good one 祝你愉快
+see you around 后会有期
+
+
+hang in there 坚持下去
+get over it 克服
+down to earth脚踏实地
+	should be down to earth
+step by step一步一步来
+go for it 去争取吧
+it's all gonna be okay 一切都会变好的
+follow your heart 追随自己的内心
+
+
+you did me a solid你帮了我一个大忙
+the writing is on the wall 不祥之兆
+
+
+winner takes all 大赢家, 胜者为王
+winner take all(约定俗成, 就这样说,固定搭配)
 
 
 
+make the world a better place让世界变得更好
+world peace世界和平
+
+
+allow me 让我来吧
+bring it on放马过来
+cards on the table 摊牌了 话已挑明了
+every now and then 时不时地
+a little under the weather有点不舒服
+	I am now a little under the weather
+
+what the hell is going on 到底发生了什么事
 
 
 
+don't overthink it 别想太多
 
+keep me company陪陪我
+don't make a fuss不要大惊小怪
+much ado about nothing 小题大做
+	It was all much ado about nothing
+needless to say 不用说
+	the problem, needless to say, is the cost involved
+day in day out日复一日
 
+give me a second等我一会儿
+just browsing随便看看
+what the hell is wrong with you 你到底怎么了
+unbelievable 难以置信
+incredible不可思议
+I'm gonna take a nap 我要去打个盹
+it's up to me 听我的
 
+don't get me wrong别误会我
+go easy on me请对我好点,手下留情
+I don't give a damn我才不屑,我才不在乎呢
+	I don't give a damn what she thinks
 
+best day of my life 我人生中最美好的一天
+nice going干得漂亮
+no laughing matter 正经事 不是闹着玩的
+	this is no laughing matter
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+absolutely绝对地 强调真实无误
+the best is yet to come最好的还没来
+you are a genius你就是个天才
+don't mess with me 别惹我
+it's time to eat吃饭时间到了
+I miss you so much 我太想你了
+whatever 无所谓
+go berserk发飙
+	sb will go berserk
 
