@@ -328,3 +328,62 @@ whatever 无所谓
 go berserk发飙
 	sb will go berserk
 
+first choice 不二之选
+	you are my first choice你是我的不二之选
+a bed of roses安乐窝
+	this is like a bed of roses
+
+I am waiting 爱慕未停
+	I am waiting sb to call me back
+kick the bucket 死了
+	someone should benefit when you kick the bucket
+	when did he kick the bucket
+burns me up气死我了
+	that guy burns me up
+	that really burns me up
+bluffing虚张声势
+	he is bluffing
+once in a blue moon 千载难逢 很少发生的事
+	-how often do you drink beer?
+	-once in a blue moon
+in vain 徒劳无功
+	he died in vain白白地死了
+	she tried in vain 她的努力全徒劳
+face the music面对现实吧  承担自己行为的后果
+face the truth 面对现实吧
+	time to face the music
+	stay, face the music 按兵不动,面对现实
+make a fresh start 迎接崭新的开始
+
+wet blanket真扫兴啊
+	you are such a wet blanket
+	a real wet blanket
+fight tooth and nail 全力以赴/不留余力
+	you fight tooth an nail for everything you want
+May-December老少恋
+	you two are May-December 
+	May-December relationship
+	May-December romance
+	May-December marriage 老夫少妻婚姻
+
+rob Peter to pay Paul拆东墙补西墙
+	every day I'm robbing Peter to pay Paul
+	it's like robbing Peter to pay Paul
+
+apples and oranges风马牛不相及, 毫不相关
+	totally unfair to compare the two完全不能相提并论
+I take full responsibility我负全责
+	I take full responsiblity for this action
+
+nothing can be done什么也做不了
+fair enough 有道理,说得对,感情好
+	if you don't want to come, fair enough, but let Bill know.你要是不想来,可以,不过要让比尔知道
+say yes答应吧
+keep it up 坚持下去
+hang in there 坚持下去
+no one knows 没人知道
+make up your mind做个决定吧 下定决心
+girl power咱们姐妹有力量
+
+
+
