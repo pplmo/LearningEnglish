@@ -167,16 +167,16 @@ that's pretty cool 那也太酷了吧
 believe in yourself 相信你自己
 you are the best你是最棒的
 you deserve better你值得更好的
-don't be so hard on yourself 别对自己太苛刻了
+==don't be so hard on yourself 别对自己太苛刻了==
 don't blame yourself不要自责
 
 
 
-how did it go?事情进展如何
+==how did it go?事情进展如何==
 easier said than done说起来容易做起来难
 don't patronize me 不要敷衍我
 try harder 再努力点
-get over it克服它
+==get over it克服它==
 take your time 慢慢来
 step by step一步一步来
 evrything will be fine一切都会变好的
@@ -194,8 +194,8 @@ I second that我同意
 what's done is done木已成舟
 the clock is ticking时间紧迫
 I gotta go我得走了
-let's get down to business 让我们言归正传
-goes without saying 不言而喻,理所当然
+==let's get down to business 让我们言归正传
+goes without saying 不言而喻,理所当然==
 	I'll help you. That goes without saying 
 	it goes without saying that ....
 
@@ -204,7 +204,7 @@ we go way back我们认识很久了, 我们是老相识
 it would mean a lot to me那对我很重要
 it doesn't matter没关系
 
-without furthur ado废话不多说, 言归正传
+==without furthur ado废话不多说, 言归正传==
 you are my priority你是我最在乎的人
 a match made in heaven天生是一对
 	they are a match made in heaven他们是天作之合
@@ -338,7 +338,7 @@ I am waiting 爱慕未停
 kick the bucket 死了
 	someone should benefit when you kick the bucket
 	when did he kick the bucket
-burns me up气死我了
+==burns me up气死我了==
 	that guy burns me up
 	that really burns me up
 bluffing虚张声势
@@ -386,4 +386,105 @@ make up your mind做个决定吧 下定决心
 girl power咱们姐妹有力量
 
 
+would you like to see? 你想看看嘛?
+carpe diem 及时行乐
+I don't know what came over me我也不知道我中了什么邪/我不知道我哪根筋不对
+bob's your uncle就是这么简单
+are you out of your mind你脑子有毛病嘛?
+charmed 幸会,幸会
+that's settled then 那就这么定了
+shut your pie hole 闭上你的乌鸦嘴, 闭上你的臭嘴
+if you say so如果你说是就是吧
+I see your point 我明白你的意思
+be there or be square 不见不散
+tie the knot喜结连理
+	please come to our wedding, help us tie the knot
+take life as it comes 随遇而安
+	you learn to take life as it comes at you 随遇而安, 接受生活
+rings a bell? 有印象吗? 听起来很耳熟是吗?
+sound familiar? 有印象吗? 听起来很耳熟是吗?
+knowledge is power知识就是力量
+I am in your debt 我欠你一个人情
+I owe you one 我欠你一个人情
+onward and upward 勇往直前,全力以赴
+complimentary免费的
+	it's complimentary
+every man has his price天生我材必有用
+time and tide wait for no man 岁月不饶人
+	time and tide wait for no man, not even you
+mouth-watering 垂涎欲滴的 真美味
+	it's so mouth-watering
+yummy
+tighten our belts 节省开支
+plenty of fish in the sea 天涯何处无芳草
+	there's plenty of fish in the sea
+bad news travels fast坏事传千里
+it's now or never 机不可失,时不再来
+business as usual 一切照旧
+bad temper坏脾气
+	because of his bad temper
+	he's got a bad temper他脾气很不好
+still waters run deep 静水流深
+you make me want to be a better man 你让我想成为更出色的人
+wear lipstick涂口红
+I just want you to be happy 我只想要你开心
+pleased to make your acquaintance与你相见,三生有幸
+to love and to cherish珍惜眼前人
+I am in love with you 我彻底爱上你了
+I am speechless我无语了  我无话可说
+a little tipsy微醺
+	I am a little tipsy
+why the long face 为什么耷拉个脸
+give me a break 饶了我吧
+don't take it personally 别往心里去
 
+great minds think alike 英雄所见略同
+shame on you真不要脸
+god help those help themselves自助者天助
+bestie好闺蜜/好兄弟
+Rome wasn't built in a day 冰冻三尺非一日之寒
+I want to be with you 我想和你在一起
+where there's a will there is a way 有志者事竟成
+
+ageless 冻龄
+	she is ageless, like a unicorn
+every little bit helps 积少成多
+hold your horses沉住气
+a bolt from the blue 晴天霹雳
+	like a bolt from the blue
+got a dilemma左右为难
+	sounds like you've got a dilemma左右为难
+	I've got a dilemma
+you're on your own 靠你自己了
+turn over a new leaf 改过自新/就是翻篇
+	I have decided to turn over a new leaf
+
+go up in smoke一切化为乌有
+	all these buildings will go up in smoke 
+every clound has silver lining  天无绝人之路
+	I decided every clound has a silver lining
+
+pinky swear拉钩钩
+bright future前程似锦
+	you have a bright future
+
+catch a chill 着凉了
+catch a cold 着凉了
+out on a limb孤立无援/置于险境
+	she may be going to far out on a limb太孤立无援了
+hit it off 一拍即合
+	we hit it off
+scapegoat替罪羊
+apple of my eye我的心肝宝贝
+	you are the apple of my eye
+pass the buck甩锅/推卸责任
+	that's kind of passing the buck
+	never passing the buck
+clothes nake the man人靠衣装
+	people say clothes make the man
+cheat on 出轨
+	I cheat on you我出轨了
+save the day 力挽狂澜, 挽回局面
+	Amy saves the day
+
+cheap shot暗箭伤人
