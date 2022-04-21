@@ -488,3 +488,103 @@ save the day 力挽狂澜, 挽回局面
 	Amy saves the day
 
 cheap shot暗箭伤人
+	that was cheap shot
+just a hunch 直觉而已
+sarcastic comments风凉话/冷嘲热讽
+	I don't notice all those sarcastic comments and those eye rolls
+
+ taste of your own medicine 以其人之道还治其人之身
+	let's see how you like a taste of your own medicine
+	I'm giving you a taste of your own medicine
+
+unfriend 删除好友
+	I'm just gonna unfriend him and pretend it never happened
+	you unfriend me?
+beyond all hope遥遥无期
+	when I was beyond all hope of saving当救助无望时
+	beyond all hope of return回家的路途遥遥无期
+you have a good taste你真有品味
+	you obviously have a good taste
+sour grapes吃不到葡萄说葡萄酸
+	sour grapes is one thing吃不到葡萄说葡萄酸是一回事
+	maybe it was sour grapes, but ....
+
+take a rain check下次再约
+	let's take a rain check, I got a really busy day.
+	something came up, let's take a rain check
+pros and cons 利与弊
+hustle and bustle 熙熙攘攘
+	I love the hustle and bustle
+give or take 大约 差不多
+	seven years, give or take 
+bury the hatchet 冰释前嫌
+two heads are better than one  两个臭皮匠顶个诸葛亮
+between a rock and a hard place 进退两难
+	she was between a rock and a hard place 
+	she was caught between a rock and a hard place
+
+good luck with that 等着看你的好戏
+a fly in the ointment一颗老鼠屎坏了一锅汤
+	this is a fly in the ointment
+a drop in the bucket九牛一毛
+	It was a drop in the bucket
+tip of the Iceberg 冰山一角
+	it's tip of iceberg
+take a hike 哪凉快哪待着去
+pull an all-nighter通宵学习
+	I pulled an all-nighter
+	pull an all-nighter on this thing彻夜研究下这个东西
+
+feast your eyes大饱眼福
+thumbs-up 点赞
+	I got a thumbs-up
+wide of the mark离谱
+	is wide of the mark
+I have diarrhea我拉肚子了
+on pins and needles坐如针毡/坐立不安
+	I'm on pins and needles
+chicken thighs大鸡腿
+do laundry洗衣服
+pissed off生气
+why are you single 你为什么还单身
+tied up忙得不可开交
+	he is tied up
+needle in a haystack大海捞针
+	it's like looking for a needle in a haystack
+go down in flames 光明前途毁于一旦
+	he's gonna go down in flames
+twenty-something二十多岁
+	you could be twenty-something
+	what about twenty-something Donna
+	twenty-something-year-old Jane
+walls have ears隔墙有耳
+	the walls have ears
+fall through 泡汤了
+	your offer falls through
+
+childhood sweetheart青梅竹马
+	we were childhood sweetheart
+money talks 有钱能使鬼推磨
+	money talks, always
+you're impossible你真不可救药
+what were you thinking? 你脑子进水了吗? 你想什么呢
+don't tell me what to do别对我指手画脚
+use your head动动脑子
+you're killing me 你气死我了
+me neither我也不
+do you have a reservation? 你有预约吗?
+taco Tuesday周二墨西哥玉米饼
+I have heard so much about you 久仰大名IHHSMAY
+
+
+
+
+
+
+
+
+
+
+
+
+
