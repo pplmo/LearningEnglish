@@ -195,11 +195,6 @@
 
 
 
-
-
-
-
-
 ​	
 
 ## 十四. 化妆
@@ -447,25 +442,449 @@
    
 
 
-
-   
-
-
-
-   
-
-  
-
-   
-
-
-
-
-
-
-
-
-
 “Those who bring sunshine into the lives of others, cannot keep it from themselves.” 「将阳光带进别人生命里的人，无法将阳光隔绝在自己生命之外。」– 詹姆斯‧巴利 (作家)
 
 *You can't blend in when you were born to stand out.你天生与众不同，注定不会淹没在人群中。*
+
+
+
+
+## 三十. 友情
+I've moved about 20 times in my life. And each time that I move to a new neighborhood, a new city, a new country, 
+在我人生中,我搬了大概20次家.每当我搬进一个新的邻里,新的城市,新的国家.
+it seems to get harder and harder to sustain the friendship I left behind. 
+我发现维持一段友谊,越来越难.
+But right now, sustaining those friendships seems especially important and especially difficult.
+可是现在,维持那些友谊似乎特别重要
+So I'm wondering what is manageable?
+所以我在想,有什么可以做的?
+how can I keep those friendships afloat without getting overwhelmed? 
+我该如何维持友情又不会过度刻意?
+to find out, T turned to my two most trusted sources: data and my mum.
+为了一探究竟,我找到了两个我最信任的资源:数据和我的妈妈
+Now, since she hates being in camera, this puppet is going to be as good as it gets.
+由于我妈妈不喜欢在镜头前,就把这个玩偶当做是她吧.
+But before she weighs in, I wanted to look at the studies on how friendships fall apart in 
+the hopes that I might be able to avoid some of those pitfalls.
+可是提起她之前,我想看看研究显示友情是怎么破裂的,以防我以后会陷入这些困境中
+
+according to one study, friendships often dissolve because of a lack of opportunity to meet, hang out and connect.
+一项研究显示大多数的友谊会解体是因为缺少机会去见面,聚会与联系.
+which may explain why, after a year of isolation, some of my friendships feel like they're hanging on by a thread.
+这就可以解释为什么一年间的独来独往,有些友谊就像是挂在悬崖边一样.
+
+the same researcher made headlines with the finding that we lose half of our friendships every seven years.
+同样的研究也整理出了头条, 每隔七年我们会失去一半的友谊.
+
+Now, before you start doomscrolling through your contact list, you should know that's not quite as
+severe as it sounds
+在你想要狂刷你的通讯录之前,你要知道,这也不是想象中那么严重.
+
+over those seven years, the size of our friendship group actually stays pretty stable.
+在那七年里,我们的朋友圈其实也蛮稳定的.
+
+So if you have 20 or 30 good friends now, seven years later, you still probably have 20 or 30 good friends.
+假设现在你有20到30的好朋友,七年后,你还是会有20到30年的好朋友,七年后,你还是会有20到30的朋友.
+
+The catch, though, is that 52 percent of those faces will be different.
+不一样的是当着有52%的脸孔会是不一样的
+
+Over seven years, we will replace many of the people in our network with new ones.
+在过去的七年里,我们将用新人替换我们网络中的许多人
+
+As someone who has had to work more and more from home, the opportunity to go out and make new friends is pretty 
+limited.
+作为一个不得不越来越多滴在家工作的人, 出去结交新朋友的机会非常有限
+
+it's a luxury I don't often have.
+这是我没有的一种奢望
+
+And the research on the formation of new friends suggest that this takes time. A lot of time.
+研究显示在建立一段新的友谊需要时间的,很多的时间
+
+A recent study found that you have to spend between 40 and 60 hours with someone before they can go from 
+an acquaintance to casual friend.
+在近期的研究发现,你必须和另一个人相处40到60小时后,才能从相识到普通朋友.
+
+
+They get upgraded to a fully fledged friend around 80 to 100 hours, and get elevated to a best friend after you spend at least 200 hours of quality time together.
+他们会升华至完全熟悉的朋友,需要大概80到100个小时, 而要升级成最好的朋友,需要花至少200个小时的时间相处
+
+And the emphasis here is on quality time.
+而其中的重点在于相处时间.
+
+You might say 'hi' to a barista every morning or be polite to a coworker, but you 
+wouldn't necessarily invite either one over for dinner.
+你也许每天早上会对一位咖啡师说"你好", 或者礼貌对待同事, 但你未必会邀请他们去你家共进晚餐
+
+I was feeling a little bit daunted by all of these numbers until I spoke to my mum,  who has a more optimistic
+take on all of this.
+我开始对这些数目望而却步, 直到我告诉了妈妈, 她对这一方面比较乐观
+
+A friendship is essential in your life. 
+友情在你的人生当中固然重要
+
+How dose friendship start?
+友情是怎么滋生的
+
+The first thing is to know that person.
+首先你要了解那个人
+
+If you don't want to know these people, if you don't open a window of communication, you will never become friends 
+of them.
+如果你不想要了解那些人,如果你不打开沟通之窗, 你无法成为他们的朋友的.
+
+you have to start.
+你需要先开始
+
+If you want to be isolated, you just shut your windows and look at them, and they don't look at you.
+如果你喜欢独处,你就把窗口关上, 静静看着他们, 他们是不会看到你的
+
+OK, so yes, if I really, really want to make a new friendship, I could go out and make the effort to make
+a new friend by, say, knocking on my kneighbor's door, who plays really good music a bit too loudly
+好,如果我非常非常想要一段新的友谊,我可以出门然后尝试去交朋友,比如悄悄我邻居的门,就是那个玩音乐很棒却又优点大声的那位
+
+But what about my current group of friends?
+不过我现在的那些朋友呢?
+
+Are we all doomed just because we don't get the chance to hang out like we used to?
+是不是就只能这样了,仅仅因为我们都没有机会像以前一样常常聚在一起?
+
+I think yes, with the friends, the distance gets furthur and further if you are not meeting them.
+我想是吧, 和那些朋友,那距离只会越来越远,如果你不再和他们相见
+
+But it also shows you the ones that don't disappear because of the time or the distance.They will be there for you if you need them.
+但这也会让你看到那些不会因为时间和距离而消散的朋友. 他们会在你需要的时候会一直在的
+
+So the special friends. And his difficult time shows you who cares and who is good person or a good friend.
+所以特别的朋友,这段困苦的日子会让人知道谁是在乎你的,谁才是好人或者一个好朋友.
+
+I think she's right. I don't think there's a magical formula or a mythical number of hours to chase.
+我认为她是对的,我不认为有一个神奇的公式或者神话般的数小时数可以追逐
+
+This just takes time and effort. 
+这需要时间和精力.
+
+So if you'll excuse me, I have a good friend that I need to call.
+所以恕我冒昧, 我有个好朋友需要去通话.
+
+
+*******************************************************
+I must say, this is my first time in Taiwan. Actually, my fist in Asia.
+这是我第一次到台湾, 事实上事务第一次到亚洲来.
+I've only been here for two days, but thank you for your invitation.It's my 
+pleasuer to be here. 
+我到这里才两天, 不过,谢谢你们的邀请,我很荣幸来到这里.
+
+Before I speak, I've got something important to say. This is Ted, so they told me, to be
+very brief and to the point, concise.
+开始之前我得先讲件重要的事,他们说这是ted,必须简洁有力.
+
+I come from a conference that was held in Doha, Qatar. 
+我刚从卡达的多哈会议回来
+
+At the international education resources network summit, one of the most important
+conference in the world about education. 
+关于国际教育资源网络的会议, 是全球关于教育最重要的会议之一.
+
+And I've done in a couple of other times.
+我之前已经参加过很多次了.
+
+So right, Successful running around the world, everything was laid ouot for me?
+所以说,像这样,踏遍世界名地,我好像一开始就得天独厚.
+
+Not, I come from a small village in the north of Italy. 
+但其实并不是这样,我来自北意大利的小村庄.
+
+From a lower middle class family, actually to be perfectly honest, to European standard, pretty poor family.
+我的家庭属于中下阶层,其实以欧洲的标准来说是蛮穷的家庭
+
+and if I look back in my past, I realize that very few would bet on me.
+回首过去的我,看起来将来似乎不太会成功
+
+I was, you know, one of the losers, I was kind of a nerd.
+我以前是所谓的失败者,算是个书呆子
+
+And proud of it, it was fun, still I am.
+而且当时我很以此为傲,现在仍是
+
+But I mean, the school environment was really tough. You have to fight your way out.
+我要说的是当时的学校环境很糟糕,你必须去打斗
+
+When I stay fight, I don't mean in the metaphorical term. I mean, literally, fight.
+我说打斗不是譬喻,是真的要"打"
+
+And as you can tell, it is me, right there, the tough looking one that.
+你可以看到这张照片,我在这里,看起来最凶猛的那个.
+
+I was clearly the strongest and the biggest of the whole bunch. 
+我是那群最强壮最大只的一位.
+
+When I was 14, I had to decide the high school to attend.
+我十四岁那年得决定去哪所高中.
+
+And my teacher, he said to my mom, "Ms...I'm sorry, but your son is
+not one of the smart kids,
+那时我的老师告诉我妈妈:"很抱歉,你儿子不是个聪明的孩子"
+
+He's, you know, kind of stupid, he was asking weired questions.
+他优点驽钝,他老是问些奇怪的问题.
+
+You should just send him to work. You know, don't bother send him to school. 
+你该让他直接去工作,不要让他继续读书了
+
+Certainly don't send him to Ginnasio, the toughest school in the country."
+尤其不需要送他去Ginnasio,那些是全国竞争最激烈的学校.
+
+I mean, ever so my parents have been obviously the awesome parents they are. 
+不过显然我的爸妈是很棒的父母
+They didn't listen the piles of nonsense. And they send me precisely to the school
+that they said I'll never be able to make it
+他们根本不听那些胡诌的话,他们就把我送去那其他人认为我绝对无法去的学校
+
+And two years later, I was given a chance, I won a full scholarship for a very 
+prestigious school.
+两年后我得到个机会,一间非常有名的大学给了我一笔全额奖学金
+
+In the north of Italy, closely to Slovenia, it's called United World College.
+学校是在北意大利,叫做联合世界书院
+
+its mission was to make education a force to unite people, nations 
+and cultures for peace and a sustainable future.
+学校的愿景是让教育称为整合人民,国家,文化的力量, 以卖相和平和永续的未来
+
+Just like my previous school, same thing. 
+这个愿景和我之前的学校一样
+
+But this is my turning point. 
+但这是我人生的转折点
+
+In taht school I had amazing teachers. They were the best.
+在那所学校, 我有最棒的老师
+
+Because more than just teachers, they were mentors.
+不止是知识传授者,他们还是心灵导师.
+
+They were guides, and they were friends.
+他们引导了我,也是我的好朋友.
+
+they told us that we could be everything we wanted. We could do 
+anything in our lives.
+他们说我们可以称为任何想成为的人,我们可以完成任何想做的事.
+
+if we believe we can do it, if we had a plan and if we acted on it right,
+and making peace on earth was not a hippie dream, it could have been a reality.
+只要我们相信做得到,只要我们有计划,只要我们去实践,即使世界和平也不是嬉皮士的梦想, 它可以实现.
+
+So that gave me the vision and the strength to take on many challenges that have gone
+through my life.
+这拓展了我的视野,也赐予我力量,接受人生中的各种挑战.
+
+It brought me where I am today.
+让我得以成为现在的我.
+
+if I'd listened to my teacher back in my previous school, I 
+am probably sweeping the floor of the school by now.
+如果我听从我以前一所学校老师的话, 我现在大概在替学校扫地.
+
+But how many kids didn't have this opportunity?
+但是有多少孩子没有这种机会
+
+It's nice to say the success story of one guy.
+讲一个成功者的故事当然很好.
+
+how many people are stuck in the small town with uninspired teachers, violent classmates and
+no hope on the horizon.
+但有多少人呗局限在小村庄,只有无法鼓励他们的老师和暴力的同学,眼前毫无希望.
+
+In the past of couples of years, I traveled extensively in many countries, many continents, schools, 
+universities fortune 500 companies. 
+过去几年我到了很多国家,跨州拜访了很多学校,大学,全球500强公司.
+
+And I can tell you that my story actually is not my story.
+我告诉你,其实刚刚说的不是我的故事.
+
+it's maybe your story, it's story of thousands of people that I spoke to individually.
+它可能是你的故事,是上千位听我演讲的人的故事
+
+they came up to me and said, "I have the same thing, thank you."
+这些听众跑过来跟我说,"我也有同样的遭遇,谢谢你"
+
+And these are just the ones I spoke to in person. It's probably millions of people
+or hundreds of millions people.
+而这些只是来听过我演讲的人, 全球可能有几百万人,甚至几千万人都有同样的遭遇
+
+This is a tragedy, right? Why is this happening?
+这是场悲剧,那为什么这会发生?
+
+And many people ask the question, are we preparing children for the uncertain future
+that lies ahead?
+很多人问,面对充满不确定性的未来,我们替孩子准备好了吗?
+
+But before we can answer this question, I think we first must address two very important
+issues.
+不过回答这个问题前,首先有两个非常重要的议题要探讨.
+
+the first is do we even know what we are looking for?
+第一是, 我们真的知道我们要什么吗?
+
+What's the purpose? What is education for?
+教育的目的, 应该是什么?
+
+Because if we don't agree what education is for, then we can never say we're doing a good
+or a poor job.
+因为如果我们对教育的目的没有共识,那我们就不能说目前的教育方式是对是错.
+
+I am going to tell you what education was for.
+让我来告诉你教育原本的目的是什么.
+
+Education was created for making factory workers. See at the end of 18th century,
+industrialization has the problem.
+教育原本是为了培养工厂的劳工, 工业在十八世纪末,面临一个问题:
+
+They really had a hard time convincing people to leave the open fields and come to work at a
+factory with dark rooms, 10~12 hour a day, repeating the same monotonous mindless task, over 
+and over, obeying every order without ever questioning anything and never complain about it.
+他们找不到人愿意到工厂上班,工厂里都是黑暗的房间,还要每天重复10~12小时乏味的工作,不需思考,只需一直做,
+听从命令,不能抱怨或质疑.
+
+I mean you can see why they had trouble finding volunteers. I'm sure you
+have seen the historical reenactment by Mr.Chaplin.
+你就知道为什么工厂找不到人了,透过卓别林的影片
+
+So they created something called public educations and placed you at where you are strictly 
+seperated by a year, where you have to follow orders, never question authority and do just
+what you're told.
+所以公立教育才成立,公立教育用年龄把人区分, 在那里必须遵守命令,绝不可以挑战权威,只做你被告知的事情.
+
+Sit down and shut up until you're told, otherwise just obey orders.
+坐下与闭嘴,除非叫你做别的,必须完全服从命令.
+
+We spent the first three years of our lives learning how to walk and talk, 
+kind of useful skills I would say, and for the rest we're told sit down and 
+shut up.
+我们在生命中的头三年学习走路,说话,或者说所谓"有用"的技能,之后我们只能坐下与闭嘴.
+
+And yeah that sounds like a great idea. I'm gonna do that.
+这听起来实在是很好的主意,我很乐意这样做.
+
+Just follow as exactly as instructed, never question authority.
+只需要遵守指示,绝不挑战权威
+
+I remember in the elementary school, one day the teacher told us,
+"now children, whatever I ask, I want all of you to answer at once, understood?"
+我记得小学的时候, 有一次老师跟我们说:"孩子们, 现在不管我问什么,你们都要一起讲答案,懂了吗?"
+
+"Ok, So how much is six times four?"
+好, 6乘以4等于多少?
+
+And we all said "at once!"
+
+See, for the purpose that we set out for two hundred years ago, the education system is doing 
+fine.
+如果我们追求的是两百多年前的教育目标,那现在的教育体系算是很好了
+
+In fact, it's working perfectly, creating obedient workers.
+事实上,目前的方式很适合, 创造乖顺的劳工
+
+The trouble is, this approach is no longer useful.
+但问题是, 这种方式已经不适用了
+
+It was never humane to begin with, but it was economically advantageous.
+它一开始就不人性化,只是为了帮助当时的经济
+
+And now, it's neither. ==So are we preparing children for the uncertain future that lies ahead?==
+可是现在, 连经济都帮不上.所以目前的教育体系能教导孩子如何面对未来吗?
+
+The second problem is this: no matter the supposed expert would like to tell you Believe me, there 
+are many of them, 
+第二个议题是, 无论那些所谓的专家告诉你什么, 我相信有很多.
+
+Nobody really knows what the future is going to look like five years from now,
+但事实上,没有人知道五年后会变成怎样,
+
+and let alone ten or twenty years, which is, when a child who's now in kindergarten will graduate
+and will have to find a job.    
+更别说十年二十年,幼儿园的孩子二十年后毕业找工作.
+
+What about the rest? What about the hundreds of millions of people who are working today and 
+who could be out of job,
+其余的呢?更别提上亿正在工作的人可能会失业,
+
+because they are displaced by robotics and artificial intelligience five, ten or twenty years
+from now.
+因为从现在起5年,10年或20年后,他们将被机器人和人工智能所取代
+
+I hear that some guy wrote a book about that robots will steal your job.
+我听过有人写了一本书,叫机器人会偷走你的工作.
+
+You can read for free at the PirateBay. It's illegal. It's creative, commons open knowledge.
+你可以在PirateBay上免费阅读,这是不合法的.它是创造性的,共同开放的知识.
+
+So we only know one thing for certain that the only constant is change.
+总而言之,我们确定的只有一件事,只有"改变"是永恒不变的
+
+After all, Entropy is not what used to be. Change will always come and most likely at an increasing pace.
+毕竟熵的意义和以前也不一样,改变总会到来,而且极可能会越来越快.
+
+With this in mind, I think we must do three things.
+知道这个观念后, 我认为我们必须做三件事.
+
+The first, we must prepare to accept change, instead of fighting it.
+首先,我们必须接受改变而不是抗拒它,
+
+I've been afraid of changes many times. I didn't want to change school, I
+didn't want to change jobs.
+我以前常畏惧改变, 我不想换学校和工作
+
+Let me tell you, whenever I was afraid to do something, I didn't want to change.
+告诉你,当我害怕做某件事时, 我都不想改变,
+
+Those are by far the most depressing moments of my life. Being afraid is not nice. It's
+paralyzing.
+然而那些时候却是我人生中最低潮的时刻,害怕改变并不好,它使人无法向前,
+
+Because when you are afraid, you're afraid to fail.
+因为你害怕就意味着你害怕失败.
+
+You're afraid that, yeah, I would not make it to that school, I would not win
+the scholarship, I would not be able to change up and find something else you 
+know.
+你害怕没进那所学校,害怕不能得到奖学金,害怕不能够找到更好的方案
+
+They were right. I was stupid I couldn't learn.
+他们是对的,我不够聪明我学不懂
+
+It's a downward spiral.
+这是恶性循环,像无底洞一样.
+
+We live in a society that stigmatizes mistakes. We've been living in
+where failure is not an option. 
+我们这个社会把错误污名化,我们一直生活在不能选择失败的地方,
+
+And that we should play safe. Study something that will get you a safe job.
+Work for a big company, look for stability.
+因此我们总是寻求安全的路,读热门科系才能找到工作,进大企业工作以寻求稳定
+
+But you see, in the future of great uncertainty. Stability is the illusion of 
+the unimaginative.
+但是我们都知道,未来充满不确定性,稳定根本是假象.
+
+Lifelong, I think we must move away from the idea that teaching is for adults, and learning 
+is for kids. 
+第二点是终身学习,我们打破"成年人就是教导, 小孩就是学习"的思维
+
+Learning is a lifelong experience. And anybody can be a mentor, a teacher, or a friend to 
+someone wlse. Or a guide. 
+学习该是终身,而且任何人都能是心灵导师, 是传授知识的老师,朋友,或者是指导者
+
+
+
+
+
+
+
+
+
+
+
