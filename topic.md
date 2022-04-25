@@ -64,7 +64,118 @@
 ### (五)健身教练的必要性?
 ### (六)
 
-  
+what if I told you there was something that you can do right now that would have 
+an immediate, positive benefit for your brain including your mood and your focus?
+如果我告诉你有件事你马上去做的话就会对你的大脑, 包括情绪和专注力立刻产生积极作用?
+
+And what if I told you that the same thing could actually last a long time and protect
+your brain from different conditions like depression, Alzheimer's disease or dementia.
+Would you do it? Yes!
+如果我告诉你它可以长期维持并保护你的大脑免受抑郁, 老年痴呆或是失智症等不同病况的侵袭,你会愿意
+去做这件事吗? 愿意!
+
+I would talk about the powerful effects of physical activity.
+我所说的就是体育运动的强大效果
+
+Simply moving your body, has immediate, long-lasting and protective benefits for your brain.
+And that can last for the rest of your life. 
+简单地让你的身体动起来,就能够有对你的大脑产生即时的和长期的保护功效.而且可以持续一生的时间.
+
+Brain is the most complex structure known to humankind. 
+大脑是人类所知的最复杂的结构
+
+So there is a real preserved human brain. And it's going to illustrate two key areas that we are 
+going to talk about today.
+这有一个真实保存的人类大脑, 它会展示我们今天所要讨论的两个关键部分.
+
+The first is the prefrontal cortex, right behind your forehead, critical for things like decision-making,
+focus, attention and your personality.
+第一部分是前额皮层,就在你额头后面,对做决定,专注力,注意力及性格等至关重要.
+
+
+I encountered something that was so amazing, with the potential to change so many lives that I had to study it.
+我遇到了如此神奇的事情, 它可能会改变众多人的生命, 我必须要去研究它
+
+I did it in a completely inadvertent way. 
+而且是一种完全"无心插柳柳成荫"
+
+I didn't move my body at all. I had gained 25 pounds.
+我完全不运动,我已经长胖了25磅
+
+it took me many years to realize it, I was actually miserable.
+我花费了很多年才意识到这个问题. 我是糟糕的
+
+I had no social life.
+我没有朋友
+
+I said, I'm never going to feel like the weakest person on a river-rafting trip again.
+我再也不要这种感受,再也不要做一个漂流之中最弱的那个
+
+And that's what made me go to the gym. And I focused my type-A personality on going to all 
+exercise classes at the gym
+这个想法促使我走进了健身房,我的A型人格促使我尝试了健身房所有的运动.
+
+I tried everything. I went to kickbox, dance, yoga, step class, and at first it was really hard. 
+我尝试了一切, 我做了拳击训练,舞蹈,瑜伽,踏步教程, 开始的时候确实很难
+
+But what I noticed is that after every sweat-inducing workout that I tried, I had this great mood
+boost and this great energy boost.
+但我注意到每一次含税挥洒后, 我的情绪变得非常好,精力也很好
+
+And that's what kept me going back to the gym. Well, I started feeling stronger. I started feeling 
+better, I even lost that 25 pounds.
+那促使我一直不断走进健身房,然后我开始感受到自己变得强壮,我感受更好,甚至减掉了那25磅
+
+And now, fast-forward a year and a half into this regular exercise program and I noticed something 
+that really made me sit up and take notice.
+现在, 自我经常去参加运动后已经一年半过去了, 我注意到有些东西值得我坐下来记录.
+
+I was sitting at my desk, writting a research grant, and a thought went through my mind 
+that had never gone through my mind before.
+当时我正坐在桌旁,写着一份研究基金申请, 一个想法突然从脑海里冒出来, 此前我从未这样想过
+
+And that thought was, 'Gee, grant-writing is going well today.' 
+这个想法就是,"天哪,申请材料今天写得很顺利嘛"
+
+grant-writing never goes well. It is so hard; you're always pulling your hair out, trying to
+come up with that million-dollar-winning idea.
+基金申请写作从来都不好写,它太难了,你总是绞尽脑汁,试图想出能够赢得百万美金的想法.
+
+I was able to focus and maintain my attention for longer than I had before. 
+我能够专注,保持我的注意力比以前的时间更久.
+
+And my long-term memory, what I was studying in my own lab, seemed to be better in me. 
+And that's when I put it together. 
+我的长期记忆--就是我在实验室正在研究的东西, 显示也更好了. 从那时其我将他们联系在一起.
+
+Maybe all that exercise that I had included and added to my life was changing my brain.
+Maybe I did an experiment on myself without even knowing it. 
+或许我所有的运动都在改变我的大脑.或许我在自己没有意识的情况下,对我自己进行了一项实验.
+
+So as a curious neuroscientist, I went to the literature to see what I could find about 
+what we knew about the effects of exercise on the brain. 
+作为一个好奇的神经学家, 我去文献里查找现有已知的关于运动对于大脑的影响.
+
+And what I found was an exciting and a growing literature that was essentially showing everything 
+that I noticed in myself.
+我发现一项让人欣喜的且正在增长的文献记载,记载了几乎所有发生在我身上的事.
+
+Better mood, better energy, better memory, better attention.
+
+And the more I learned, the more I realized how powerful exercise was.
+我所了解越多, 我就越认识到运动的魅力.
+
+after several years of really focusing on this question, I've come to the following conclusion that 
+exercise is the most transformative thing that you can do for your brain today for the following 
+three reasons.
+经过几年对这个问题的专注研究,我得出了以下结论: 运动是当下你所能做的对大脑最好的最具有转化性的东西, 有以下三个原因.
+
+
+
+
+
+
+
 
 
 ## 四. 家乡
@@ -879,7 +990,67 @@ someone wlse. Or a guide.
 学习该是终身,而且任何人都能是心灵导师, 是传授知识的老师,朋友,或者是指导者
 
 
+In our strictly individualistic society, our personal success is imperative. 
+在这个极度个人主义的社会, 个人的成就成了必要.
 
+So we have standardized tests, we try to get the best grades at the best school, so we can get to the best 
+university and then we can get to best job, and outcompete everyone else, and be successful.
+所以我们有标准化的考试,我们试图考最高分, 进最好的学校,才可以考取到最好的大学, 争取到最好的工作,并打败他人并取得成功.
+
+But in a collaborative society, an accomplished individual is one that contribute the most,
+both of their personal development as well as that of their fellow human beings.
+但在一个合作的社会,成功的人应该是贡献最多的人, 包括个人成就和对群体的成就
+
+When I was at school, I remember that the way I learned best was not when the teacher was talking, was when
+one of my classmates would come up to me and say, "hey how? This is how you do it?"
+我在学校的时候, 我记得最好的学习方式并不是老师在说教的时候, 而是我同学过来问我说,"你是怎么做到的?"
+
+like in five minutes, we would solve something that in 2 hours of lesson that nobody understood, and I thought
+why can't we just get to that. 
+我们在五分钟内解决了在课堂上两个小时没人懂的问题.我想我们为何不能直接解决这个问题.
+
+Those 5 minutes of peer learning and when I was teaching someone else, I was really testing my ability of understanding and reciprocating that.
+用五分钟同龄人互相请教的方式学习,当我在教别人时,我也在考验我的理解程度以及表达能力.
+
+And also it was much more fun and engaging.
+而且教人真的很好玩.
+
+And we need time to experiment to make mistakes, to teach yourself,
+to teach others, maybe with interesting problems not, here's the vacuum.
+我们需要时间来实验, 来犯错,来教自己,来教别人,也许会有有趣的问题,这不是真空.
+
+Fun and challenging problems, and the process of discovery, just like they were saying "starve them, not stuff them." The speaker before me
+当你试着探索,有趣且具有挑战的问题, 就像之前的讲着说的,"让她们渴望知识, 而不是塞知识给他们."
+
+It's exactly right. Discovery. Learning is a process that happens when you're interested and engaged. Not when you're receiving.
+非常有道理,好的学习过程是会让人很快乐以及非常投入的,一直接受讯息不代表学习.
+
+This way, you foster an innate curiosity that is inside all of us.
+通过这种方式, 你培养起了一种内心与生俱来的好奇心.
+
+And finally I think we must develop a stronger culture of grit.
+最后,我认为我们必须培养一个有毅力的文化
+
+Grit means passion. It means perseverance. It means never giving up. The determination.
+毅力的意思是热忱,持续力,永不放弃,这种决心.
+
+So many people see my success story, and they wonder what's different about me.
+很多人看了我成功的故事,他们好奇我有什么不一样.
+
+Am I special? No. Do I come from a rich family?No. 
+我很特别吗? 不是,我 家很有钱吗?不是
+
+Am I some sort of genius? Nonsense, my teacher said that I was too stupid to learn.
+我是天才吗? 当然不是, 我的老师说我笨到无法学习
+
+So what's different?
+那到底哪里不一样?
+
+It's very simple, I had somebody who believe in me. And I never gave up. That's it!
+很简单, 有人相信我,而且我从不放弃, 就是这样!
+
+I can guarantee you from my personal experience. 
+我以我亲身经历, 向你保证.
 
 
 

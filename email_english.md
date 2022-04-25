@@ -576,6 +576,7 @@ do you have a reservation? 你有预约吗?
 taco Tuesday周二墨西哥玉米饼
 I have heard so much about you 久仰大名IHHSMAY
 
+cut the crap 废话少说
 
 
 
