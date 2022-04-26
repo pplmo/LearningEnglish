@@ -170,9 +170,84 @@ exercise is the most transformative thing that you can do for your brain today f
 three reasons.
 经过几年对这个问题的专注研究,我得出了以下结论: 运动是当下你所能做的对大脑最好的最具有转化性的东西, 有以下三个原因.
 
+Number one: it has immediate effects on your brain.That's going to increase your mood right now after that
+workout, exactly what I was feeling.
+首先:它对你的大脑有立刻的影响.它会立马提升你的情绪, 就像我所体会到的.
 
+My lab showed that a single workout can improve your ability to shift and focus attention, and that focus improvement will last for at least two hours. 
+我的实验显示,单个短暂的运动可以提升你转移和集中注意力的能力,这种提升可以持续至少两个小时.
 
+And finnally, studies have shown that a single workout will improve your reaction times
+which basically means that you are going to be faster at catching that cup of Starbucks 
+that falls off the counter, which is very, very important.
+最后,研究还显示,运动本身可以提高你的反应时间, 这意味着你在接星巴克杯子的时候更迅速,如果它掉下柜台的话,
+这一点可以说是相当重要了.
 
+But these immediate effects are transient, they help you right after.
+但是这些直接影响都是短暂的, 它们只能帮你一时.
+
+What you have to do is do what I did. that will change your exercise regime, increase your
+cardiorespiratory function.
+你所需要做的就是像我一样,改变你的锻炼习惯,增强你的心肺功能.
+
+Number two: the most common finding in neuroscience studies, looking at effects of long-term exercise,
+is improved attention function dependent on your prefrontal cortex. 
+在神经科学研究中最常见的发现是长期运动的影响,它能够单独提升你的注意力或是你的前额皮层.
+
+But really, the most transformative thing that exercise will do is its protective effects on your
+brain.
+但实际上,运动所做的最具变革意义的事情是它对于大脑的保护作用.
+
+The more you're working out, the bigger and stronger your hippocampus and prefrontal cortex gets.
+你运动越多,你的海马体和前额皮层就越大越强壮
+
+Why is that important? Because the prefrontal cortex and the hippocampus are the two areas that are 
+susceptible to neurodegenerative diseases and normal cognitive decline aging. 
+为什么这一点很重要呢? 因为前额皮层和海马体是最易受神经退化疾病影响的两个区域,并容易随着年龄增长认知能力下降.
+
+So with increased exercise over your lifetime, you're not going to cure dementia or Alzheimer's disease,
+but what you're going to do is you're going to create the strongest, biggest hippocampus and prefrontal
+cortex so it takes longer for these diseases to atually have an effect.
+所以增加运动量,你不仅能够预防痴呆和阿紫海默综合症,你更能创造最强有力的海马体和前额皮层,所以能够更有效抵御这些疾病.
+
+The rule of thumb is you need to get three to four times a week exercise minimum 30 minutes an exercise session, and you need to get aerobic exercise in.That is, get your heart rate up.
+首要原则是你需每周运动三到四次,每次最低30分钟,要包含有氧运动,这样能够让你的心率加快.
+
+And the good news is, you don't have to go to the gym to get a very expensive gym membership. Add an extra
+walk around the block in your power walk.
+还有一个好消息是你不需要走进健身房办一张昂贵的会员卡.在你能力范围内在周边街区多走一圈.
+
+You see stairs--take stairs. And power-vacuuming can be as good as the aerobia class that you were 
+going to take at the gym. 
+如果见到台阶---就走走台阶. 这些能量的汇聚和有氧课程是一样的,就像是你在健身房上的一样.
+
+It's one thing to talk about exercise, and it's another to do it. 
+但是知易行难
+
+We're going to do just one minute of exercise.
+我们来做一个一分钟的运动.
+
+It's call-and-response, just do what I do, say what I say, and make sure you don't punch
+your neighbor.
+名字是"我说你应", 请做我所做,说我所说, 当然保证不要达到邻座
+
+five, six, seven, eight, it's right, left, right, left.
+
+New move--uppercut,right and left. I am inspired now. you say it.
+新动作--勾拳,右左. 我激情澎湃,请跟我重复.
+
+I am on fire now. 
+我在燃烧
+
+I want to leave you with one last thought.
+我想要和你们分享最后一点心得.
+
+And that is, bringing exercise in your life will not only give you a happier,
+more protective life today, but it will protect your brain from incurable diseases.
+把运动引入你的生活,不仅仅会给你一个更开心的,备受保护的当下生活,它还可以使你的大脑免受无法治愈的疾病侵袭.
+
+And in this way it will change the trajectory of your life for the better.
+从而改变你人生的轨迹,让它变得更好.
 
 
 
@@ -1051,6 +1126,7 @@ It's very simple, I had somebody who believe in me. And I never gave up. That's 
 
 I can guarantee you from my personal experience. 
 我以我亲身经历, 向你保证.
+
 
 
 
