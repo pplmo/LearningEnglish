@@ -193,7 +193,7 @@ a Socratic way
 
 **主从复合句:**
 1. 名词性从句
-    * 主语从句
+    * 主语从句 
     * 宾语从句
     * 表语从句
     * 同位语从句
@@ -205,6 +205,96 @@ a Socratic way
 **主从复合句的主句专一原则:**
 1. 一个句子中只能有一个主句,主句中没有连接词
 2. 一个句子中有n个分句,则只有n-1个连接词,
+    because 和so不能连用, although和but不能连用,就是由于在一个句子中如果只有两个分句, 却同时使用了because 和so的话,就违背了主句专一原则.
+
+**主语从句结构识别:**
+1. 关系连词+句子+动词
+    * ==That== **the seas are being over finished** has been known for years. 数年来, 人们一直知道,海洋被过度捕捞了
+    * ==That== **the plates are moving** is beyond dispute.人们并不都认为板块是移动的.
+    * ==What== **happened on the Guang Ming Ding** will be forever etched in Zhang Wuji's memory.在光明顶发生的一切被永远地印在了张无忌的记忆中
+2. it+be动词+形容词/名词短语+关系连词+句子
+    * it is clear that...很显然
+    * it is possible that...很可能
+    * it is likely that...很可能
+    * it is natural that...很自然
+    * it is certain that... 可以确定
+    * it is strange that... 奇怪的是
+    * it is fortunate that...幸运的是
+    * it is necessary that...有必要的是
+
+    * it is a pity that... 可惜的是
+    * it is a fact that...事实是
+    * it is good news that... 真是个好消息
+    * it is a good thing that... 真是件好事
+    * it is no wonder that... 难怪...
+    * it is a shame that...遗憾的是
+    * it is an honour that... 真荣幸...
+    * it is common knowledge that... ...是常识
+    * it is my belief that...  我相信
+    * it is a miracle that... ...真是奇迹
+
+3. it+不及物动词+that
+    * it seems that...    似乎...
+    * it follows that...  因此...
+    * it happens that...  碰巧...
+    * it turns out that... 结果...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+**宾语从句结构识别:**
+1. 动词+连接词+句子
+    * I have ==learned== **that** ==love, not time, heals all wounds.== 我一直觉得是爱而不是时间治愈了所有的伤痛
+2. 动词+宾语+连接词+句子
+    * Little Monster ==assured== **Ultraman** ==that== **he had no intention of offending him.**
+3. 介词+连接词+句子
+    * "The test of any democratic society," he wrote in a Wall Street journal column that, "lies not ==in== **how** ==well it can control expression== but in **whether** ==it gives freedom of thought and expression the widest possible  latitude.==" 他在《华尔街日报》的一个专栏找那个写道： 对于任何民主社会的检验不在于它能多么有效地控制言论的自由表达，而在于它能否最大限度地赋予思想自由和表达自由。
+    * wrote为主句的谓语动词, in a Wall Street Journal为整个句子的状语. that引导宾语从句
+    * 在宾语从句中, 主语为the test, 动词为lies, 介词in后面出现两个连接词how和whether,分别引导两个句子作宾语
+
+4. 动词+it(形式宾语)+宾补+连接词+句子
+    * we must ==make== **it** ==clear== **that** ==the parties involved are to make every effort to curb the pollution.== 我们必须强调清楚, 有关方面应该尽一切努力治理污染.
+    * 宾语其实是that之后的句子,用it代替, 所以it是形式宾语.
+
+
+
+
+**表语从句结构识别:**
+1. 系动词+ 连接词+句子
+    * the reason for my return ==is== **that** ==I left my keys behind.==
+    * The trouble ==is== **that** ==part of the recent acceleration is due to the usual rebound that occurs at this point in a business cycle, and so is not conclusive evidence of a revival in the underlying trend.==问题是最近的加速发展部分是由于商业圈在这个时间段通常发生的反弹,所以这并不构成潜在趋势复苏的最终证据
+    * 本句中有一个由that引导的很长的表语从句,从句由两个分句组成,第一个分句中又有一个that引导的定语从句修饰rebound,第二个分句与第一个分句有共同的主语part of the recent acceleration.
+    * 这样我们可以得到句子的主干部分: the trouble is that part of the recent acceleration is due to rebound and is not conclusive evidence.
+
+
+**同位语从句结构识别:**
+1. 名词+连接词+句子
+    I have a ==dream== **that** ==one day this nation will rise up and live out the true meaning of its creed--we hold these truths to be self-evident, that all men are created equal.== 
+    我有一个梦想,有一天,这个国家可以站立起来兑现它信条的真正含义:我们认为以下的真理是不言自明的, 那就是人人生而平等.
+
+    I have a dream that one day on the red hills of Georgia, sons of former slaves and sons of former slave-owners will be able to sit down together at the table of brotherhood.
+    我有一个梦想,有一天, 在佐治亚的红山上,曾经的奴隶和奴隶主的孩子们能以兄弟之名同席而坐.
+
+    I have a dream that one day, even the state of Mississippi, a state sweltering with the heat of injustice, sweltering with the heat of oppression, will be transformed into an oasis of freedom and justice.
+    我有一个梦想, 有一天,即使是密西西比州,一个充满不公平和压迫的州,也能变成自由和公平的绿洲
+
+    I have a dream that my four little children will one day live in a nation where they will not be judged by the color of their skin but by the content of their character. 
+    我有一个梦想,有一天,我的四个孩子能生活在这样的一个国度中,在那里他们不会由于肤色而被人评判,而是由于他们的品行.
+
+    dream后面由that引导的句子就是一个同位语从句,常见的连词就是that, 这里的that是一个连词, 和定语从句中的that的代词词性是不一样的
 
 
 
@@ -225,3 +315,127 @@ a Socratic way
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+**定语从句结构识别:**
+1. 名词+连接词+句子
+2. 句子+连接词+句子
+    在这种结构中连接词前面一定要出现逗号,这种结构叫非限定性定语从句.
+    Kevin gave us a wonderful training course, which left us a deep impression.
+
+
+**定语从句的连接词**
+1. 关系代词: who whom that which as whose
+2. 关系连词: when where why how
+3. 介词+关系代词: as和that以及who一般不能接到介词后引导句子.
+
+
+**处理方法:** 前置和拆分
+1. 前置: 适用于比较短和起修饰限定作用的定语从句
+    * The sun rises that looks beautiful.看起来很漂亮的太阳升起来了, 这样却不太适合中文的表达习惯
+2. 拆分: 一些定语从句用于连接句子,因此可以把定语从句从整个句子中独立拆分出来单独成为一个句子,这种处理方法的关键是找到连接词, 拆分点就是连接词.对于"介词+连接词"引导的定语从句,拆分点在介词处.
+    * A poem line describes a fight between a Turkish and a Buglgarian officer on a bridge off which they both fall into the river.
+    * 拆分点是off, which指代bridge
+        a) A poem line describes a fight between a Turkish and a Buglgarian officer on a bridge.
+        b) they both fall off the bridge into the river.
+        这首诗描述了一个土耳其军官和一个保加利亚军官在桥上格斗,他们从这座桥上掉了下去, 掉进了河里.
+    * Man is born as a blank sheet of paper on which each culture writes its text.
+    * 拆分点是on, which指代paper
+        a) Man is born as a blank sheet of paper.
+        b) each culture writes its text on the paper.
+        人生下来就是一张白纸,每种文化都在这张纸上书写着自己的文字.
+    * The sun rises that looks beautiful. 太阳升起来了,看起来很漂亮.
+
+**作用:**
+    * 修饰和限定名词
+    * 连接两个具有共同名词的句子
+        I have three books of which the red one is my favorite.
+        定语从句由of which引导, 但是这个句子并不是在修饰和限定前面的单词books,这个句子其实是由两个句子合并形成的.
+        a) I have three books. 
+        b) The red one of those books is my favorite.
+        这两个句子有共同的名词books, 这样就可以合写成一个句子,此时就用到了定语从句中的第二个作用:连接两个具有共同名词的句子.把第二个句子中的those books 替换成能连接两个句子的关系代词which, 这样就产生了如下这个句子:I have three books, the red one of which is my favorite. 为了让整个句子更加紧凑就把of which提到了books后面,进而形成了刚才的那个句子.
+    * 表示因果逻辑关系
+        * I love this girl who is beautiful. 
+        这句话可以把who引导的定语从句看成是对girl的修饰和解释, 在很多时候也可以看成是表示因果关系,从翻译上就可以表现出来:(1)我喜欢这个漂亮的姑娘. (2) 我喜欢这个姑娘,因为她漂亮.
+
+        * Ameriaca and Ameriacans were prosperous beyond the dreams of the Europeans and Asians whose economics the war had destroed.
+        美国和美国人的繁荣程度超越了欧洲人和亚洲人的梦想,他们的经济被战争摧毁了.
+
+**一些练习:**
+1. 用定语从句合并成一个句子
+    a) The ambition must be highly regarded by people who are themselves admired.
+    b) The educated is not least among them.
+
+    The ambition must be highly regarded by people who are themselves admired and among whom the educated is not least.雄心壮志必须被这样的一些人高度认同,他们自己就是被人尊敬的,并且在他们当中受教育的并不是少数.
+
+2. 拆分句子
+    * There is something by virtue of which man is man. 存在一种特性,人之所以为人就是这种特性.
+
+    a) There is something.
+    b) man is man by virtue of this thing.
+
+    by virtue of 固定搭配,凭借...的力量
