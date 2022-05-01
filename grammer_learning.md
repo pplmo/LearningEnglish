@@ -177,6 +177,8 @@ a Socratic way
 
 
 ## 第二节. 复合句障碍的识别和处理
+
+### 一. 复合句的定义及障碍的识别
 复合句的定义: 含有一套以上的主谓结构且句子中有的成分是由句子构成的.从本质上来讲,一个复合句其实就是由
 简单句1, 简单句2,一直到简单句n的一个集合,简单句组合成复合句最重要的两个要素是**连接词**和**主句专一原则**.
 
@@ -186,6 +188,7 @@ a Socratic way
 3. 标点符号: 冒号和破折号,分号
 4. 并列连词: and, or, but等
 
+### 二. 两种复合句类型
 复合句的关联方式可以分为两大类:
 1. 关系代词,关系连词以及冒号和破折号所链接的分句之间关系是主从或从属关系, 这样的复合句被称为==主从复合句==
 2. 并列连词和分号所连接的分句间的关系为并列关系,这样的复合句被称为==并列复合句==.
@@ -207,7 +210,7 @@ a Socratic way
 2. 一个句子中有n个分句,则只有n-1个连接词,
     because 和so不能连用, although和but不能连用,就是由于在一个句子中如果只有两个分句, 却同时使用了because 和so的话,就违背了主句专一原则.
 
-**主语从句结构识别:**
+#### (一)主语从句结构识别:
 1. 关系连词+句子+动词
     * ==That== **the seas are being over finished** has been known for years. 数年来, 人们一直知道,海洋被过度捕捞了
     * ==That== **the plates are moving** is beyond dispute.人们并不都认为板块是移动的.
@@ -255,7 +258,7 @@ a Socratic way
 
 
 
-**宾语从句结构识别:**
+#### (二)宾语从句结构识别:
 1. 动词+连接词+句子
     * I have ==learned== **that** ==love, not time, heals all wounds.== 我一直觉得是爱而不是时间治愈了所有的伤痛
 2. 动词+宾语+连接词+句子
@@ -272,7 +275,7 @@ a Socratic way
 
 
 
-**表语从句结构识别:**
+#### (三)表语从句结构识别:
 1. 系动词+ 连接词+句子
     * the reason for my return ==is== **that** ==I left my keys behind.==
     * The trouble ==is== **that** ==part of the recent acceleration is due to the usual rebound that occurs at this point in a business cycle, and so is not conclusive evidence of a revival in the underlying trend.==问题是最近的加速发展部分是由于商业圈在这个时间段通常发生的反弹,所以这并不构成潜在趋势复苏的最终证据
@@ -280,7 +283,7 @@ a Socratic way
     * 这样我们可以得到句子的主干部分: the trouble is that part of the recent acceleration is due to rebound and is not conclusive evidence.
 
 
-**同位语从句结构识别:**
+#### (四)同位语从句结构识别:
 1. 名词+连接词+句子
     I have a ==dream== **that** ==one day this nation will rise up and live out the true meaning of its creed--we hold these truths to be self-evident, that all men are created equal.== 
     我有一个梦想,有一天,这个国家可以站立起来兑现它信条的真正含义:我们认为以下的真理是不言自明的, 那就是人人生而平等.
@@ -381,7 +384,7 @@ a Socratic way
 
 
 
-**定语从句结构识别:**
+#### (五)定语从句结构识别:
 1. 名词+连接词+句子
 2. 句子+连接词+句子
     在这种结构中连接词前面一定要出现逗号,这种结构叫非限定性定语从句.
@@ -439,3 +442,105 @@ a Socratic way
     b) man is man by virtue of this thing.
 
     by virtue of 固定搭配,凭借...的力量
+
+
+#### (六)状语从句
+结构识别: 句子+连接词+句子
+
+处理方法:剥离
+
+I have discovered, as perhaps Kelsey will after her much-publicized resignation from the editorship of She after a build-up of stress, that abandoning the doctrine of "juggling your life", and making the alternative move into "downshifting" brings with it far greater rewards than financed success and social status.
+我已经发现,放弃那种"为生活忙碌"的人生信条并转而追求比较悠闲的生活带给你的回报远远大于经济的成功和社会地位的提升. 或许凯尔希在积劳重负之后公开辞去她在《女友》杂志社的编辑职位之后也会有如此发现。
+
+* as引导状语从句, 然后剥离, 句子主干为: I have discovered that...
+* brings with it greater rewards...
+    with it 是状语, 动词+介词+名词1+名词2. 介词+名词1就是状语.所以见到两个名词挨在一起要注意.
+* as引导的状语从句中的动词discover和主句中的discover是相同的,为了表达的简洁省略了动词discover, 原句应该是 as perhaps Kelsey will discover after...
+
+
+### 三. 复合句障碍的处理
+#### (一). 层次化句子阅读法
+#### (二). 完整主干法
+**缘起: **
+(1) 主谓隔离: 句子的主语和谓语之间放入定语或者插入语, 同位语修饰主语
+(2) 谓宾隔离: 谓语和宾语之间会加入状语或插入语以增加句子的多变性.
+
+**解决之道:**
+(1)句子开头的第一个独立名词(前面没有出现介词或关联词)就是句子的主语,应该优先寻找和主语相对应的动词.
+(2)动词确定后应该确定后面的结构,如果在动词和宾语之间有其他的成分,最好跳读.
+
+**例句:**
+1. The fact that artisans, who were looked on as mechannics or skilled workers in the eighteenth century, are frequently considered artists today is directly attributable to the Arts and Crafts movement of the nineteenth century. 
+
+18世纪被认为是机械师或熟练工人的人, 在今天通常被当作艺术家, 这一事实可以直接归因于19世纪的工艺运动.
+句子主干: the fact is directly attributable to the Arts and Crafts movement of the nineteenth century.
+
+
+2. Anyone who has handled a fossilized bone knows that it is usually not exactly like its modern counterpart, the most obvious difference being that it is often much heavier.
+任何一个处理过化石骨头的人都知道化石骨头通常和现代人的骨头都不一样,其中最大的不同就是这种骨头通常会重很多.
+
+句子主语为开头的第一个独立名词anyone, 动词为knows, 宾语从句为it is usually not exactly like its modern counterpart; who has handleda fossilized bone为定语从句修饰主语anyone
+the most obvious difference being that it is often much heavier为==独立主格结构==,可以还原为: the most obvious difference is that it is often much heavier.
+
+
+
+
+
+# 第二章 长难句翻译技巧点拨
+## 第一节 定语从句翻译技巧
+### 一. 前置译法
+如果一个定语从句在句子的作用是修饰和限定名词,那么通常就采取译为前置定语的方法
+1. Water, which is a clear liquid, has many uses.
+水是一种清澈的液体,有很多用途.
+
+2. Objects that do not transfer light cause shadows.
+不透光的物体会造成阴影
+
+3. Every man is rich or poor according to the degree in which he can afford to enjoy the necessaries, conveniences and amusements of human life.
+人是富是贫,要看他能获得生活必需品,舒适品和娱乐品的程度如何.
+
+前置译法进阶1:
+如果定语从句中的谓语不含有具体意义,可省译从句中的谓语
+4. the purposes for which electricity is used are numerous.
+电的用途很多.
+
+5. He is the man which he was. 
+他还是过去那个老样子
+
+6. We have arrived at the same conclusion as they have.
+我们得出了与他们一样的结论
+
+前置译法进阶2:
+可将定语从句提到主语之前翻译, 用来说明情况,而不用作所修饰名词的定语.
+7. I suffered agonies that no one suspected. 
+谁也想不到,我内心经历了多么大的痛苦.
+
+8. The police capitulated on the morning of the day when I volunteered to defy them.
+那天上午我主动同警察对抗, 他们却投降了.
+
+9. There are also great advantages that come from the variety of culture brought by settlers from other lands.
+移民从各地带来了多种文化, 产生了极大的好处.
+
+10. Here we shall discuss only such factors ==as== may cause distortions of the signal.
+这里我们只讨论可能引起信号失真的那些因素.
+
+### 二. 后置译法
+很多定语从句都是为了连接两个具有共同名词的句子而存在的,因此在翻译时最好分为两个分句,而对于起限定作用的定语从句, 如果结构较为复杂,句子太长,无法译成前置的定语,最好就译成一个后置的并列分句.
+1. Our war against terror is a contest of will in which perseverance is power.
+我们的反恐战争是一场意志力的较量,在这场较量中,不屈不挠的精神就是力量.
+
+2. I propose to offer a theory which, as far as I am aware, has not previously been set forth, that only those animals capable of speech are capable of laughter, and that therefore man, being the only animal that speaks, is the only animal that laughs.
+我试图提出一种理论,据我所知, 这种理论还未曾有人提出过,那就是:只有能说话的动物才会笑. 人是唯一能说话的动物,所以也是唯一会笑的动物.
+
+后置译法进阶1:
+结构较复杂的定语从句常汉译成后置的并列分句,在多数情况下,要重译先行词,有时即便句子不长,出于某种原因需要强调先行词,也需重译先行词.
+3. Two factors are particularly important in the history of inventions. One is the part played by inspiration, which can be far more vital than that of careful research.
+在发明史上有两个因素特别重要,其中之一是灵感的作用,这可能比苦心钻研的作用要重要得多.
+
+4. Days and nights are very long on the moon, where one day is as long as two weeks on the earth. 
+在月亮上,白天和黑夜都很长, 月亮上的一天等于地球上的两周.
+
+后置译法进阶2:
+有些定语从句汉译成后置分句,但可不重译先行词,译文仍然符合汉语习惯
+5. I was contemptuously dismissed as a novice who had not read the great first volume of Marx's Das Capital.
+他们轻蔑地说我是个新手,连马克思的《资本论》这一卷这部重要的著作也没读过。
