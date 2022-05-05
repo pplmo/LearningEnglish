@@ -544,3 +544,274 @@ the most obvious difference being that it is often much heavier为==独立主格
 有些定语从句汉译成后置分句,但可不重译先行词,译文仍然符合汉语习惯
 5. I was contemptuously dismissed as a novice who had not read the great first volume of Marx's Das Capital.
 他们轻蔑地说我是个新手,连马克思的《资本论》这一卷这部重要的著作也没读过。
+
+6. Both picnics and barbeque are friendly, informal social events that offer an opportunity to enjoy a meal outside in pleasant surroundings.
+野餐和烧烤都是友情洋溢,不拘礼节的社交活动,可以让大家在户外怡情的环境里高高兴兴地美餐一顿.
+
+7. They contain the value of certain quantity of labour which we exchange for what is supposed at the time to contain the value of an equal quantity.
+他们包含着一定量劳动的价值,我们就用这一定量的劳动去同假定在当时包含着同量劳动的价值的东西交换.
+
+8. Vicky was an energetic student who laboured at her dissertation on a little-known 14th century poet.
+维姬是个精力充沛的学生,努力地撰写那篇论述14世纪一位不为人熟悉的诗人的学位论文
+
+9. we cannot have an intuitive knowledge that shall extend itself to all our ideas, and all that we would know about them.
+我们不能有一种直观的知识,可以延伸到我们的一切观念以及我们关于观念所想知道的一切.
+
+
+### 三. 转换译法
+1. I'm not speaking of the few thousand astronomers, geographers and so forth who could give, or have a theoretical knowledge of that proof, but of the ordinary news-paper-reading citizens, such as you or me.
+我说的不是数千位天文学家,地理学家之类的人,因为他们可以用观察到的事实或用理论上的依据来证实这一点,我指的是如同你我一样只看报纸的普通读者.
+who=because they
+
+2. The increasing complexities of microsurgery, laser technology, arthroscopy and who knows what next demand understanding and competence in techniques that require educationally sound training for the future orthopaedist.
+显微外科,激光技术,关节窥镜以及谁也不知道还会出现的什么新技术, 并日益增长的复杂性,要求人们了解和掌握技术, 这就要求未来的整形医师必须经过良好的教育培训.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## 第二节 分译、合译技巧
+### 一. 分译技巧的点拨
+
+英语中长句较多，句子中的修饰语多且长，使句子结构复杂，所以英译汉时，不能照样克隆复制，而是要根据汉语语法的特点，灵活处理，切分就是一种常用的方法，是指把英语中的长句分解成两个或两个以上的句子。它通常包括单词分译，短语分译和句子分译这三种情况。
+**单词分译：**
+单词分译是指把原文中的一个单词拆译成一个小句或句子。采用单词分译还有两个目的：一个是为了句法上的需要，由于一些单词在搭配，词义等方面的特点，直译会使句子生硬晦涩，翻译腔十足，而把某个单词分译却能使句子通顺，且不损害原意。二是为了修饰上的需要，如加强语气，突出重点等。英语中的名词，动词，形容词和副词等都可分译。
+
+1. We recognize that China's long-term modernization program understandably and necessarily emphasizes economic growth.
+我们认识到,中国的长期现代化建设以发展经济为重心,这是可以理解的,也是必要的.
+
+2. Then and there he named the startled General lying wounded on his cot the new Commander in Chief of the Airforce.
+就在当时当地他任命这位躺在榻上治伤的将军为空军总司令,使这位将军大吃一惊.
+
+3. A movie of me leaving that foxhole would look like a shell leaving a rifle.
+我离开那个散兵坑的速度之快,要是拍成电影的话,会像出膛的子弹一样.
+
+4. Yet it is painfully apparent that millions of Americans who would never think of themselves as law-breakers, let alone criminals, are taking increasing liberties with the legal codes that are designed to protect and nourish their society.
+显然数百万美国人从来没有想过自己会违法,更不用说犯罪了,而就是他们越来越肆意歪曲旨在保护和滋养这个社会的法律条文,这真令人痛心.
+
+5. At present people have a tendency to choose the safety of the middle-ground reply.
+现在人们都倾向于采取不偏不倚的态度来回答问题,因为它安全,不招风险.
+
+6. Auntie Julia vainly asked each of her neighbors in turn to tell her what Gabriel had said.
+茱莉娅姨妈接连向坐在旁边的人打听加布里埃尔刚才说了些什么, 却没有问出个所以然来.
+
+**短语分译**
+短语分译是指把原文中的一个短语分译成一个句子. 名词短语,分词短语,介词短语等通常都阔以分译成句.
+1. These cheerful little trams, dating back to 1873, chug and sway up the  towering hills with bells ringing and people hanging from every opening.
+这些令人欢快的小缆车建于1873,咔嚓咔嚓摇摆这爬上高耸的山峦,车上铃儿叮当做响, 每个窗口都是人(介词短语分译)
+
+2. The military is forbiden to kill the vessel, a relatively easy task.
+军方被禁止击毁这艘潜艇, 虽然要击毁它并不怎么费事.(名词短语分译)
+
+3. invitingly green Angel Island, once a military installation, contains meandering trails and picnic spots ideal for a day's excursion.
+迷人的天使岛郁郁葱葱,小径蜿蜒,是一日游的理想野餐场所.但在过去它确实一个军事基地.
+
+
+**句子分译**
+句子分译可以分为简单句的分译,并列复合句的分译,主从复合句的分译以及其他情况的分译.
+(1) 简单句的分译
+1. Daybreak comes with thick mist and drizzle. 
+黎明时分,大雾弥漫,细雨霏霏.
+
+2. But another round of war in the region clearly would put strains on international relations.
+但是如果该地区再次发生战争,显然会使国际关系处于紧张状态.
+
+(2) 并列复合句的分译
+并列复合句常常在分句连接处加以切分,译成两个或两个以上的句子
+1. I sat with his wife in their living room, looking out the glass doors to the backyards, and there was Allen's pool, still covered with black plastic that had been stretched across it for winter.
+我和他妻子一起坐在他们家的起居室,望着玻璃门外的后院.后院里有艾伦的游泳池,上面还盖着过冬时铺上去的黑色塑料篷
+
+2. On her once familiar street, as in any unused channel, an unfamiliar queerness had silted up; a cat wove itself in and out of railings, but no human eye watched Mrs.Drover's return.
+走在一度熟悉的大街上,就像走在一条没有人走过的道路上一样,她心里充满了从未有过的新奇.一只猫在栏杆那儿绕来绕去,但是没有人留意特罗弗太太回来了(在分号";"处切分)
+
+3. The entire cable-car system recently got an overhaul after more than a century of operations, so you are on firm ground even if the streets seem to be tilting beneath you.
+最近已对运行了百年的整个缆车系统进行了彻底检修.所以即使你觉得街道似乎在下面倾斜,在缆车上仍很安全.(在连词so处切分)
+
+4. The recruitment of Chinese labor was not universally accepted in radically conscious 19th century America and some white workers were unsettled by their appearance in large numbers. 
+在种族意识十分强的19世纪的美国,招募中国劳工的做法并非普遍为人所接受,由于工地上出现大批中国劳工,某些白人工人感到心绪不安.(在连词and处切分)
+
+
+(3) 主从复合句的分译
+英语复合句汉译时常在分句连接处加以切分,分译成两个或两个以上的句子.
+1. One day, while out on the bleak moors, Pip is startled by a hulking, menacing man who threatens him if he does not bring him some food immediately.
+有一天, 匹普在阴冷的荒原上游荡时, 一个魁梧,凶狠的男子把他吓了一跳.这个男子威胁他,让他立即为他送些食物来(在who引导的从句前切分)
+
+2. All this had come to an end in 1905 when the medical mission was dissolved and several of Mother's colleagues were killed in the uprising.
+1905年,这一切都宣告结束了.在一次暴动中,妈妈的几个同事牺牲了,医疗队也解散了.(在when处切分)
+
+(4) 其他情况的分译
+有些长句的翻译需要根据具体情况,意群的分布等进行灵活处理,合理切分,使译文层次分明,观点明确.
+
+1. suddenly the door bursts open and the Time Traveler appears, dirty, disheveled, and bedraggled, with a nasty cut on his chin.
+突然, 门猛地开了,时间旅行家出现了. 他肮脏不堪,衣冠不整,满身都是泥, 下巴被严重划伤.(在appear后切分)
+
+2. The boy and the woman were already seated by spread table-cloth when the man came down to them, dressed in his business suit and vest and tie and hat as if he expected to meet someone along the way.
+等到男人走过来时,女人和孩子早已挨着地上铺开的桌布边坐好了.男人身穿上班穿的套装和背心,系着领带,戴着帽子,似乎希望路上会遇到什么人似的.(在分词短语前切分)
+
+
+
+
+
+
+
+### 二. 合译技巧的点拨
+比较短的英语句子,也需要合译
+**简单句的合译**
+1. She is intelligent, ambitious and hard-working. She is also good at solving problems.
+她才智过人,雄心勃勃,工作努力,还善于解决问题.
+
+2. The door was unlocked. She went inside and sat in a stupor. She was near colapse, barely able to move her swollen feet.
+门没锁,她走了进去,呆呆地坐了下来,极度的衰弱几乎使得她无力挪动那红肿的双脚.
+
+3. I pulled up a chair and sat down. I sat with my legs wide apart at first. But this struck me as being irreverent and too familiar. So I put my knees together and let my hands rest loosely on them.
+我把椅子挪过去坐下,起初两腿分开,但我突然觉得这样显得不尊重,过于随便,便把两膝并拢,把双手轻轻地放在膝盖上.
+
+**复合句的合译**
+1. We are going to have to be prepared to operate with people who are nuts.
+我们不得不准备好应付那些难对付的家伙.
+
+2. And he found himself trying to suppress a bitterness that was soul-destroying.
+他发现自己在竭力抑制摧毁灵魂的苦涩.
+
+3. Many people have married whose chances to do so were much inferior to Miss Martha's
+许多结婚机缘远不如玛莎小姐的人都已经结婚了.
+
+4. The diagnosis seems in every case to correspond exactly with all the sensations that I have ever felt.
+每次诊断似乎都和我所预想的完全相符.
+
+
+
+
+
+
+
+
+# 第三章 从非谓语动词到特殊句式
+## 第一节 非谓语动词和独立主格
+### 一. 非谓语动词
+非谓语动词,顾名思义就是在句子中充当谓语以外的其他成分,探究其本质可以发现:
+* 充当主语,宾语或表语,其目的是实现动词的名词化表达
+* 充当定语, 目的是代替起修饰限定作用的定语从句
+* 充当状语, 目的是将两个具有共同主语的句子写成一个句子
+
+1. 作主语,宾语和表语
+to say that the child learns by imitation and that the way to teach is to set a good example is a bit oversimplified.
+认为孩子学习是靠模仿,教育的方式就是树立榜样,这些说法都过于简单了.
+句子主干是: To say... is a bit oversimplified. 这个句子的难点就在于充当主语的是一个动词不定式:to say that the child learns by imitation and that the way to teach is to set a good example;且在这个不定式中出现了两个并列的宾语从句作say的宾语,加大了理解的难度.the child learns by imitation为第一个宾语从句, the way to teach is to set a good example为第二个宾语从句.
+
+
+2. 非谓语动词作定语
+a woman picking the blackberry可以改写成:
+a woman who is picking the blackberry.
+
+3. 非谓语动词作状语
+(1)非谓语动词作状语
+a) He reads carefully
+b) He forgets the time for lunch.
+这两个句子的特点是主语相同,把这两个句子连成一个句子可以变成:
+Reading carefully, he forgets the time for lunch.
+They stood by the roadside talking about the plan.
+
+a) we are faced with difficulties.
+b) we must try to overcome them.
+Faced with difficulties, we must try to overcome them.   
+
+规则:
+两个主语相同的句子去掉一个主语,然后将动词作如下变化:
+be动词变为being,do动词变为doing(即主动结构加-ing), 被动语态变为done(即去掉be动词)
+
+例题:
+a) In the sunshine stands a flower.
+b) It grows vigorously.
+
+In the sunshine stands a flower, growing vigorously.
+
+
+a) I am a teacher.
+b) I give classes.
+
+I, being a teacher, give classes.  演变成:
+I,  a teacher, give classes.  (同位语结构)
+
+(2)非谓语动词作状语表原因
+非谓语作状语时,有充当原因或结果的可能性
+1. Feeling threatened, companies responded by writing ever-longer warning labels, trying to anticipate every possible accident.
+语义层面: 公司感受到了威胁,通过书写冗长的警示标签作为回应,尝试着希望能预测到每一起可能的事故.
+逻辑层面: 
+原因: 感受到了威胁
+结果: 写警告作为回应
+表示因果的手段:非谓语动词作状语.
+
+2. Fed up with increasing rates, customers, notably chemical, coal, and agribusiness companies, are complaining that these are evidence that the railroads are abusing their market power.
+语义层面: 客户们,特别是化工,煤炭和农业公司,已经受够了价格的上涨,他们抱怨道: 这些就是铁路部门正在滥用其市场权利的证据
+逻辑层面: 
+原因: 受够了价格的上涨
+结果: 他们开始抱怨.
+表示因果的手段:非谓语动词作状语.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### 二. 独立主格
+
+## 第二节 倒装句和强调句
+### 一. 倒装句
+
+### 二. 强调句
+
+
