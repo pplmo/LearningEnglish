@@ -785,6 +785,20 @@ I,  a teacher, give classes.  (同位语结构)
 结果: 他们开始抱怨.
 表示因果的手段:非谓语动词作状语.
 
+3. Observers doubt that this aggressive target that some 40% of Prada's revenues in America will come from the Internet in 5 years is realistic, noting that it currently sells only bags, wallets and other accessories online, not its main clothing and footwear collections.
+语义层面: 五年内,普拉达在美国的收入有大约40%将来自网络,观察者怀疑这一激进的目标是否现实,因为他们注意到普拉达当下在网上只卖箱包,钱夹和其他的一些饰品,而不是其主流的衣服和鞋款系列.
+逻辑层面: 
+原因: 观察者注意到一些事实
+结果: 观察者怀疑这一目标是否现实.
+表示因果的手段:非谓语动词作状语.
+
+4. Founded in 1694, the Bank of England has centuries of experience in dealing with financial troubles.
+语义层面: 英格兰银行成立于1694年,在应对金融困境方面已经有几百年的经验了
+逻辑层面: 
+原因: 成立于1964年
+结果: 有几百年应对金融困境的经验
+表示因果的手段:非谓语动词作状语.
+
 
 
 
@@ -808,9 +822,128 @@ I,  a teacher, give classes.  (同位语结构)
 
 
 ### 二. 独立主格
+独立主格的由来: 独立主格在英语中存在的主要价值还是由语言简洁的要求决定的.独立主格的产生就是从作状语开始的
+独立主格结构为两个句子在主语不同的情况下提供了将其合并为一个句子的可能,可通过简单的例子来了解它的由来.
+a) It is hot today.
+b) I stay at home.
+
+合并为一个句子: It being hot taday, I stay at home.
+同样, being 也是可以被省略的,而且常常还会在it being hot today之前加上介词with以表示其和一个句子的区别,这样with it being hot today就被称为独立主格结构.
+
+独立主格可以表示以下几种情况:
+(1)表示时间
+1. The meeting being over, all of us went home. 开完会后我们都回家了.
+    the meeting being over相当于when the meeting was over.
+2. her work done, she sat down for a cup of tea.她干完了活,坐下来喝茶.
+    her work done相当于when her work was done.
+
+(2)表示条件
+1. the condition being favorable, he may succeed.若条件有利,她或许能成功.
+    the condition being favorable相当于if the condition is favorable.
+
+(3)表示原因
+1. there being no taxis, we had to walk. 没有出租车,我们只好步行.
+2. He wrapped her up with great care, the night being dark and frosty.夜又黑又冷, 所以他把她裹得严严实实的.
+    the night being dark and frosty相当于as the night was dark and frosty
+
+(4)表示伴随情况
+1. Almost all metals are good conductors, silver being the best of all.几乎所有的金属都是良导体, 而银则是最好的导体
+    这句话相当于Almost all metals are good conductors, and silver is the best of all.
+
+
+(5)表示补充说明
+1. We redoubled our efforts, each man working like two.我们加倍努力, 一个人干两个人的活.
+    这句话相当于We redoubled our efforts, and each man works like two.
+2. President Bush campaigned to move Social Security to a saving-account model, with retirees trading much or all of their guaranteed payments for payments depending on investment returns.
+布什总统极力将社会保险变为储蓄模式,这样一来退休人员就会将其大部分甚至是所有的有保障的收入换为依靠投资回报的收入.
+
 
 ## 第二节 倒装句和强调句
 ### 一. 倒装句
+(一) 部分倒装
+(1)部分倒装的定义: 系动词,情态动词或助动词被置于主语前为部分倒装(实义动词位置未发生改变)
+(2)部分倒装的识别的还原: 如果在==系动词,情态动词和助动词==后出现名词可以判定为部分倒装.部分倒装的还原也很简单,将系动词,情态动词和助动词还原,助动词有时也需要去掉.
+1. Nor did he let the disease stop him from living the kind of life he has always dreamt about.
+疾病也没有使他放弃过梦想中的生活
+did归位,即he didn't let the disease stop him from living the kind of life he has always dreamt about. 
+
+2. In no country other than Britain, it had been said, can one experience four seasons in the course of a single day.
+据说除了英国世界上没有哪个国家能让人在一天中感受到四季变化
+can归位, 即It had been said that one can experience four seasons in the course of a single day in no country other than Britain.
+
+3. Only after he had spoken out the word did he realize he had made a big mistake.
+只有当他说出那个字后他才意识到自己翻了个大错误.
+did归位, He realize he had made a big mistake only after he had spoken out the word.
+
+4. hardly had he arrived when she started somplaining.他刚到,她就开始抱怨.
+had归位, 即he had hardly arrived when she started complaining.
+
+以上都是由于某些表示否定和唯一的副词置于句首引起的倒装.
+
+(3) 几种特殊的部分倒装.
+**由as 引导的部分倒装句**
+1) 由as引导让步状语,和although, though一样,用作"尽管"之意时,可以用于部分倒装句.
+hard as he worked, he did not pass the exam.
+虽然他很用功, 但还是没及格
+
+2) as表示原因时,为了强调起见,也可以倒装.
+Tired as he was, we decided not to disturb him.
+因为他太累了, 我们决定不打扰他
+
+3) 等于so时,意义是"也,也是"
+She worked hard, so/as did her husband.
+她工作很努力,她的丈夫工作也很努力.
+
+
+**在由"so+adv. /adj. + that"和"such that"引导的结果状语从句中, 句子结构要求用倒装句**
+1) so far does light travel that it is difficult for us to imagine its speed.
+光能传播如此之远,以至于我们很难想象它的速度.
+还原: light travels so far that...
+
+2) So sudden was the attack that we had no time to escape.
+攻击如此之快,以至于我们没有时间逃脱
+
+3) So loudly did he speak that even people in the next room could hear him.
+他讲话如此大声,以至于隔壁都能听到他说话
+还原: He spoke so loudly that...
+
+
+(二) 完全倒装
+(1)完全倒装的定义: 动词前后的成分完全倒置(动词的相对位置发生改变)
+(2)完全倒装的存在环境:"主系表"到装成"表系主"
+
+1)能够在句子中充当主语和表语的成分
+主语: 名词,代词,动词不定式,动名词
+表语:形容词,形容词短语,现在分词短语,过去分词短语(以上可以称为形容词性的词),介词短语(方位副词)
+
+2) 系动词的分类:
+**状态系动词**: 用来表示主语状态,只有be动词;he is a teacher
+**持续系动词**:用来表示主语继续或波爱吃一种状态或态度,主要有keep,rest, remain, stay, lie, stand.
+    1. He always keeps silent at meeting.他开会时总保持沉默.
+    2. This matter rests a mystery. 此事仍是一个谜
+**表"像"系动词**:用来表示"看起来像"这一概念,主要有seem, appear, look
+    1. He looks tired. 他看起来很累
+    2. He seems (to be) very sad. 他看起来很伤心.
+**感官系动词**: 主要有feel,smell, sound, taste
+    1. this kind of cloth feels very soft. 这种布手感很软
+    2. this flower smells very sweet.这朵花闻起来很香
+**变化系动词**: 表示主语变成什么样,主要有become, grow, turn, fall, get, come, run
+    1. he became mad after that. 自那之后,他疯了.
+    2. She grew rich within a short time. 她没多长时间就富了.
+
+**终止系动词**: 表示主语已终止动作,主要有prove, turn out, 表达"证实"
+    1. The rumor proved false.谣言证实有假
+    2. The research proved difficult.搜索证实很难
+    3. His plan turned out a success. 他的计划终于成功了.
+
+英语系动词的功能主要是把表语(名词,形容词,某些副词,非谓语动词, 介词短语,从句)和它的主语联系在一起,说明主语的属性,特征和状态,它有自己的但不完全的词义,不能在句中独立作谓语,必须和后面的表语一起构成句子的谓语.
+常用于倒装的系动词包括: be, come, go, run, walk,lie, crouch, stand, descend, ascend, become.
+
+完全倒装的判断流程
+1. 形容词性的词置于句首或介词短语和方位副词置于句首,后紧跟系动词可判定为倒装
+    解析: 形容词性的词在句中作定语和表语,而置于句首说明不是作后置定语,后紧跟系动词也说明不是作前置定语,因此只能充当表语;介词短语和方位副词在句中充当状语和表语,后紧跟系动词说明只能充当表语.
+2. v.-ing开头的句子,后紧跟复数系动词可判定为倒装.
+    解析: v.-ing开头时,
 
 ### 二. 强调句
 
