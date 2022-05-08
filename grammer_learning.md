@@ -860,7 +860,7 @@ b) I stay at home.
 
 ## 第二节 倒装句和强调句
 ### 一. 倒装句
-(一) 部分倒装
+#### (一) 部分倒装
 (1)部分倒装的定义: 系动词,情态动词或助动词被置于主语前为部分倒装(实义动词位置未发生改变)
 (2)部分倒装的识别的还原: 如果在==系动词,情态动词和助动词==后出现名词可以判定为部分倒装.部分倒装的还原也很简单,将系动词,情态动词和助动词还原,助动词有时也需要去掉.
 1. Nor did he let the disease stop him from living the kind of life he has always dreamt about.
@@ -908,7 +908,7 @@ She worked hard, so/as did her husband.
 还原: He spoke so loudly that...
 
 
-(二) 完全倒装
+#### (二) 完全倒装
 (1)完全倒装的定义: 动词前后的成分完全倒置(动词的相对位置发生改变)
 (2)完全倒装的存在环境:"主系表"到装成"表系主"
 
@@ -943,8 +943,152 @@ She worked hard, so/as did her husband.
 1. 形容词性的词置于句首或介词短语和方位副词置于句首,后紧跟系动词可判定为倒装
     解析: 形容词性的词在句中作定语和表语,而置于句首说明不是作后置定语,后紧跟系动词也说明不是作前置定语,因此只能充当表语;介词短语和方位副词在句中充当状语和表语,后紧跟系动词说明只能充当表语.
 2. v.-ing开头的句子,后紧跟复数系动词可判定为倒装.
-    解析: v.-ing开头时,
+    解析: v.-ing开头时,通过词本身很难判断出其词性为形容词或动名词,因此只能通过系动词来判定. 如果v.-ing为动名词,那么其系动词就应该是单数,所以如果出现的是复数系动词的话就可以判定为倒装.
+
+3. v.-ing开头的句子,后紧跟单数系动词,后接名词性的词可以判定为倒装.
+    解析: v.-ing开头时,系动词为单数,但如果后面是名词性的词,则可能是倒装也可能不是倒装.如:
+    a) Playing basketball is an interesting game.(不是倒装)
+    b) Playing basketball is my cousin who is from New York.(倒装)
+
+
+3) 例句:
+1. Herein lay the beginning of turn from ignorance to denial of the value of nutritional therapies in medicine.
+人们对于医学上营养疗法的价值的认识从无知变为否定,这一转变就是从这里开始的.
+解析:herein方位副词表示"在这里"的意思, lay为系动词lie的过去式,可以判定为倒装;
+还原: the beginning of turn from ignorance to denial of the value of nutritional therapies in medicine lay herein.
+
+2. Surrounding the column are three sepals and three petals, sometimes easily recognizable as such, often distorted into gorgeous, weired, but always functional shapes.
+三个瓣片和三个萼片有时候是这样容易地被认出来,经常被扭曲成了美丽的,奇怪的,但一直是有用的一些形状,这些瓣片和萼片就围绕着这个柱子展开.
+解析: surrounding开头,后接复数系动词可以判定为倒装,正常语序为: Three sepals and three petals, sometimes easily recognizable as such, often distorted into gorgeous,weired, but always functional shapes are surrounding the column.
+这里倒装的目的是平衡句子结构,使对于主语的修饰更加充分.
+
+3. With the growing prosperity brought on by the Second World War and the economic boom, young people married and established households earlier and began to raise larger families than had their predecessors during the Depression.
+由于"二战"后带来的繁荣,以及经济的增长,年轻人和他们大萧条时期的前辈相比结婚更早,生孩子也更早,生的孩子也更多.
+
+解析: 这个句子中的倒装出现在后半句: than had their predecessors during the Depression.这是动态比较所引起的倒装,正常的语序是: than their predecessors during the Depression had.可以看下面的动态比较的例子:
+    a) I can run faster than he runs.
+    b) I can run faster than he does.
+    c) I can run faster than does he.
+
+4. Basic to any understanding of Canada in the 20 years after the Second World War is the country's impressive population growth.
+加拿大巨大的人口增长是对"二战"后20年的加拿大的基本理解.
+
+解析: basic to any understanding 是一个形容词短语,在结束的时候紧跟系动词is,因此可以判定为倒装,正常语序应该是: Canada's impressive population growth is basic to any understanding of this country in the 20 years after the Second World War.
+
+5. Scattered around the globe are more than 100 small regions of isolated volcanic activity known to geologists as hot spots.
+全球分布着超过100个小火山活动区域,地质学家称这些区域为热点.
+
+解析: scattered around the globe为过去分词短语,后接系动词可以判定为倒装,主语为more than 100 small regions of isolated volcanic activity known to geologists as hot spots
+
+6. Adding to woman's increased dose of stress chemicals are her increased "opportunities" for stress.
+女性承受压力的"机会"增多,使得产生压力的化学物质也随之增长
+解析: adding to woman's increased dose of stress chemicals 为v.-ing,而后接复数系动词可以判定为倒装,正常语序为: Woman's increased "opportunities" for stress are adding to her increaded dose of stress chemicals.
+
+
+7. Among the species of seabirds that use the windswept cliffs of the Atlantic coast of Canada in the summer to mate, lay eggs, and rear their young are common murres, Atlantic puffins, black-legged kittiwakes, and northern gannets.
+有一些鸟类会在夏天的时候利用加拿大陡峭的大西洋悬崖来交配,产卵并抚育自己的幼鸟,普通的海雀,大西洋的海鸥,黑腿三趾鸥以及北方的塘鹅就是这样的海鸟.
+
+解析: 句子开头时一个很长的介词短语: among the species of seabirds that use the windswept cliffs of the Atlantic coast of Canada in the summer to mate, lay eggs, and rear their young, 整个部分被其中一个定语从句:hat use the windswept cliffs of the Atlantic coast of Canada in the summer to mate, lay eggs, and rear their young拉长,造成理解上的困难.后紧接系动词are,可以判定为倒装, 其主干语序应该是:Common murres, Atlantic puffins, black-legged kittiwakes, and northern gannets are among the species of seabirds.
+
+
+
+8. Most important, perhaps, was that they had all maintained with a certain fidelity the technique and composition consistent with those of America's first popular landscape artist, Thomas Cole, who built a career painting the Catskill Mountain scenery bordering the Hudson River.
+他们都坚定地支持者美国第一个流行景观艺术家托马斯*柯尔的技法和构图原则一致的技法和原则,柯尔一直从事着描绘哈德逊河两岸的卡茨基尔山风景的事业
+
+解析: most important为形容词置于句首,后紧接系动词,可以判定为倒装,主干的顺序应该是: That was most important. 而they had all maintained with a certain fidelity the technique and composition consistent with those of America's first popular landscape artist, Thomas Cole, who built a career painting the Catskill Mountain scenery bordering the Hudson River为主语从句
+
+
+9. Coincident with concerns about the acceleration loss of species and habitats has been a growing appreciation of the importance of biological diversity, the number of species in a particular ecosystem, to the health of the Earth and human well-being.
+(翻译时首先将同位语提前翻译)生物多样性是指在一个特定的生态系统中物种的数量,而人们越来越认识到其对于地球健康和人类幸福的重要性,与此同时, 人们也越来越关心物种和其栖息地的加速流失问题.
+
+解析: Coincident with concerns about the acceleration loss of species and habitats 为形容词短语, coincident为形容词,with为介词, concerns为名词, about the accelerating loss of species and habitats 为介词短语修饰concerns为定语; 在形容词短语结束处紧接系动词的完成时has been, 因此可以判定为倒装,而句子主语为a growing appreciation of the importance of biological diversity,同位语:the number of species in a particular ecosystem; to the health of the Earth and human well-being修饰importance,构成一个小结构the importance of A to B(A对于B的重要性)
+整个句子的主干就是: coincident with concerns has been a growing appreciation.可以抽象为: Coincident with A has been B.这个句型的关键是: A和B都是动态名词.
+这个句型翻译: 随着A,B...或者A...与此同时B.....
+
+用这个结构能写出很多漂亮的句子:
+A. 随着中国经济的发展,中国的教育水平由来极大提高.
+a) the development of Chinese economy.
+b)  the great improvement of education in China.
+Coincident with the development of Chinese economy has been the  improvement of education in China.
+
+B. 随着网络的兴起, 电视开始衰落了.(两个动态名词:兴起和衰落)
+a) the rise of the technology of the Internet.
+b) the decline of the television.
+
+Coincident with the rise of the technology of the Internet has been the decline of the television.
+
+10. Indeed, had it not been for the superb preservation of these fossils, they might well have been classified as dinosaurs.
+确实, 如果不是这么完整地保护了这些化石,他们很可能已经被归类为恐龙化石了.
+
+解析: 助动词had置于主语it前,可以判定为部分倒装,此处的倒装是由虚拟条件句中if被省略引起的;整个句子还原就是: indeed, if it had not been for the superb preservation of these fossils, they might well have been classified as dinosaurs.
+
+11. All would be well were reason the only judge in the creationism and evolution debate.
+如果理性是创造论和进化论争论中的唯一评判标准的话, 那么所有的事情也都好办了.
+
+解析: 助动词were被提前置于主语reason前, 可以判定为部分倒装;此处倒装的原因是由于虚拟条件中if被省略;句子还原就是: if reason were the only judge in the creationism and evolution debate, all would be well.
+
+12. For example, they do not compensate for gross social inequality, and thus do not tell how able an underprivileged youngster might have been had he grown up under more favorable circumstances.
+例如,测试并不能弥补社会不公,因此就不能说明一个物质条件很差的人,如果在更加有利的条件下成长,会有多么能干.
+
+解析: 句子也出现了虚拟语气的倒装: had he grown up under more favorable circumstances, 完整的表达是: if he had grown up under more favorable circumstances. they是指示代词,指代前文的测试; compensate for: 弥补; inequality: 不平等,不公平,不同; underprivileged:贫困的,物质条件差的
+
+
 
 ### 二. 强调句
+(1) 强调句的组成:
+it is(was)+被强调部分+that(who)+其他部分
+
+现在时间为is, 过去时间为was, 被强调部分为动词外的任何成分;强调对象为人则用who或者that,强调对象为物时则只能用that,句子的其他成分为正常语序
+
+(2)强调句的处理方法
+去掉强调格式后,将被强调部分还原到句子中
+
+1. It was just a decade before this that many drug companies had found their vitamin sales skyrocketing and were quick to supply practicing physicians with generous samples of vitamins and literature extolling the virtue of supplementation for a variety of health-related conditions.
+就在这之前的十年,很多医药公司发现他们的维生素销量飞速上升,于是很快就给临床医生提供了大量的维生素样本和一些文字资料,这些资料颂扬了维生素对于各种与健康相关的疾病的补充治疗功能.
+
+解析: 强调格式为: it was...that..., 去掉这个格式之后将just a decade before this还原到句中作状语,句子还原后就为:just a decade before this, many drug companies had found their vitamin sales skyrocketing and were quick to supply practicing physicians with generous samples of vitamins and literature extolling the virtue of supplementation for a variety of health-related conditions.
+practicing physicians是临床医生, 执业医师
+generous修饰人时是"慷慨的", 修饰物时是"大量的"
+literature是"文学", 这里表示"文字材料"
+virtue修饰人表示"美德", 但是修饰物则是"功能"的意思
+condition常常为"条件", 在医学里面多表示"病情"
 
 
+
+2. It was she, a Baltimore printer, who published the first official copies of the Declaration, the first copies that included the names of its signers and therefore heralded the support of all thirteen colonies.
+她, 巴尔的摩的印刷商,出版了第一本官方的《独立宣言》，这个版本里包含每个签署者的名字，这样一来就表明了全部十三个殖民地的支持。
+解析: 去掉强调格式以后,还原句子为: She, a Baltimore printer, published the first official copies of the Declaration, the first copies that included the names of its signers and therefore heralded the support of all thirteen colonies.
+
+
+3. Thus, in the American economic system it is the demand of individual consumers, coupled with the desire of businessmen to maximize profits and the desire of individuals to maximize their incomes, that together determines what shall be produced and how resources are used to produce it.
+于是, 在美国的经济系统中, 个人消费者的需求,商人利润最大化的欲望以及个人收入最大化的渴求,共同决定了应该生产什么产品,以及如何利用资源来生产这些产品.
+
+解析: 去掉强调格式之后,句子还原为: Thus, in the American economic system, the demand of individual consumers, coupled with the desire of businessmen to maximize profits and the desire of individuals to maximize their incomes, together determines what shall be produced and how resources are used to produce it.
+
+
+
+# 第四章 比较结构和动态名词
+## 第一节 比较结构的讲解(24种)
+1. it is not that... but that... 这并不是说...而是说...
+it is not that the scales in the one case, and the balance in the other, differ in the principles of their construction or manner of working; but that the latter is much finner apparatus and of course much more accurate in its measurement than the former.
+这不是在衡量个案,也不是在和其他案子作比较,人们对自己的建设和工作方式有不同的原则.但是,后者比前者采用更好的仪器,理所当然地也比前者有更加精确的测量度
+
+2. nothing else than... 完全是,实在是....
+(a) What the man said was nothing else than nonsense.
+那个人说的话完全是一派胡言
+
+(b)it is nothing else than a blackmail
+这简直就是敲竹杠
+
+3. as引导的特殊状语从句,翻译时当做定语从句处理
+we hope the measures to control prices, as they have been taken by the government, will succeed.
+我们希望政府已经采取的控制物价的措施能取得成功
+
+4. 名词+or+名词 结构中, or后的名词是同位语, 应译为"即...",
+Moreover, technology includes techniques, or ways to do things, as well as the machines that may or may not be necessary to apply them.
+再者, 除了机器外, 技术还包括技艺,即制作方法,而运用这些技艺并不一定都需要机器
+
+
+
+
+## 第二节 动态名词
