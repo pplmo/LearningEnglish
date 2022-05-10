@@ -1088,7 +1088,318 @@ we hope the measures to control prices, as they have been taken by the governmen
 Moreover, technology includes techniques, or ways to do things, as well as the machines that may or may not be necessary to apply them.
 再者, 除了机器外, 技术还包括技艺,即制作方法,而运用这些技艺并不一定都需要机器
 
+5. more...than...结构有三种译法: than连接肯定形式的从句时,该从句译为否定句; 在比较的基础上表示选择关系时,可译为:"与其说...不如说...", 进行同类比较时,译为"比...更..."
+a) the complexity of the human situation and injustice of the social order demand for more fundamental changes in the basic structure of society itself than some politicians are willing to admit in their speeches.
+人类社会形势的复杂性和社会制度的不公正性要求对社会基本结构进行彻底变革,而一些政客口头上是很不愿意承认这一点的.
 
+b) It seems that these two branches of science are mutually dependent, and that the so-called division between the pure scientist and the applied scientist is more apparent than real.
+看起来这两门学科是相互依存的,因为在理论科学家和应用科学家之间,与其说存在着所谓的区分,不如说这种区分只是表面存在的
+
+c) there are more cars on the roads in summer than in winter.
+公路上的汽车夏天比冬天要多.
+
+
+6. no more...than...与not...any more than...
+no more...than...与not...any more than同义, 不可简单地看成more...than的否定形式.具体来说,这一结构可能是带有一定感情色彩的否定形式,也可能是一种较特殊的类比形式,其翻译方法有二:表示同类否定比较时,可以译为"不比....更....", "都...同样不...",表示比喻关系时,可译为"正如...不..., ....也不....."
+a) the food on the ship was no better than on any other ship on which Billy had sailed.
+这条船上(供应)的食品并不如比利工作过的其他船上的(食品)好.
+
+b) The archaeologists' efforts are not directed at "proving" the correctness of Bible any more than belief in God can be scientifically demonstrated.
+正如信仰上帝不能从科学上证明一样,考古学家们的努力也不是要"验证"《圣经》的正确性
+
+c) No one can hold back the tide of revolution any more than a man with a broom can hold a flood that has burst the dam.
+任何人都无法阻挡革命的洪流,正如一个人不能拿着扫帚去挡住决堤的洪水一样.
+
+7. not so much...as...与其说....不如说...
+Science moves forward, they say, not so much through the insights of great men of genius as because of more ordinary things like improved techniques and tools.
+她们说,科学的发展与其说源于天才伟人的真知灼见,不如说源于改进了的技术和工具等更为普遍的东西.
+
+8. the same...as... 与...相同
+you have made the same mistake as last time.
+你又犯了和上次一样的错误
+
+9. no less than(no less...than)不亚于, 多达(强调人多);不但....而且..., 简直是,实在是
+a) There were no less than one thousand people at the meeting.
+到会的有一千多人(有"到会人很多"的含义)
+
+b) There were not less than one thousand people at the meeting.
+到会的至少有一千人(没有到会人多人少的含义)
+not less than "不少于", 无数量多或少的含义
+
+c) China insists always on the need for self-reliance, no less in economic policies than in making revolutions.
+中国始终坚持独立自主,这种坚持不但体现在革命方面,在经济政策方面也是如此.
+
+d) It is no less than blackmail to ask such a high price.
+索要如此高价,简直是敲诈.
+
+
+10. ...other than... 不是....正是....; 除了....外..., 不会是....
+a) Reaction other than the desired one often occurs when reactants are brought together.
+当这些反应物被放在一起时, 常发生一些我们不希望有的反应.
+解析: other than为固定搭配,其义有二:一是"与...不同,而不是...", 二是"除了";可插入名词
+
+
+b) other woman than Sally would have said nothing.
+除了萨利,别的女子就什么也不说了
+解析: other than可分写为other...than...,other后可插入名词,than的意思是"除了"
+
+
+11. nothing but = nothing else than = nothing less than不是别的...正是...(本句型亦为强调判断句)
+a) Genius is nothing but labor and diligence.
+天才不过是劳动和勤奋而已
+
+b) His failure was due to nothing else than his own carelessness.
+他的失败完全是由于他自己的粗心造成的.
+
+c) His negligence was nothing less than criminal.
+他的粗心大意无异于犯罪
+
+12. much less=still less更不, 更无
+a) I could not agree to, much less participate in such proceedings.
+我不能同意这种行为,更谈不上参与这些行动了
+
+b) He is too shy to ask a stranger the time, still less speak to a room full of people.
+他连向陌生人打听时间都不好意思,更不用说和一屋子人讲话了.
+
+解析: much less, still less引导的词组或从句, 表示一种追加的否定,所以这两个词组只能用于否定句中.需要指出的是:to say nothing of, not to speak of, not to mention, let alone这四个词组的意思也是"更不用说",也表示一个追补的说法,但它们与much less和still less有所不同,这些词组可以随前一句的意思而定,前一句是肯定意义,则追加的就是肯定意义,如果前一句是否定意义,则追加的就是否定意义.
+
+c) In old China, there was hardly any machine-building industry, to say nothing of electronic industry.
+在旧中国,几乎没有什么机械制造工业,更不用说电子工业了
+
+d) Sally takes singing and dancing lessons, to say nothing of swimming and tennis lessons.
+萨利不仅上歌唱和舞蹈课,还上游泳和网球课.
+
+
+13. anything but 根本不; all but几乎,差一点,除...以外其余都是; but for要不是; but that+从句: 若不是...
+a) Alone in a deserted house, he was so busy with his research work that he felt anything but lonely.
+虽然独自一人待在这所清冷的房子里,但他埋头于研究工作,一点也没感到孤独.
+
+解析: 这是一个主从复合句.he was so busy...work是主句,that至句末是结果状语从句,句首alone...house为形容词短语作让步状语.句中anything but意为not at all,句中but作介词,意为except.
+
+b) The method of scientific investigation is nothing but the expression of the necessary mode of working of the human mind; it is simply the mode by which all phenomena are reasoned about and given precise and exact explanation.  
+科学研究的方式不过是人类思维活动的必要表达方式,也就是对一切现象进行思索并予以准确而严谨解释的表达方式.
+
+c) It was all but impossible to climb back into the boat.
+再回到小船上几乎已经不可能了.
+
+解析:此句中的all but意为nearly, almost(几乎,差点儿)
+
+d) he could find all but one of his books.
+他的书全能找到,只有一本除外
+
+解析: all but 意为除了...之外
+
+e) but for the rain we would have had a nice holiday.
+要不是这场雨,我们本可以度过一个愉快的假期.
+
+解析: but for 作状语,句子的谓语可用虚拟语气
+
+
+14. not nearly = far from= much less than相差很远,远远少于, 完全不
+a) The food supply will not increase nearly enough to match the growth of population, which means that we are heading into a crisis in the matter of producing and marketing food.
+食品供应将远远赶不上人口的增长,这就意味着我们在粮食的生产和购销两方面正陷入危机.
+
+解析: 这是主从复合句,非限制定语从句的关系代词which之前为主句,which引导定语从句,在定语从句中关系代词that又引导宾语从句.
+
+
+15. cannot...too... 再...也不过分,应该,越...越好
+a) We cannot be too faithful to our duties. 
+我们必须尽力忠于职守.
+
+b) You cannot attach too much importance to the matter. 
+你应该十分重视这件事.
+
+16. as well as = in addition  也, 和...一样, 除...之外, 不但...而且...
+a) The Socialist Revolution requires a change of the superstructure as well as a change of the economic basis.
+社会主义革命不仅要求改变经济基础,也要求改变上层建筑
+
+解析: as well as作连词链接两个对等的部分,其信息重心在as well as之前的部分,因此,翻译时应先翻译as well as之后的部分,再翻译as well as之前的部分.
+
+b) Revolution in the Maxist science means a moral as well as a material change.
+根据马克思主义的学说,革命不但意味着物质的改变,而且意味着精神的改变.
+
+
+17. more than+从句(谓语中含can或could):实在不能
+some math problems in that book are more than I can work out.
+那本书上的一些数学难题我实在解不出来
+
+解析: 本句形式上是进行程度上的比较,但than引导的从句意义上是否定的.
+
+18. ..., only to+动词:    ....结果却...
+They have to pay for expensive seats at the theater, the cinema or the opera, only to discover, perhaps, that the show is disappointing.
+他们花钱去剧院,电影院或歌剧院买价格昂贵的票, 结果却发现演出令人失望.
+
+解析: only前为主句, only后为动词不定式短语,其宾语为that从句,作结果状语
+
+
+19. Nor+because...不是因为......
+Nor do I teach because I think I know answers, or because I have knowledge I feel compelled to share.
+我之所以教书,不是因为我认为自己能够解答问题,或者因为我有满腹学问,非与别人分享不可.
+
+解析: 这是一个主从复合句,nor do I teach为主句, because...,or because为两个并列的原因状语从句. I know answers是think的宾语从句; I fell compelled to share 是knowledged的定语从句.nor否定的是两个because引导的原因状语从句,这被称为否定的转移译法.
+
+
+20. (There be) no + 主语 + but + 谓语 + 其他: 它实际上是一个双重否定句,翻译时采用肯定句的形式
+There is no man but has his faults.
+人皆有过
+
+21. 主语 + be the last + 名词 + 不定式或从句: 绝不至于..., 最不...的
+Breach of promise is the last thing that he is likely to commit.
+违约是他绝不会做的事情
+
+22. not...but... 不是...而是...
+it is not that the scales in the one case, and the balance in the other (case), differ in the principles of their construction or manner of working; but that the latter is much finer apparatus and of course much more accurate in its measurement than the former.
+这并不是说面包师或卖肉的人所用的磅秤在构造原理或工作方式上和化学家所用的天平存在差异,而是说与前者相比,后者是一种更为精密的仪器,因而在计量上必然也准确得多.
+
+
+23. had(would) rather...+ than... 宁可....而不...
+I would rather die with my head high, with indestructible faith and profound belief in the destiny of our country, than live in humility and renounce the principles which are sacred to me.
+我宁愿昂着头,怀着不动摇的信念,抱着对祖国前途的深刻信心而死,而不愿在屈从之下背弃神圣的原则而生.
+
+
+24. if only 只要...就...
+if only we work with might and main, the difficulties will be overcome.
+只要我们大家全力以赴, 必然会克服困难.
+
+25. only if 必须在...条件下才...
+you could know your own language only if you compared it with other languages.
+只有当你将本族语言和其他语言进行比较时,你才能真正懂得你的本族语.
 
 
 ## 第二节 动态名词
+
+### 一. 动态名词
+动态名词的定义:由动词演变而来的名词,或带有动词词性的名词.多用名词而少用动词是英语中的一大特色,于是由于动词的减少而造成了英语中多长句的现象.
+
+the teacher deeply appreciate the students' work.
+老师十分赞赏学生的学习.
+
+改写: the teacher has a deep appreciation of the students' work.
+
+==动态名词的相互转换==
+(1) 主谓结构的动态名词转换
+* the social system exists --->the existence of the social system.
+* the sun rises in the east--->the rising of the sun in the east.
+* electrons move in orbits ---> the move of electrons in orbits.
+* water expands when it freezes ---> the expansion of water when freezing
+* the delegation arrived. ---> the arrival of the delegation.
+
+
+(2) 动宾结构的动态名词转换
+* find an important manuscript. ---> the find of an important manuscript
+* emphasize the quality of life. ---> the emphasis on the quality of life.
+* awaken the unawakened earth. ---> the awakening of the unawakened earth.
+* build up China's national defence. ---> the building up of China's national defence.
+* construct our socialism. ---> the construction of our socialism.
+* apply the method. ---> the application of the method.
+
+
+(3) 主谓宾结构的动态名词转换
+* I study English. ---> my study of English.
+* She visits Beijing. ---> her visit to Beijing.
+* He processed a good fortune. ---> his procession of a good fortune.
+* he refused the invitation. ---> his refusal of the invitation.
+* Premier Zhou received the foreign guests. ---> Premier Zhou's reception of the foreign guests.
+* He clearly expressed the plan. ---> his clear expression of the plan.
+
+==动态名词的处理方法==
+对待动态名词的翻译,遵循中文的习惯将名词改译为动词
+1. Today, we are still stirred by the **sight** of each flower and tree in the courtyard and each thing used by him.
+今天我们**看到**院子里面的一花一木和他使用过的每样东西,扔很激动.
+
+2. he gave a vivid **description** of the battle.
+他生动地描述了这场战斗
+
+3. Mr. Pickwick was the **impersonation** of kindness and humanity.
+匹克威克先生**表现**了他的友善和仁慈.
+
+4. She is a **lover** of Italian painting.
+她**喜欢**意大利画
+
+5. There were various possible **players** for the role.
+可能有好几个人要扮演这个角色.
+
+6. **Mastery of a language** requires painstaking efforts.
+**学好语言**非下苦功夫不可
+
+7. The **adoption** of this policy would free the labour relation groups of a tremendous load.
+**采取**这种政策将会大大减轻劳动关系部门的负担.
+
+8. The **adoption** of this new device will greatly cut down the percentage of defective products.
+**采用**这种新装置可以大大降低废品率.
+
+9. only the **thought** of his mother gave him the strength.
+只要**想到**妈妈他就有力量.
+
+10. The **sight** of the orphan always reminds me of his parents.
+**看到**这个孤儿总会让我想起他的父母.
+
+11. Most boys have an **inclination** for sports. 
+大部分男孩都**偏好**运动.
+
+12. The students are all on the tiptoe of **expectation** of the arrival of their international teacher.
+学生们都翘首**期盼**他们外籍老师的到来.
+
+13. A better **understanding** of the molecular structure of living organisms and  of their functioning at molecular level gives prospects for entirely new innovation of medicine manufacture.
+更好地**理解**活的有机体的分子结构和其在分子层面的功能,使得医药制造的彻底创新出现了一个新局面
+51 腿
+
+14. the book is a **reflection** of the Chinese society of my father's time.
+这本书**反映**了我父亲那个时代的中国社会.
+
+15. **Expansion** in business involves expenditure.
+**发展**商业需要增加消费
+
+
+
+
+
+### 二. 相关例句
+1. And if you think you'll abandon meat and become a vegetarian, you have the **choice** of very expensive organically-grown vegetables or a steady **diet** of pesticides every time you think you're eating fresh salads and vegetables, or just having an innocent glass of water!
+如果你不想吃肉食而想成为一位素食者,那么你可以**选择**吃价格昂贵的有机蔬菜,不然当你认为在吃新鲜沙拉和新鲜蔬菜时,实际上你每次都在不断地**吃进**杀虫剂,或者干脆就喝白开水吧!
+
+2. It may be said that the **measure** of the worth of any social institution is its effect in enlarging and improving experience; but this effect is not part of its original motive.
+据说衡量任何一个社会机构的价值在于衡量其增加和提升经验方面的效果;但是这个效果并不是其最初动机的一部分.
+
+3. The **emphasis** on data gathered first-hand, combined with cross-cultural perspective brought to the analysis of cultures past and present, makes this study a unique and distinctly important social science.
+强调收集一手资料,且在解析过去和现在的文化时使用跨文化的视角, 这就是的这项研究称为了独特且非常重要的社会科学.
+
+4. While there are almost as many definitions of history as there are historians, modern practice most closely conforms to one that sees history as the **attempt** to recreate and explain the significant events of the past. 
+虽然有多少历史学家就有多少对于历史的定义, 但是现代的定义还是几乎都达成一个共识,那就是认为历史是在**尝试**着去重现和解释过去发生的重要事件
+
+
+### 三. 特殊情况的处理
+**情况一:**动态名词出现在have, give, make, take, keep, pay, put, lay, show, maintain, find, gain, be之后时,通常不再翻译前面这些只具备语法功能而不具备表意功能的词
+1. He promised to give his personal **attention** to the matter.
+他答应亲自**关注**这件事
+
+2. The speaker had a good **knowledge** of his subject, but could not put it across.
+报告人非常**熟悉**他所讲的主题,可就是讲不清楚.
+
+3. He has made a systematic **study** of English grammer.
+他系统地**学习**过英语语法.
+
+4. The 19th century English critical realists made **use** of the form of novel for full and detailed representations of social and political events, and of the fate of individuals and of whole social classes.
+19世纪应该批判现实主义作家**运用**小说形式全面细致地揭露社会和政治问题,描写个人和社会各阶级的命运.
+
+5. Rockets have found **application** for the **exploration** of the universe. 
+火箭已经被**应用**于宇宙**开发**领域
+
+6. From them all Mark Twain gained a keen **perception** of the human race, of the difference between what people claim to be and what they really are.
+从这些人身上, 马克·吐温深刻地**洞悉**了任性, **认识**到了人们言与行之间的差距.
+
+7. There must be a **reformation** of the old educational system.
+必须**改革**旧的教育制度.
+
+8. There must be a **recognition** of the principles of equality between states.
+必须明确**承认**各国平等的原则.
+
+9. Of course, New York is the ideal place for such an interesting study, because there is no **shortage** of tall buildings.
+当然,纽约是进行这种有趣实验的一个理想之处,因为那里根本不**缺乏**高楼大厦.
+
+10
+
+
+
+
+### 四. 翻译知识拓展
