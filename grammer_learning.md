@@ -1397,9 +1397,350 @@ the teacher deeply appreciate the students' work.
 9. Of course, New York is the ideal place for such an interesting study, because there is no **shortage** of tall buildings.
 当然,纽约是进行这种有趣实验的一个理想之处,因为那里根本不**缺乏**高楼大厦.
 
-10
+10. it is a truth universally acknowledged that a single man in possession of a good fortune must be in **want** of a wife.
+有钱的单身汉必定**想娶**个好妻子,这是众所周知的事.
 
+11. The college was to be for the **education** of priests and scholars. 
+大学就是**培养**牧师和学者的地方.
 
+12. Psychologically there are two dangers to be guarded against in old age. One of these is undue **absorption** in the past. The other thing to be avoided is clinging to youth in the **hope** of sucking vigour from its vitality.
+从心理方面讲,人到了老年,有两种危险倾向需要注意防范,一种是过分**怀念**过去;另一种则是老想和年轻人待在一起,**希望**从年轻人的活力中汲取力量.
+
+13. For we are **lovers** of the beautiful, yet simple in our tastes, and we cultivate the mind without loss of manliness.
+我们**有**爱美之**心**而不求奢华,培养理智而不乏刚健.
+
+**情况二: 动态名词的属格**
+14. **Kevin's singing** of Andy Lau's songs is exceptionally good.
+**凯文唱**刘德华的歌唱得非常好
+
+15. He showed **his appreciation** of the time and effort we put into the work by giving us advice and help.
+**他很欣赏**我们在工作中所花的时间和精力,于是给了我们很多建议和帮助.
+
+16. it is a curious coincidence that the day before **his retirement**, Mr. Page will have been teaching for a total of forty years. 
+**佩奇先生退休**的前一天正好是他执教满40年的日子,这真是个奇妙的巧合.
+
+17. **Their** depth of **interpretation and description** of the sufferings of the common people under capitalism pushed the art of novel-writing to a new height. 
+**他们深刻了解并详细描写了**资本主义制度下老百姓所受的苦难,进而把小说创作推向新的高度.
 
 
 ### 四. 翻译知识拓展
+**动态形容词的翻译:** 对于动态形容词我们的处理方法也是将其翻译为动词.
+1. I am **content** with my wife.
+我**对**妻子**很满意**.
+
+2. She is **envious** of your beauty.
+她**嫉妒**你的美貌.
+
+3. I am **desirous** of success.
+我**渴望**成功.
+
+4. Although we feel **dissatified** with the election results, we have to become reconciled to the decision made by our fellow countrymen.
+虽然我们**不满意**选举结果, 但只得服从大家的决定.
+
+5. Darwin was **convinced** that the **loss** of these tastes was not only a loss of happiness, but might possibly be **injurious** to the intellect, and more probably to the moral character.
+达尔文**相信**, **丢掉**这些兴趣不仅会丢掉幸福,而且可能会**损害**之力,更有可能**损害**道德品质.
+
+
+**"抽象名词+of +实体名词"结构的翻译:**
+* an eloquence of lawyers  口若悬河的律师们
+* an obeisance of servants 唯唯诺诺的仆人们
+* a giggle of girls 嘻嘻哈哈的姑娘们
+* a consternation of mothers 大惊小怪的妈妈们
+* a blunder of boys 莽莽撞撞的小伙子们
+* the hotness of sun 火辣的太阳
+* the highness of prices 昂贵的价格
+* the intensity of sound 浑厚的声音
+* the loundness of laughter 高声的大笑
+* the highness of position 高位
+* the intensity of light 强光
+* the intensity of colour 深色
+* the intensity of feeling 深情
+
+1. the travelers ascended to their respective bedrooms, to prepare a change of clothing.
+游客们回到各自的房间,准备换衣服
+
+2. she lacks a stability of living. 
+她缺乏稳定的生活
+
+3. We are deeply convinced of the correctness of the Party's policy.
+我们深信我党政策的正确性
+
+4. The case showed the stupidity of his attitude. 
+这件事表明了他愚蠢的态度.
+
+****************************************
+
+
+
+
+
+# 第五章 考研真题长难句解析
+## 第一节 表语
+1. the notion is that people have failed to detect the massive changes which have happened in the ocean because they have been looking back only a relatively short time into the past. 
+意思就是说人们没有发现海里发生的巨大变化,因为他们只回顾了过去相对较短的一段时间.
+
+主干: the notion is that + 表语从句
+其他成分: people have failed to detect the massive changes为表语从句;which have happened in the ocean为定语从句修饰changes;because they have been looking back only a relatively short time into the past为原因状语从句. 
+
+
+2. One more reason not to lose sleep over the rise in oil prices is that, unlike the rises in the 1970s, it has not occured against the background of general commodity-price inflation and global excess demand.
+另外一个不要因油价上涨而失眠的原因是,这次涨价不像20世纪70年代的那次上涨,它并不是在普遍的商品价格暴涨和全球需求过旺的背景之下发生的.
+
+global excess demand 全球需求过旺(金融类词汇)
+主干: one more reason is that+表语从句
+
+其他成分: not to lose sleep over the rise in oil prices不定式作定语修饰reason,这里需要注意的是不定式的否定是在to前面加not; unlike the rises in the 1970s为插入语,它将表语从句的连接词与后面的部分分隔开来;it has not occured against the background of general commodity-price inflation and global excess demand为表语从句,主干为it has not occured against the background.
+
+
+## 第二节 同位语
+1. they gathered all the data they can, not just performance statistics and biographical details but also the results of their own laboratory experiments with high achievers.
+他们尽其所能收集了一切数据,这些数据不仅包括表现数据和个人成长数据,还包括那些表现优异者在实验室实验中得到的实验成果.
+
+词汇: statistics数据(可以使用固定词组: statistics and details)
+achiever 获得成功的人
+
+主干: they gathered all the data. 主谓宾结构
+其他成分: they can 的完整表达为that they can gather; not just performance statistics and biographical details but also the results of their own laboratory experiments with high achievers整个部分是data的同位语.
+with high achievers 作定语修饰experiments
+
+2. During the discussion of rock singing verses at last month's stockholders meeting, Levin asserted that "music is not the cause of society's ills" and even cited his son, a teacher in the Bronx, New York, who uses rap to communicate with students. 
+在上个月的股东大会上关于摇滚歌词的讨论中,莱文宣称说:"音乐不是引发社会问题的原因",他甚至还以他的儿子为例.他的儿子是纽约布朗克斯的一个教师,他用说唱音乐与学生沟通.
+
+词汇: verse歌词,诗句, stockholder股东, assert声称, society's ill社会问题=social ill
+
+主干: Levin asserted that+宾语从句 and even cited his son. 主谓宾结构.
+
+其他成分: During the discussion of rock singing verses at last month's stockholders meeting作状语
+
+music is not the cause of society's ills为宾语从句, a teacher in the Bronx, New York 为son的同位语; who uses rap to communicate with students为定语从句修饰a teacher.
+
+3. Although it ruled that there is no constitutional right to physician-assisted suicide, the Court in effect supported the medical principle of "double effect", a centuries-old moral principle holding that an action having two effects--a good one that is intended and a harmful one that is foreseen--is permissible if the actor intends only the good effect.
+尽管最高法院已经裁定医助自杀行为并不受宪法支持,但最高法院实际上支持了被称为"双重效果"的医疗原则;这个已有几个世纪历史的道德原则认为一个行为可能会有两个效果--一个想要达到的好的效果和一个已经预见到的坏的效果. 如果行为的实施者想要的只是好的效果的话,这个行为是被允许的.
+
+词汇: constitutional 宪法的, physician-assisted suicide医助自杀
+permissible 可以被允许的.
+
+主干识别: The Court supported the medical principle of "double effect". 主谓宾结构.
+其他: although it ruled that there is no constitutional right to physician-assisted suicide. 为状语从句;
+in effect 作状语, a centuries-old moral principle holding that an action having two effects--a good one that is intended and a harmful one that is foreseen--is permissible if the actor intends only the good effect整个都是the medical principle of "double effect"的同位语 
+
+
+4. There are already robot systems that can perform some kinds of brain and bone surgery with sub millimeter accuracy--far greater precision than highly skilled physicians can achieve with their hands alone.
+现在已有一些机器人系统能够进行精确到亚毫米的脑部和骨骼手术--这要比技巧高超的一生单单用手精确得多.
+
+词汇: surgery 外科手术, sub millimeter亚毫米, accuracy精确, 准确
+
+主干: There are already robot system. there be 句式
+其他: that can perform some kinds of brain and bone surgery为定语从句,with sub millimeter accuracy为定语从句中的状语从句; far greater precision than highly skilled physicians can achieve with their hands alone为accuracy的同位语.
+
+微观解析: than highly skilled physicians can achieve with their hands alone为定语从句修饰precision,相对比较特殊的是由than引导的定语从句,实际上than也可以换成that,只是that没有比较的表意功能,所以常用than,例句: To understand the situdation completely requires more thought than has been given thus far.(要彻底理解这种局势需要比迄今为止更多的思考)
+
+
+
+5. The overall result has been to make entrance to professional geological journals harder for amateurs, a result that has been reinforced by the widespread introduction of refereeing, first by national journals in the 19th century and then by several local geological journals in the 20th century.
+这样一来,总的结果便是业余爱好者想在幻夜地质学期刊上发表文章就更难了,而被广泛使用的论文评审推荐制度又进一步强化了这一结果,这种制度先被19世纪的国家级刊物引入,后又在20世纪被几家地方级地质学刊物所使用.
+
+词汇: reinforce加强, introduction引入, refereeing仲裁,审稿工作,稿件评审, journal期刊
+
+主干: the overall result has been to make entrance harder.主谓宾宾补的结构, entrance to professional geological journals为宾语; harder for amateurs为宾补.
+
+其他: to professional geological journals作定语修饰entrance, harder for amateurs为宾补; for amateurs作状语,a result that has been reinforced by the widespread introduction of refereeing, first by national journals in the 19th century and then by several local geological journals in the 20th century作主语the overall result的同位语.that has been reinforced by the widespread introduction of refereeing为定语从句修饰a result, 其中by the widespread introduction of refereeing为状语; 
+first by national journals in the 19th century and then by several local geological journals in the 20th century为定语修饰introduction.
+
+
+6. At the same time, the American Law Institute--a group of judges, lawyers, and academics whose recommendations carry substantial weight--issues new guidelines for tort law stating that companies need not warn customers of obvious dangers or bombard them with a lengthy list of possible ones.
+与此同时,美国法律协会--由一群举足轻重的法官,律师和专家学者组成,发布了侵权法的新指导纲要,宣称公司不必提醒顾客注意显而易见的危险,也不必连篇累牍地一再提醒他们注意一些可能会出现的危险
+
+词汇: institute 机构
+substantial实际的
+bombard不断攻击,向...连续提出问题
+lengthy冗长的
+
+主干: The American Law Institute issued new guidelines.
+
+其他: a group of judges, lawyers, and academics whose recommendations carry substantial weight为同位语, for tort law作定语修饰new guidelines;stating that companies need not warn customers of obvious dangers or bombard them with a lengthy list of possible ones作定语修饰new guidelines.
+
+warn sb. of sth. 
+bombard sb. with sth. 
+
+
+7. Such large, impersonal manipulation of capital and industry greatly increased the numbers and importance of shareholders as a class, an element in national life representing irresponsible wealth detached from the land and the duties of the landowners; and almost equally detached from the responsible management of business. 
+这样巨大而非个人的对资金和产业的操纵极大地增加了股东的数量和他们作为一个阶级的重要性,他们是国家生活中代表不负责任的财富的一个因素,这种财富不但脱离了土地和土地拥有者的责任,而且与公司负责人的管理毫无关系.
+
+词汇: manipulation 操纵, detached分离的(如果表示态度则是表示"中立的,不关心的")
+
+主干: Manipulation increased the numbers and importance of shareholders.
+
+其他: such large, impersonal, of capital and industry 作定语修饰manipulation; as a class作定语修饰shareholder, an element in national life representing irresponsible wealth detached from the land and the duties of the landowners; and almost equally detached from the responsible management of business整个是shareholders的同位语.
+in national life representing irresponsible wealth detached from the land and the duties of the landowners; and almost equally detached from the responsible management of business都是定语修饰an element.
+
+
+## 第三节 后置定语
+
+1. Sternberg notes that traditional tests best assess analytical and verbal skills but fail to measure creativity and practical knowledge, components also critical to problem solving and life success.
+斯顿博格指出传统的测试能最好地评估处分析能力和语言能力,但并不能衡量一个人的创造性和实际才能, 而这些对于解决问题和取得人生成功而言也是极其重要的因素.
+
+词汇: analytical 分析的, verbal口头的, components成分
+
+主干识别: Sternberg note that + 宾语从句
+其他: traditional tests best assess analytical and verbal skills but fail to measure creativity and practical knowledge为宾语从句; best assess和fail to measure为并列的动词短语; components also critical to problem solving and life success为creativity and practical knowledge的同位语; critical to problem solving and life success为形容词短语修饰components.
+
+
+2. But science does provide us with the best available guide to the future, and it is critical that our nation and the world base important polices on the best judgments that science can provide concerning the future consequences of present actions.
+但是科学确实能提供对于未来的最好指导,对于现在的行为之于未来的结果,科学能提供最好的评判,我们的国家和世界应该把重要的政策基于这种判断之上, 这一点非常重要.
+
+词汇: critical 重要的  concerning 关于
+主干: and 连接两个完整的并列句,第一个句子主干为: Science does provide us with the best available guide to the future. 第二个句子主干为: It is critical that+ 主语从句
+其他: that science can provide为定语从句修饰judgement,  concerning the future consequences of present actions为现在分词短语修饰judgement.
+
+
+3. They should be quick to respond to letters to the editor, lest animal rights misinformation go unchallenged and acquire a deceptive appearance of truth.
+他们应该迅速回复给编辑的来信(读者来信), 以免动物权利的错误信息不受质疑(大行其道)并且披上貌似真理的骗人外衣.
+
+词汇: lest以免,以防(后面所接从句需要使用should+动词原形的虚拟语气), acquire获得, deceptive 欺骗性的
+主干: They should be quick to respond to letters to the editor.含情态动词的主系表结构
+其他: lest animal rights misinformation go unchallenged and acquire a deceptive appearance of truth为状语从句. 
+状语从句中出现并列动词go和acquire,其中go是系动词,并且省略了should, go unchallenged意思是"不被质疑"
+
+
+4. It's an interactive feature that lets visitors key in job criteria such as location, title and salary, then e-mails them when a matching position is posted in the database.
+正是这种交互式的特征使得访客可以键入自己的求职要求,比如地点,职务和薪水,当数据库里张贴处相应的职位时这种互动性的特征又可以给访问者发送电子邮件通知他们.
+
+词汇: interactive feature 互动特征, criteria标准,条件, matching position匹配职位
+主干识别: 主干部分是强调句式, 去掉强调格式后为An interactive feature lets visitors key in job criteria then e-mails them. lets 和e-mails为并列谓语.
+
+其他成分: such as location, title and salary为后置定语; 
+when a matching position is posted in the database为状语从句. 
+
+5. if the journalism did notice the essence of this issue, it would open up its diversity program, now focused narrowly on race and gender, and look for reporters who differ broadly by outlook, values, education, and class.
+如果新闻界确实认识到了问题的关键,它就应该进一步开放其多样性项目,这个项目现在还单纯考虑招收不同种族和性别的员工,新闻界应该进一步寻找那些世界观,价值观,教育水平和社会阶层都大相径庭的记者.
+
+词汇: diversity 多样性
+differ不同(Tastes differ 萝卜青菜各有所爱)
+outlook世界观
+values价值观
+
+主干识别: it would open up its diversity program and look for reporters.并列动词
+其他成分: if the journalism did notice the essence of this issue为状语从句; now focused narrowly on race and gender过去分词短语作状语; who differ broadly by outlook, values, education, and class定语从句作后置定语.
+
+
+6. Sad to say, this project has turned out to be mostly low-level findings about factual errors and spelling and grammar mistakes, combined with lots of head-scratching puzzlement about what in the world those readers really want.
+遗憾地说,这个项目最终被证明是一个很低级的研究,它只是着眼于事实型的错误, 拼写和语法的问题,以及很多关于读者究竟想要什么的恼人困惑.
+
+词汇: head-scratching令人头疼的
+puzzlement困惑
+
+主干识别: This project has turned out to be findings. 主系表结构
+其他成分: sad to say插入语,"遗憾地说"; combined with lots of head-scratching puzzlement非谓语结构作定语(这里修饰的是findings); about what in the world those readers really want为介词短语, about+句子, 句子是由what引导的宾语从句,in the world为状语
+为状语.
+
+7. New ways of organizing the workplace--all that reengineering and downsizing--are only one contribution to the overall productivity of an economy, which is driven by many other factors such as joint investment in equipment and machinery, new technology, and investment in education and training.
+厂房布置的新方法--所有那些重新设计,缩小规模的做法--只是影响一个经济体的整体生产力的因素之一, 整体的生产力还受许多其他因素的影响, 比如设备和机械上的联合投资,新技术以及在教育和培训上的投资.
+
+词汇突破: reengineering and downsizing 重新设计和缩小规模
+contribution原因和因素
+
+主干识别: new ways of organizing the workplace are only one contribution to the overall productivity of an economy. 
+
+其他成分: all that reengineering and downsizing为同位语, which is driven by many other factors such as joint investment in equipment and machinery, new technology, and investment in education and training为非限定性定语从句.
+
+
+
+## 第四节 状语
+1. President Bush campaigned to move Social Security to a saving-account model, with retirees trading much or all of their guaranteed payments for payments depending on investment returns.
+布什总统致力于将社会保障转变为账户储蓄模式, 在这个模式中, 退休人员将把它们大量甚至全部的有保障的收入换成依靠投资回报的收入.
+
+词汇: campaign to do致力于(写作替换词: devote to, focus on, dedicate oneself to)
+Social Security:社会保障
+saving-account model 账户储蓄模式
+trade 交换
+guaranteed有保障的,确保的
+
+
+主干识别: Bush campaigned to move Social Security to a model+独立主格结构
+其他成分: with retirees trading much or all of their guaranteed payments for payments depending on investment returns.在这里需要搞清楚独立主格的本质,就是将两个主语不同但有内在逻辑联系的句子合成一个句子, 因而这个结构便可理解为retirees traded much or all of their guaranteed payments for payments; depending on investment returns非谓语作后置定语修饰payments.
+
+2. It's all deliciously ironic when you consider that Shakespeare, who earns their living ,was himself an actor(with a beard) and did his share of noise-making.
+想想给他们带来生计的莎士比亚本人就是一个演员(而且留有胡子),他也是这些噪音的一部分,你就会觉得这一切颇具讽刺意味.
+
+主干识别: it is ironic + 时间状语从句
+其他成分: when you consider that 为时间状语从句; who earns their living为非限制性定语从句修饰Shakespeare, 它的特殊之处在于处于主谓之间,起到了隔离主谓的作用, 这样处理使得句子内部长短相同,错落有致,写作中可以灵活使用.
+首先要清楚Shakespeare所搭配的动词是was,而且was himself an actor(with a beard) and did his share of noise-making这个句子是强调句(部分强调).
+
+
+3. To those who are unaware that animal research was needed to produce these treatments, as well as new treatments and vaccines, animal research seems wasteful at best and cruel at worst.
+有一些人他们不知道动物研究对于这些治疗方法和一些新的治疗方法以及疫苗而言是必需的,对于他们来说,动物研究说得好听是浪费,说得难听就是残忍.
+词汇: unaware  没有注意到的, vaccine疫苗, cruel残忍的
+主干识别: Animal research seems wasteful at best and cruel at worst to those + 定语从句
+其他成分: who are unaware that 定语从句, that animal research was needed to produce these treatments宾语从句, to produce these treatments不定式表示目的,these treatments, as well as new treatments and vaccines三个事物的并列,理解为these treatments, new treatments 和vaccines的并列.
+
+
+4. I have discovered, as perhaps Kelsey will after her much-publicized resignation from the editorship of She after a build-up of stress, that abandoning the doctrine of "juggling your life", and making the alternative move into "downshifting" brings with it far greater rewards then financial success and social status.
+我已经发现,放弃那种"为生活忙碌"的人生信条并转而追求比较悠闲的生活带给你的回报远远大于经济的成功和社会地位的提升,或许凯尔希因不堪积劳重负而公开地辞去她在<女友>杂志社的编辑一职之后也会有如此发现.
+
+词汇: much-publicized 公开的
+resignation辞职
+build-up逐渐增加或积累
+doctrine 信条
+downshifting降档(这里根据语境灵活翻译为"悠闲, 闲适")
+
+主干识别: I have discovered that +  宾语从句
+其他成分: as perhaps Kelsey will after her much-publicized resignation from the editorship of She after a build-up of stress为非限制性定语从句, 可还原主干为 as Kelsey will discover...., after a build-up of stress作状语; that 后面是一个宾语从句, 主干为abandoning the doctrine and making the move brings with it rewards.
+
+5. Last year Mitsuo Setoyama, who was then education minister, raised eyebrows when he argued that liberal reforms introduced by the American occupation authorities after the World War II had weakened the "Japanese morality of respect for parents".
+去年时任教育部长的拉胡光夫争辩说"二战"后由美国占领当局引入的自由主义革新削弱了日本民族"尊重父母的道德品质", 引起舆论一片哗然.
+词汇: raise eyebrows 表示惊讶,不可思议,舆论一片哗然(把别人的眉毛都给抬起来了)
+argue认为
+introduce指定,引入
+American occupation authorities美国占领当局
+morality道德
+
+主干识别: Mitsuo Setoyama raised eyebrows + 时间状语从句
+其他成分: who was then education minister为定语从句修饰Mitsuo Setoyama, when引导的时间状语从句的主干为he argued that liberal reforms had weakened the morality; liberal reforms had weakened the morality为宾语从句; introduced by the American occupation authorities为非谓语结构作定语修饰reforms, after World War II置于句中,作时间状语.
+
+6. When a new movement in art attains a certain fashion, it is advisable to find out what its advocates are aiming at, for, however farfetched and unreasonable their principles may seem today, it is possible that in years to come they may be regarded as normal.
+当艺术领域的一个新运动发展称为某种流行时尚时,最好应该弄清这场运动倡导者的真正意图,因为不管他们的原则在今天看起来多么牵强无理, 很可能多年以后他们的理论会被视为正常.
+
+词汇: advisable理智的
+advocate倡导者
+farfetched牵强的
+
+主干识别: 时间状语从句+ it is advisable to find out + 宾语从句 + 原因状语从句 +  让步状语从句
+其他成分: when a new movement in art attains a certain fashion为时间状语从句,what its advocates are aiming at为宾语从句; for it is possible that in years to come they may be regarded as normal为原因状语从句; in years to come为状语,however farfetched and unreasonable their principles may seem today为让步状语从句, 其正常语序为: their principles may seem however farfetched and unreasonable, they指代principles
+
+howerver hard he tried, he still failed in the entrance exam.无论他多么努力地尝试,他还是没有通过入学考试.
+
+however解析:
+**词性一:** 副词,等于no matter how; "1.不管到什么程度, 无论如何, 不管怎么; 2.然而,可是,不过", 引导让步状语从句
+(1) however + 形容词 + 主语 + 系动词
+however rich people are, they always seem anxious to make more money.
+无论有多富裕,他们似乎总是渴望挣到更多的钱.
+
+(2)however + 副词 + 主语 + 谓语
+however fast he runs, he can't catch up with us.
+无论跑得多快,他也赶不上我们
+
+**词性二:** 连词, "不管怎样, 怎么样都行",引导让步状语从句; 作转折时不能连接两个句子.
+
+In one's own home one can act however he wishes.
+
+
+
+7. With regard to Futurist poetry, however, the case is rather difficult, for whatever Futurist poetry may be--even admitting that the theory on which it is based may be right--it can hardly be classed as Literature.
+然而就未来主义是个来说,情况则不这么简单了,因为不管未来主义诗歌是什么--就算承认他赖以存在的理论基础都是正确的--这种形式也很难被归入文学范畴
+
+词汇: with regard to关于(替换词: with respect to, in the light of , in terms of)
+Futurist 未来主义者
+
+主干识别: the case is rather difficult + 原因状语从句
+其它成分: With regard to Futurist poetry作状语 
+
+
+
+
+## 第五节 插入语
+## 第六节 倒装
+## 第七节 强调
+## 第八节 并列结构
+## 第九节 隔离结构
+## 第十节 比较结构
