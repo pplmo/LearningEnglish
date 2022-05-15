@@ -1937,7 +1937,75 @@ volcanic 火山的
 主干识别:
 more than 100 small regions of isolated volcanic activity are scattered around the globe.
 
-2. luckily, if the doormat or stove failed to warn of coming disaster, a successful lawsuit might compensate you for your troubles, or so the thinking has gone since the early 1980s
+2. luckily, if the doormat or stove failed to warn of coming disaster, a successful lawsuit might compensate you for your troubles, or so the thinking has gone since the early 1980s, when juries began hodling more companies liable for their customers' misfortunes.
+幸运的是, 如果门垫或者是火炉没有能警告即将到来的灾难, 你可以通过一场成功的法律诉讼来赔偿你的麻烦.
+从20世纪80年代早期开始人们的想法就是这样了,那时候法庭认为商家对消费者的不幸应该负有更多的责任.
+
+词汇: warn of 警告
+lawsuit 法律诉讼
+compensate 赔偿
+jury 陪审团
+liable 有义务的,应负责的
+
+主干识别: or 连接两个并列的句子.前一句的主干为:A successful lawsuit might compensate you for your troubles; 后一句为: the thinking has gone so.
+when juries began hodling more companies liable for their customers' misfortunes.是定语从句修饰the early 1980s.
+holding所接宾语为独立主格结构,相当于一个名词,其完整形式是: more companies are liable for their customers' misfortunes.
+
+3. Emerging from the 1980 census is the picture of a nation developing more and more regional competition, as population growth in the Northeast and Midwest reaches a near standstill.
+在1980年的人口普查中, 出现了这样一个情况: 当东北部和中西部地区的人口增长几乎停止的时候,这个国家地区间的竞争却变得越来越激烈了.
+
+词汇: census 人口普查
+develop 出现
+
+主干识别: the picture is emerging.
+of a nation developing more and more regional competition为定语修饰picture;
+as population growth in the Northeast and Midwest reaches a near standstill.为状语从句
+
+
+4. With economic growth has come centralization: fully 76 percent of Japan's 119 million citizens live in cities where community and the extended family have been abandoned in favor of isolated, two generation households.
+随着经济的增长,出现了集中化:日本全国1.19亿公民,其中整整76%的人口定居城市, 在这里,原来的社区和多代同堂的大家庭被摈弃,取而代之的是与外界疏于往来的,只由两代人组成的核心家庭
+
+词汇: extended family 大家庭
+abandon 摈弃
+in favor of 赞成,支持
+
+主干识别: Centralization has come with economic growth.
+句型: with B has come A   随着B....A.....
+
+
+5. Nor, if regularity and conformity to a standard pattern are as desirable to the scientist as the writing of his papers would appear to reflect, is management to be blamed for discriminating against the "odd balls" among researchers in favor of more conventional thinkers who "work well with the team."
+如果在科学家的论文中所反映出的对于标准模板的遵守和认同正是其所想得到的东西的话, 那么管理层就不该因歧视研究者中的"思维与众不同的人", 而喜欢其中较为传统的"善于团队合作"的思想家而受到指责了.
+
+词汇: regularity 常规性
+conformity一致性
+desirable 令人满意的,希望得到的,值得拥有的
+    it's desirable that you should be there by two o'clock.
+    希望你两点钟能到那里
+conventional 传统的
+
+
+主干识别:
+Nor is management to be blamed. nor置于句首引起倒装, 正常语序为Management is not to be blamed.
+
+if regularity and conformity to a standard pattern are as desirable to the scientist as the writing of his papers would appear to reflect为状语从句;主干为 regularity and conformity are as desiable; to a standard pattern作定语修饰regularity and conformity; 
+to the scientist作状语;
+在as the writing of his papers would appear to reflect中, as引导的定语从句修饰regularity and conformity, as在句中作reflect的宾语.
+
+for discriminating against the "odd balls" among researchers in favor of more conventional thinkers who "work well with the team."也为状语
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## 第七节 强调
 ## 第八节 并列结构
