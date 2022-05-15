@@ -1733,13 +1733,212 @@ In one's own home one can act however he wishes.
 Futurist 未来主义者
 
 主干识别: the case is rather difficult + 原因状语从句
-其它成分: With regard to Futurist poetry作状语 
+其它成分: With regard to Futurist poetry作状语, for it can hardly be classed as Literature 为原因状语从句; whatever Futurist poetry may be--even admitting that the theory on which it is based may be right为原因状语从句中的让步状语从句.even admitting that the theory on which it is based may be right在句中充当状语, admitting后接宾语从句.
 
 
+whatever: 
+词性一: 代词, "任何事物, 无论什么, 不管什么, 到底是什么,究竟是什么, 什么都阔以, 无所谓,或许吧"
+词性二: 形容词, "任何, 什么"
+词性三: 副词,"任何, 一点儿都(不)"
+(1) 引导名词性从句, 相当于anything that, "所....的任何事情", 在语气上比what更具有强调意味:
+Whatever she did was right. 她所做的一切都是对的
+Take whatever you want. 你想要什么就拿什么吧.
+
+(2) 引导让步状语从句, 相当于no matter what, 意思是"无论什么, 不管什么", whatever在从句中可作主语,宾语, 表语和定语.
+Whatever happens, you mustn't lose your heart. (作主语)
+无论发生什么事情, 你都不要丧失信心.
+
+whatever you do, do it well. (做宾语)
+无论做什么事情, 你都要把它做好
+
+whatever I am, it is useful to know foreign languages(作表语)
+无论我干什么, 懂外语总是有用的
+
+You have to go on whatever difficulties you meet.(作定语)
+不管遇到什么困难,你都得进行下去.
+
+
+8. Declaring that he was opposed to using this unusual animal husbandry technique to clone humans, he ordered that federal funds not be used for such an experiment--although  o one had proposed to do so--and asked an independent panel of experts chaired by Princeton President Harold Shapiro to report back to the White House in 90 days with recommendations for a national policy on human cloning.
+他宣布自己反对使用这种非同寻常的畜牧繁殖技术来克隆人类, 并下令不准使用联邦政府基金做此类实验--尽管还没有人建议这么做--他还请一个以普林顿休斯顿大学校长哈罗得·夏皮罗为主席的独立专家组在90天内向白宫汇报关于制定有关克隆人的国家政策的建议.
+
+词汇: husbandry畜牧业
+chair 以...为领导
+recommendation建议
+
+主干识别: He ordered that... and asked an independent panel of experts...主谓宾结构中出现并列的谓语动词
+
+其他成分: declaring that he was opposed to using this unusual animal husbandry technique to clone humans作状语; that federal funds not to be used for such an experiment为宾语从句; although no one had proposed to do so为插入语, 是一个让步状语从句, in 90 days 为状语; with recommendations为状语, for a national policy on human cloning也为状语;
+宾语从句中由于对应的动词为ordered, 所以从句中应使用虚拟语气,且从句中的should可以省略; chaired by Princeton President Harold Shapiro非谓语结构作定语, to report back不定式表示目的; with recommendations for a national policy on human cloning介词短语作状语
+
+
+9. Apart from the fact that twenty-seven acts of Parliament govern the terms of advertising, no regular advertiser dare promote a product that fails to live up to the promise of his advertisements.
+除去议会用来规范广告的27条法案的限制之外, 没有任何一个正式的广告商敢于推销一种不符合其广告承诺的商品.
+
+词汇: 除外(相当于besides, in addition to)
+Parliment议会
+promote 促销
+live up to 不辜负(在翻译时常处理为"符合")
+
+主干识别: No regular advertiser dare promote a product + 定语从句
+其他成分: apart from the fact为介词结构作状语; that twenty-seven acts of Parliament govern the terms of advertising为同位语从句对fact作进一步的阐释;
+that fails to live up to the promise of his advertisements为定语从句修饰product.
+
+翻译点拨: live up to的翻译用到的常见的反译法的技巧,反译法即正话反说,来表达相同的意思;
+例如: 
+I lay awake all night.  我一夜没合眼
+he never lies. 他每次都说真话.
 
 
 ## 第五节 插入语
+
+1. This, for those as yet unaware of such a disadvantage, refers to discrimination against those whose surnames begin with a letter in the lower half of the alphabet.
+对于那些还不了解这种危害的人来说, 它指的是对姓氏首字母位于字母表后半部分的人的歧视.
+
+词汇: discrimination 歧视
+alphabet 字母表
+
+主干识别: This refers to discrimination against those +  定语从句
+其他成分: for those as yet unaware of such a disadvantage为插入语,可改写成:for those who are unaware of such a disadvantage as yet.
+as yet: 至今
+
+微观解析: 若是句子中的插入语理解起来很困难,不妨试着改变它的句式结构, 将长定语还原为定语从句
+
+2. From the beginning of our history, says Hofstadter, our democratic and populist urges have driven us to reject anything that smells of elitism.
+霍夫施塔特说,从我们历史之初起, 我们对于民主化和大众化的渴求就迫使我们拒绝一切带有精英主义色彩的东西.
+
+词汇: democratic 民主的
+populist 平民主义的
+
+主干识别: Our democratic and populist urges have driven us to reject anything+定语从句
+其他成分: says Hofstadter为插入语; 
+sth. has driven sb. to do sth. 句型
+
+可将这个句子变为: Hofstadter says, "From the beginning of our history, our democratic and populist urges have driven us to reject anything that smells of elitism." 这样的由直接引语构成的宾语从句会降低句子的难度.
+
+3. The true enemies of science, argues Paul Ehrlich of Standford University, a pioneer of environmental studies, are those who question the evidence supporting global warming, the depletion of the ozone layer and other consequences of industrial growth.
+环境研究的先驱,斯坦福大学的保罗·埃尔利希认为, 科学真正的敌人是那些对支持劝酒变暖,臭氧层损耗以及工业发展的其他后果的证据提出质疑的人.
+
+词汇: depletion消耗(consumption的同义替换词)
+ozone layer臭氧层
+
+主干识别: the enemies are those +  定语从句
+其他成分: argues Paul Ehrlich of Stanford University为插入语.
+
+
+4. "The test of any democratic society", he wrote in a Wall Street Journal column, "lies not in how well it can control expression but in whether it gives freedom of thought and expression the widest possible latitude, however disputable or irritating the results may sometimes be."
+"对任何一个民主社会的考验", 他在《华尔街日报》的一个专栏文章中写道， “不在于它能够多有效地控制各种意见的表达，而在于这个社会是否能够给予尽可能广泛的思考和表达自由，不管有时候这种结果是多么富有争议或令人不快。”
+
+词汇突破： Wall Street Journal 《华尔街日报》
+主干识别： The test lies not in + 宾语从句 + but in + 宾语从句
+其他成分: he wrote in a Wall Street Journal column为插入语; how well it can control expression为宾语从句, whether it gives freedom of thought and expression the widest possible latitude为宾语从句; however disputable or irritating the results may sometimes be为让步状语从句. 
+give sb. sth.可以
+give sth. sth. 也可以
+whether it gives freedom the widest possible latitude.
+
+5. The shift away from family life to solo lifestyle, Observes a French sociologist, is part of the "irresistible momentum of individualism" over the last century.
+一个法国社会学家观察到, 从家庭生活到独居生活的转变是过去一个世纪以来"不可抗拒的个人主义势头"的一部分.
+
+词汇: irresistible 不可抗拒的(写作常用句型: sth. has become an irresistible tendency)
+momentum 势头, 趋势
+individualism 个人主义
+
+主干识别: the shift is part of the momentum.
+其他成分: away from family life to solo lifestyle介词短语作定语修饰shift; observes a French sociologist为插入语; over the last century 为状语.
+注意: 对shift进行具体描述时用from..to...这个结构
+
+6. The railroad industry as a whole, despite its brightening fortuning fortunes, still does not earn enough to cover the cost of the capital it must invest to keep up with its surging traffic.
+就整个铁路工业而言,尽管拥有大好形势,但它的收入仍旧不可与资本的消耗相平衡, 而这些资本则是为了满足激增的运输量所必需的.
+
+词汇: fortuning 可观的
+fortune 财富,未来
+cover: 包含 覆盖
+    a horse one day can cover 14 miles. 
+    100 dollars could cover my monthly spending.
+surging 激增的, 飙升的
+traffic 运输量(在用于网络的描述时表示"流量")
+
+主干识别: the railroad industry does not earn enough.
+
+其他成分: as a whole作定语; despite its brightenning fortuning fortunes 为插入语,这里的despite可以换为in spite of;
+it must invest为定语从句(这里省略了that); to cover the cost of the capital it must invest to keep up with its surging traffic不定式表目的.
+
+
+7. The grand mediocrity of today--everyone being the same in survival and number of off-spring--means that natural selection has lost 80% of its power in upper-middle-class india compared to the tribe.
+当今人和人很大程度上的平等--即面对自然淘汰法则人人机会均等,并且连子嗣的数目都一样--这意味着和印度土著部落的情况相比,自然选择在印度中上层阶级中已经丧失了80%的作用
+
+词汇: medicority 普通, 平庸
+off-spring 子女,后代
+natural selection 自然选择
+
+主干识别: Mediocrity means that +  宾语从句
+
+其他成分: everyone being the same in survival and number of off-spring为插入语, 这里将一个独立主格作为一个插入语来进一步解释mediocrity, 还原为一个句子则是:Everyone is the same in survival and number of off-spring;
+that natural selection has lost 80% of its power in upper-middle-class为宾语从句;
+in upper-middle-class india为状语
+compared to the tribe为非谓语作状语.
+
+
+8. But, for a small group of students, professional training might be the way to go since well-developed skills, all other factors being equal, can be the difference between having a job and not.
+但是对一小部分学生来说, 职业教育也是条可取的路径, 因为在其他因素相同的情况下,技能的线束是能否得到工作的关键.
+
+词汇: professional training 职业教育
+
+主干识别: professional training maight be the way to go + 原因状语从句
+
+其他成分:
+for a small group of students 介词短语作状语;
+since well-developed skills, all other factors being equal, can be the difference between having a job and not为原因状语从句; all other factors being equal独立主格结构作插入语, 还原成一个句子是: all other factors are equal.
+
+9. While warnings are often appropriate and necessary--the dangers of drug interactions, for example--and many are required by state of federal regulations, it isn't clear that they actually protect the manufacturers and sellers from liability if a customer is injured.
+尽管警告常常是适当而且必需的--比如对于药物相互作用的危险提出警告--许多警告也是按照州或联邦政府规定的要求给出的,然而(我们)并不清楚,当顾客受到伤害时, 这些警告是在帮助生产者和销售者免责.
+
+词汇: appropriate 恰当的,合适的
+liability 责任(duty, obligation, commitment的同义替换词)
+
+主干识别: it isn't clear that + 主语从句(it为形式主语)
+
+其他成分:
+While warnings are often appropriate and necessary and many are required by state of federal regulations 为让步状语从句;
+
+the dangers of drug interactions, for example为插入语
+that they actually protect the manufacturers and sellers from liability为主语从句
+if a customer is injured为条件状语从句
+
+
+
+10. This development--and its strong implication for U.S. politics and economy in years ahead--has enthroned the South as America's most densely populated region for the first time in the history of the nation's head counting.
+这种发展--以及其对美国政治,经济在未来几年潜在的强有力的影响--使得南部在全国人口普查中有史以来首次成为美国人口最密集的地区.
+
+词汇: implication 重要意义和重要性,影响
+enthrone 使...成为...(其近义词为entitle)
+densely 密集地
+nation's head counting 全国人口普查(同census)
+in years ahead在未来的几年中 = in the years to come
+
+句型: sth. has enthroned sth. as...   某物使某物成为......
+
+主干识别:
+this development has enthroned the South as America's most densely populated region.
+
+其他成分:
+and its strong implication for U.S. politics and economy in years ahead为插入语
+for the first time 为介词短语作状语,可换成firstly.
+in the history of the nation's head counting. 为时间状语
+
+
 ## 第六节 倒装
+1. Scattered around the globe are more than 100 small regions of isolated volcanic activity known to geologists as hot spots.
+一百多个独立的小型火山活跃区域分布在全球,他们被地质学家称为热点
+
+词汇: scattered 分散的
+isolated 孤立的
+volcanic 火山的
+
+主干识别:
+more than 100 small regions of isolated volcanic activity are scattered around the globe.
+
+2. luckily, if the doormat or stove failed to warn of coming disaster, a successful lawsuit might compensate you for your troubles, or so the thinking has gone since the early 1980s
+
 ## 第七节 强调
 ## 第八节 并列结构
 ## 第九节 隔离结构
