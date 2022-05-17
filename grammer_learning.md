@@ -1995,19 +1995,203 @@ for discriminating against the "odd balls" among researchers in favor of more co
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 ## 第七节 强调
+
+thus, in the American economic system it is the demand of individual consumers, coupled with the desire of businessmen to maximize profits and the desire of individuals to maximize their incomes, that together determines what shall be produced and how resources are used to produce it.
+因此在美国的经济系统中,个人消费者的需求,商人利润最大化的欲望以及个人收入最大化的渴求,共同决定了应该生产什么产品,以及如何利用资源来生产这些产品.
+
+词汇: coupled with 加上(combined with的同义替换)
+maxmize 最大化
+
+主干识别: it is the demand that determines+宾语从句
+其他成分:in the American economic system为状语; coupled with the desire of businessmen to maximize profits and the desire of individuals to maximize their incomes为非谓语作状语,提取主干为coupled with the desire of businessmen to maximize profits and the desire of individuals to maximize their incomes; it is the demand of individual consumers that determines what...
+可还原为the demand determines what...;
+what shall be produced and how resources are used to produce it为宾语从句
+
+
 ## 第八节 并列结构
+1. their methods do not attempt to estimate the actual biomass(the amount of living biological matter) of fish species in particular parts of the ocean, but rather changes in that biomass over time.
+他们的研究方法并不是想估算处海洋中某些特定地区鱼类的实际生物量(活的生物总量),而是估算出这些生物量随着时间发生的变化.
+
+词汇: not...but... 不是....而是....
+estimate 估量,评估
+
+主干识别: their methods do not attempt to estimate the actual biomass but changes.
+
+其他成分: 括号中的内容对biomass进行解释和说明, of fish species 和in particular parts of the ocean 作后置定语修饰biomass;
+in that biomass over time作后置定语修饰changes;
+
+
+2. many things make people think artists are weird and  the weirdest may be this: aitists' only job is to explore emotions, and yet they choose to focus on the ones that feel bad.
+许多事情让人们认为艺术家是古怪之人,而最古怪的也许是:艺术家的唯一工作就是研究情绪,而他们却往往选择研究那些不好的情绪.
+
+词汇: weird奇怪(口语中常可替代strange)
+emotion情绪
+
+主干识别: many things make people think artists are weird and the weirdest may be this...为并列句结构
+
+其他成分:冒号后面引导一个并列句对主句进行解释和说明
+
+并列句是最常见的句式,但是需要分清并列句之间的关系,and在句子中表明前后句子是并列关系, 但是副词yet又表明句子间在语义上是转折关系;语法上的并列和语义上的转折是这个句子后半句的特点
+
+3. And one leading authority says that these intensely powerful mental events can be not only harnessed but actually brought under conscious control, to help us sleep and feel better.
+而一名顶级权威人士认为,这些极其强烈的大脑活动不仅可以被抑制,实际上还可以收到意识控制,进而帮助我们睡得更香,使我们感觉更好.
+
+词汇: authority权威
+harness 使...停止, 可以和stop互换,但是更加正式;还有一个单词是curb,表示"控制"的意思,相当于control,愿意为"缰绳"
+
+主干识别: one leading authority says that + 宾语从句
+
+其他成分: 宾语从句的主干是these intensely powerful mental 
+events can be not only harnessed but actually brought under conscious control;
+
+ to help us sleep and feel better为目的状语.
+
+
+4. But if robots are to reach the next stage of labor-saving utility, they will have to operate with less human supervision and be able to make at least a few decisions for themselves--goals that pose a real challenge.
+但是如果机器人能在下一个阶段达到节省人工的效用,它们将必须在更少的人力监督之下工作,而且还要至少能够自己做出几个决定--这些目标才会带来真正的挑战.
+
+词汇: utility 效用 功用
+supervision 监督
+
+主干识别: they will have to operate and be able to make a few decisions.并列的两个谓语由and连接.
+
+其他成分: but if robots are to reach the next stage of laborsaving utility作状语, with less human supervision作状语; at least作状语; goals that pose a real challenge.作整个句子的同位语
+定语从句修饰同位语goals 
+
+
+5. But the human mind can glimpse a rapidly changing scene and immediately disregard the 98 percent that is irrelevant, instantaneously focusing on the monkey at the side of a winding forest road or the single suspicious face in a big crowd.
+但是人类的大脑能只迅速地瞟一眼一个快速改变的场面,然后立刻放弃98%的不相关信息,而马上聚焦于一条崎岖森林道路边的一只猴子,或者在茫茫人海中的一张可疑的脸.
+
+词汇: glimpse 快速看一眼
+disregard 抛弃, 丢弃
+irrelevant 不相关的
+instantaneously 立即
+winding蜿蜒曲折的
+suspicious可疑的
+
+主干识别:
+the human mind can glimpse a rapidly changing scene and immediately disregard the 98 percent. 其中并列的两个动词是glimpse和disregard.
+that is irrelevant修饰the 98 percent; focusing on the monkey at the side of a winding forest road or the single suspicious face in a big crowd现在分词短语作状语
+focus的动作发出者就是句子的主语human mind.
+
+the monkey 和 the single suspicious face 为focus on的两个并列宾语
+
+6. A comparison of British geological publications over the last century and a half reveals not simply an increasing emphasis on the primacy of research, but also a changing definition of what constitutes an acceptable research paper.
+将过去一个半世纪里英国地质学领域的出版物作一下比较,(我们)就会发现不仅对科研主导地位的强调不断攀升,而且对一篇可接受的科研论文所包含的内容的定义也有所变化
+
+词汇: reveal 揭露
+primacy 重要性
+constitute 构成,组成, 包含
+
+主干识别: a comparison reveals not ... but... 主谓宾结构
+
+其他成分: of British geological publications为定语修饰comparison;over the last century and a half为定语修饰publications; 
+an increasing emphasis on the primacy of research为宾语;
+a changing definition of what constitutes an acceptable research paper为并列宾语;
+what引导一个宾语从句作为of的宾语,what为宾语从句的主语.
+
+
+7. The trend was naturally most obvious in those areas of science based especially on a mathematical or laboratory training, and can be illustrated in terms of the development of geology in the United Kingdom.
+很自然,这种趋势会在尤以数学或实验室训练为基础的自然学科领域中表现得最为明显, 并且可以用英国的地质学发展作为例证来说明.
+
+词汇: illustrate 例证
+in terms of 根据, 以...为依据
+geology地质学
+
+主干识别: The trend was most obvious and can be illustrated. 主系表结构, 两个并列的动词
+
+其他成分:
+based especially on a mathematical or laboratory training作定语修饰状语中的名词science,
+naturally, in those areas of science, in terms of the development of geology in the United Kingdom为状语
+
+8. I believe that the most important forces behind the massive M&A wave are the same that underlie the globalization process: falling transportation and communication costs, lower trade and investment barriers and enlarged markets that require enlarged operations capable of meeting customers' demands.
+我认为巨大的并购浪潮背后的最重要的推动力和促进全球化进程的力量是一样的, 即降低的交通运输成本,逐渐减少的贸易投资壁垒,以及为满足消费者需求而大幅度拓展的市场.
+
+词汇: M&A 合并,兼并(为mergers and acquisitions的缩写)
+underlie构成...的基础,导致...的发生
+    the social problems underlying these crises remain unsolved.引起这些危机的社会问题尚未解决
+globalization process 全球化进程
+trade and investment barriers 贸易和投资壁垒
+
+主干识别: I believe that + 宾语从句
+其他成分:
+the most important forces behind the massive M&A wave are the same为宾语从句主干; that underlie the globalization process为定语从句; 冒号":"后是对forces的解释;并列的三种力量为
+falling transportation and communication costs, lower trade and investment barriers 和 enlarged markets,后面接一个定语从句 that require enlarged operations和作后置定语的形容词短语capable of meeting customers' demands.
+
+
+9. It is entirely reasonable for auditors to believe that scientists who know exactly where they are going and how they will get there should not be distracted by the necessity of keeping one eye on the cash register while the other eye is on the microscope.
+审查者完全有理由相信,知道自己准备做什么和怎么做的科学家不应该因为必须一只眼盯着收银机,另一只眼盯着显微镜而分散了注意力.
+
+词汇: auditor 审计人员
+distract 分散注意力
+
+主干识别: it is entirely reasonable to believe that + 宾语从句
+其他成分: for auditors作状语; scientists who know exactly where they are going and how they will get there should not be distracted by the necessity of keeping one eye on the cash register while the other eye is on the microscope为宾语从句
+
+
+10. Instead, we are treated to fine hypocritical spectacles, which now more than ever seem in ample supply: the critic of American materialism with a Southampton summer home; the publisher of radical books who takes his meals in three-star restaurants; the journalist advocating participatory democracy in all phases of life, whose own children are enrolled in private schools.
+相反,我们看到了这些非常虚伪的景象, 他们似乎比以前的任何时候都更多见; 批判美国式物质主义的人却拥有谓语南安普顿的消夏别墅;激进书籍的出版商却在三星级餐厅享用一日三餐;倡导在人生各个阶段实施参与制民主的记者,他的子女却就读于私立学校.
+
+词汇: hypocritical 虚伪的
+spectacle景象
+ample充足的
+radical激进的
+journalist记者,新闻工作者
+advocate 支持
+participatory democracy参与制民主
+enroll in注册入学, 入伍
+
+主干识别: We are treated to fine hypocritical spectacles. 主谓结构被动态.
+其他成分: which now more than ever seem in ample supply定语从句修饰spectacles; 
+还原一下: The spectacles now more than ever seem in ample supply. 其主干为: the spectacles seem in ample supply; now more than ever 为状语.
+
+代表人物一: the critic of American materialism美国物质主义的批评者
+with a Southampton summer home(却拥有位于南安普顿的消夏别墅)
+
+代表人物二: the publisher of radical books(激进书刊的出版者) who takes his meals in three-star restaurants,定语从句讲他们却在三星级酒店就餐(而激进主义者往往是追求生活节俭的)
+
+代表人物三: the journalist advocating participatory democracy in all phases of life(支持在人生的各个阶段推崇参与制民主的记者) whose own children are enrolled in private schools,定语从句讲他们自己的孩子却在私立学校上学(私立学校的教育是精英制的,而参与制民主是需要和大众贴近的)
+
+冒号之后列出三种虚伪景象的代表人物,举例说明
+
+
+翻译点拨: we are treated to fine hypocritical spectacles.如果直接翻译那就是"我们被招待了很好的虚伪景象",这样的说法并不符合中文的习惯,中文多主动,英语多被动,因此句子应转译为: 我们看到了这些非常虚伪的景象. fine应处理为"非常"
+
+
+11. But it is a little upsetting to read in the explanatory notes that a certain line describes a fight between a Turkish and a Buglgarian officer on a bridge off which they both fall into the river-- and then to find that the line consists of the noise of their falling and the weights of the officers, "Pluff! Pluff! A hundred and eighty-five kilograms."
+但当我们先是从解释性注释中得知某行诗句讲述了一个土耳其军官和一个保加利亚军官在桥上格斗双双掉进了河里,而后又发现该行诗中只充斥着:"扑通, 扑通, 185千克重" 这类对他们落水时的声音和对军官们体重的描写时,我们不免感到不安.
+
+词汇: explanatory 解释性的
+upsetting 不安的
+consist of 包含
+
+主干识别: it is a little upsetting to read that +  宾语从句 and then to find that + 宾语从句; 形式主语句型
+
+其他成分: in the explanatory notes 作状语; a certain line describes a fight between a Turkish and a Buglgarian officer on a bridge为宾语从句的主干; off which they both fall into the river起连接句子作用的定语从句; the line consists of the noise of their falling and the weights of the officers为宾语从句的主干;  
+"Pluff! Pluff! A hundred and eighty-five kilograms."是line的同位语.
+
+
+12. The examples of Virtual Vineyards, Amazon.com, and other pioneers show that a Web site selling the right kind of products with the right mix of interactivity, hospitality, and security will attract online customers.
+像Virtual Vineyards, Amazon.com这样的先驱网站表明,一个将交互性, 服务性和安全性合理结合,且销售正确产品的网站是可以吸引网上客户的.
+
+词汇: interactivity交互性
+hospitality友好性
+security安全性
+
+主干识别: The examples show that + 宾语从句
+
+翻译点拨: The examples of Virtual Vineyards, Amazon.com; "A of B"的结构, 在翻译 example of...的时候, 应将其译为"像...."
+
+
+
 ## 第九节 隔离结构
+
+
+
 ## 第十节 比较结构
+
+
+
+
+?虚拟  完成时  倒装

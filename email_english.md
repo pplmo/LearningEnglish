@@ -480,7 +480,7 @@ apple of my eye我的心肝宝贝
 pass the buck甩锅/推卸责任
 	that's kind of passing the buck
 	never passing the buck
-clothes nake the man人靠衣装
+clothes make the man人靠衣装
 	people say clothes make the man
 cheat on 出轨
 	I cheat on you我出轨了
@@ -577,7 +577,6 @@ taco Tuesday周二墨西哥玉米饼
 I have heard so much about you 久仰大名IHHSMAY
 
 cut the crap 废话少说
-
 
 
 
