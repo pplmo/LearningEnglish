@@ -2186,10 +2186,222 @@ security安全性
 
 
 ## 第九节 隔离结构
+1. this success, coupled with later research showing that memory itself is not genetically determined, led Ericsson to conclude that the act of memorizing is more of a cognitive exercise than an intuitive one.
+这种成功和后来的研究表明,记忆本身并不是由基因决定的, 艾瑞克森由此总结道: 记忆是一种后天习得的行为,而不是先天的.
 
+词汇: coupled with相当于and, 类似的表达还有along with, combined with等
+determine决定
+cognitive认知的(后天习得的)
+intuitive直觉的(先天的)
+(和以上这组单位概念相关的表达还有: nature先天, nurture后天养育, born先天的,made后天的, innate天生的, acquire后天习得的)
+
+主干识别:主语是this success和later research; 谓语是led,宾语是Ericsson; 不定式短语: to conclude作宾补;主干结构是: this success and later research led Ericsson to conclude that...
+
+其他成分: more...than...结构翻译成"与其说...不如说..."
+
+
+2. it is not obvious how the capacity to visualize objects and to figure out numerical patterns suits one to answer questions that have eluded some of the best poets and philosophers.
+构思物体和找出数字模型的能力是如何让一个人回答那些连最好的诗人和哲学家都回避的问题,这一点我们还不是很清楚
+
+词汇: visualize 想象
+figure out 发现和找出
+suit使...适合
+
+主干识别: 句子结构是由how引导的一个主语从句,it是句子的形式主语,句子主干为: how... is not obvious, 主语从句中主语是capacity, 谓语是suits, 宾语是one.
+
+其他部分: 状语为to answer...;主语后加上两个动词不定式作后置定语;动词不定式中的宾语questions后面接一个that引导的定语从句
+
+3. Anyone who has toiled through SAT will testify that test-taking skill also matters, whether it's knowing when to guess or what questions to skip.
+任何一个参加过SAT考试的人都会证实考试的技巧也很重要,无论这种技巧是知道什么时候去猜还是知道什么问题应该跳过.
+
+词汇: toil 费力地做,苦干(toil常与along, through, up等连用, 表示"艰难地行进,费劲地走, 跋涉")
+SAT 美国高考(Scholastic Assessment Test 学术性评估测试)
+testify 证实
+matter 重要
+
+主干识别: anyone为句子的主语, will testify为句子的谓语, that引导一个宾语从句
+
+
+4. during the past generation, the American middle-class family that once could count on hard work and fair play to keep itself financially secure has been transformed by economic risk and new realities.
+上一代,那些曾经依靠辛勤工作和公平竞争就可以保证自己财务收支安全的美国中产阶级家庭已经被经济风险和新的现实改变了.
+
+词汇: count on 依靠
+fair play 公平竞争
+
+主干识别: the American middle-class family has been transformed.主干是主谓结构被动态
+
+其他成分:during the past generation 和 by economic risk and new realities作状语
+
+
+5. Much of the language used to describe monetary policy, such as "steering the economy to a soft landing" or "a touch on the brakes", makes it sound like a precise science. Nothing could be further from the truth.
+有很多用于描述货币政策的词汇,例如"操纵经济软着陆"或"轻踩刹车", 使货币政策听起来像是一门精确的科学.没有什么比这更远离实际情况的了(这些说法都是不靠谱的)
+
+词汇:
+steer 指挥,控制
+precise准确
+
+主干识别: much of the language makes it sound like a precise science. 
+
+正话反说:
+(1) An opportunity is not likely to repeat itself.(机会难得)
+(2)Such things are of no rare occurence.(这些事情经常发生)
+
+
+6. According to their latest paper published in Nature, the biomass of large predators(animals that kill and eat other animals) in a new fishery is reduced on average by 80% within 15 years of the start of exploitation.
+根据他们在《自然》杂志上发表的最新论文， 一个新渔场的大型捕食者（杀死并吃掉其他动物的动物）数量在开发的头15年平均较少80%。
+
+词汇: biomass [生态]生物量
+predator 捕猎者
+exploitation 开发
+
+相关词汇: prey猎物(game也是"猎物", A good hunter always has game on the table. 好猎手的餐桌上总是不缺野味的)
+
+主干识别:
+the biomass of large predators is reduced by 80%. 主谓结构被动语态
+
+
+7. Some individuals ==would therefore not== have been caught, since no baited hooks would have been available to trap them, leading to an underestimate of fish stocks in the past. 
+有些鱼因此可能逃过一劫, 因此那时没有用带幼儿的鱼钩抓它们, 这样就低估了过去的鱼的储量
+
+词汇: individual 个体
+underestimate 低估
+
+主干识别: some individual would not have been caught.主谓结构被动语态
+其他成分:
+since no baited hooks would have been available to trap them原因状语从句,
+leading to an underestimate of fish stocks in the past. 现在分词短语作状语表结果.
+
+
+8. on another level, ==many in the medical community acknowledge== that the assisted-suicide debate has been ==fueled in part by== the despair of patients for whom modern medicine has prolonged the physical agony of dying.
+在另一个层面上, 很多医疗界的人士承认, 关于医生帮助下的自杀的讨论之所以被激起,部分是因为病人的绝望情绪, 对病人来说, 现代医学延长了死亡前的身体痛苦.
+
+词汇突破: despair 绝望
+prolong 延长
+agony 痛苦
+
+主干识别: many acknowledge that + 宾语从句
+
+
+9. The trend was naturally most obvious in those areas of science based especially on a mathematical or laboratory training, and can be illustrated in terms of the development of geology in the United Kingdom.
+很自然, 这种趋势会在尤以数学或实验室训练为基础的自然学科领域中表现得更为明显,并且可以用英国的地质学发展作为例证来证明.
+
+词汇突破: illustrate 例证
+in terms of  根据, 以... 为依据, 就...而言
+geology 地质学
+
+10. The OECD ==estimates in its latest Economic outlook that==, if oil prices averaged $22 a barrel for a full year, compared with $13 in 1998, this would increase the oil import bill in rich economies by only 0.25-0.5% of GDP.
+经济合作和发展组织在其最新的《经济瞭望》杂志上估算到， 即使和1998年的每桶13美元的油价相比，全年的平均油价达到了每桶22美元， 这也只会使发达国家在进口石油方面多花占其GDP收入的0.25-0.5%的开销。
+
+
+11. The report identifies the undertreatment of pain and the aggressive use of "ineffectual and forced medical procedures" that may prolong and even dishonor the period of dying as the twin problems of end-of-life care.
+报告把对疼痛处理不力和大胆使用可能延长死亡期甚至让病人死得不体面的"无效的和强制的医疗程序"确定为临终关怀的两个问题.
+
+词汇: undertreatment 治疗不足
+aggressive 侵略的, 侵犯的, 好斗的,挑衅的
+medical procedures 医疗程序
+dishonor使丢脸, 使受屈辱
+
+dishonor the period of dying. 让病人死得不体面
+medical procedures 医疗手段, 而不要翻译成"医疗过程"
+
+主干识别:
+the report identifies... and ... as the twin problems of end-of-life care.主谓宾+宾补结构
+
+
+12. the notion that learning that should have in it an element of inspired play would seem to the greater part of the academic establishment merely silly, but that is nonetheless the case. 
+大多数的学术机构认为在学习中加入有启发性玩耍的理念是非常愚蠢的, 但是这样的事情确实常常发生.
+
+词汇: inspired 有激发性的
+establishment 建立, 机构
+nonetheless 但是
+case事实, 实情
+
+主干识别: the notion would seem merely silly.
+其他成分: that learning that should have in it an element of inspired play同位语从句解释notion, 主干为:that learning should have an element of inspired play,是主谓结构, in it为状语, to the greater part of the academic establishment为状语
+
+
+13. the findings add weight to the theory that large areas of the Amazon have recovered so well from past periods of agricultural use that the regrowth has been mistaken by generations of biologists for "virgin" forest.
+有理论认为亚马逊流域很大一部分从过去的农业耕作中如此完美地恢复了过来,以至于那些重新生长的部分被好几代生物学家都错误地认为是原始森林.这些发现进一步证明了这一理论.
+
+词汇: add weight to 扩大影响, 增强优势, 进一步证明
+virgin forest 原始森林
+
+
+14. An invisible border divides those arguing for computers in the classroom on the behalf of students' career prospects and those arguing for computers in the classroom for broader reasons of radical education reform.
+一条无形的界限将支持计算机进课堂的人分为两类: 一类人是从学生的职业前景出发考虑的,另一类人想的是像教育的彻底改革这样的一些更广泛的理由.
+
+词汇: argue for 支持
+on the behalf of 代表(= on behalf of)
+career prospects 就业前景
+radical 彻底的, 根本的, 激进的
+
+主干识别:
+an invisible border divides those and those. 主谓宾结构
+
+其他成分:
+arguing for computers in the classroom on the behalf of students' career prospects和arguing for computers in the classroom for broader reasons of radical education reform.两个现在分词短语作后置定语分别修饰两个those.
+
+
+15. there is, as Robert Rubin, the treasury secretary, says, a "disjunction" between the mass of business anecdote that points to a leap in productivity and the picture reflected by the statistics.
+正如财长罗伯特·鲁斌所说, 在表明生产力飞速发展的商业轶事和数据所反映的情况之间存在着脱节
+
+词汇: the treasury secretary 财政部部长(美)
+anecdote 轶闻, 趣闻
+
+picture情况,事态, 局面,状况,情形
+statistics 数据, 表格
+
+主干识别: there is a disjunction 主系表结构
+
+其他成分:
+as Robert Rubin, the treasury secretary, says为插入语
 
 
 ## 第十节 比较结构
+1. for the women of my generation who were urged to keep juggling through the 80's, down-shifting in the mid-90s is not so much a search for the mythical good life--growing your own organic vegetables, and risking turning into a simpler, less materialistic lifestyle--as a personal recognition of your limitations.
+对于我这一代曾在整个80年代为生活奔波的女人们来说,90年代中期出现的归隐恬退与其说是我们寻求一种神话般的美好生活(用有机肥种植蔬菜,并且冒险去过一种更加简单和更少物质的生活方式), 不如说是我们清醒地认识到自身能力是有限的.
+
+主干识别: down-shifting in the mid-90s is not so much a search for the mythical good life
+
+其他成分: for the women of my generation who were urged to keep juggling through the 80's为介词短语作状语; growing your own organic vegetables, and risking turning into a simpler, less materialistic lifestyle为同位语; 
+as a personal recognition of your limitations为状语
+
+
+not so(as) much... as...这个比较结构的理解通常为"与其说....不如说...."
+例如: he was not so much angry as disppointed.(与其说他愤怒,不如说他失望)
+
+
+2. A home without love is no more a home than a body without a soul is a man.
+正如一个没有灵魂的躯体我们不称其为人一样,一个没有爱的家庭我们也不称其为家庭.
+
+主干识别:
+a home without love is no more a home.
+
+其他成分:
+than a body without a soul is a man为状语从句
+
+难点揭秘:
+no more than 结构
+(1) 对数量进行修饰的时候, no more than=only,意为"仅仅, 只有"; 例如: there are no more than ten people in the room.
+
+(2) 在程度上进行比较时, no more than有"两者都不"之意, 表示说话者主观上觉得少(差,不足,不好)等, 例如: this book is no more interesting than that one(两本书都没趣)
+I can run no faster than he can.(我跑得不快,他跑得也不快)
+
+3. Nowhere do 1980 census statistics dramatize more the American search for spacious living than in the Far West.
+1980年人口普查数据表明远西地区是对宽敞居住条件需求最高的地区.
+
+词汇: census 人口普查
+dramatize 体现和表明
+spacious 宽敞的
+
+主干识别: 1980 census statistics dramatize the American search for spacious living.
+
+
+
+
+
+
+
 
 
 
