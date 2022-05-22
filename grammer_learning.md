@@ -917,17 +917,17 @@ She worked hard, so/as did her husband.
 表语:形容词,形容词短语,现在分词短语,过去分词短语(以上可以称为形容词性的词),介词短语(方位副词)
 
 2) 系动词的分类:
-**状态系动词**: 用来表示主语状态,只有be动词;he is a teacher
-**持续系动词**:用来表示主语继续或波爱吃一种状态或态度,主要有keep,rest, remain, stay, lie, stand.
+   **状态系动词**: 用来表示主语状态,只有be动词;he is a teacher
+   **持续系动词**:用来表示主语继续或波爱吃一种状态或态度,主要有keep,rest, remain, stay, lie, stand.
     1. He always keeps silent at meeting.他开会时总保持沉默.
     2. This matter rests a mystery. 此事仍是一个谜
-**表"像"系动词**:用来表示"看起来像"这一概念,主要有seem, appear, look
+   **表"像"系动词**:用来表示"看起来像"这一概念,主要有seem, appear, look
     1. He looks tired. 他看起来很累
     2. He seems (to be) very sad. 他看起来很伤心.
-**感官系动词**: 主要有feel,smell, sound, taste
+   **感官系动词**: 主要有feel,smell, sound, taste
     1. this kind of cloth feels very soft. 这种布手感很软
     2. this flower smells very sweet.这朵花闻起来很香
-**变化系动词**: 表示主语变成什么样,主要有become, grow, turn, fall, get, come, run
+   **变化系动词**: 表示主语变成什么样,主要有become, grow, turn, fall, get, come, run
     1. he became mad after that. 自那之后,他疯了.
     2. She grew rich within a short time. 她没多长时间就富了.
 
@@ -2398,12 +2398,405 @@ spacious 宽敞的
 
 
 
-
-
-
-
-
-
-
-
 ?虚拟  完成时  倒装
+
+虚拟语气的用法:
+虚拟语气的概念: 虚拟语气用来表示说话人的主观愿望,假想,怀疑,猜测,建议等含义,不表示客观存在的事实,所说的是一个条件,不一定是事实, 可能与事实相反.
+
+虚拟语气一共有七种基本形式:
+1. 动词原形, 用于一切人称和数.
+long live the people! 人民万岁!
+long live the Communist Party of China! 中国共产党万岁!
+God bless you. 愿上帝保佑你
+if that be so, we shall take action at once. 如果情况是那样,我们就立即采取行动.
+
+2. 动词的过去式
+动词的过去式,用于一切人称和数,be的过去式用were.
+if you loved me, you wouldn't say that. 
+假若你爱我,你就不会说那种话
+
+if I were in your shoes, I'd accept the terms.
+假若我处在你的地位, 我就会接受这些条件.
+
+3. had + 过去分词
+had + 过去分词,用于一切人称和数
+if I hadn't had to study for the exam last night, I would have gone to your party.
+如果我昨天晚上不是必须为今天的考试做准备的话, 我就会去你的晚会了.
+
+the victim would have a chance to survive, if he had been taken to hospital in time.
+如果遇难者被及时送到医院,他就有机会活下来.
+
+if I had listened to you, I would have finished my assignment.
+要是我当时听了你的话, 我现在该完成任务了.
+
+
+4. 助动词should/would+动词原形
+"should(第一人称)和would(第二,三人称)+动词原形"
+if I were you, I ==should take ==his advice.
+如果我是你,就会听他的忠告
+
+He said he ==would go== if I went.
+他说如果我去他就去.
+
+
+5. 助动词should/would + have + 过去分词
+if they hadn't helped you, you would have done nothing.
+要不是他们当时帮了你,你现在肯定是一事无成
+
+if father hadn't sent me, I shouldn't have come.
+如果不是父亲派我来, 我是不会来的
+
+you wouldn't have seen her if it hadn't been for him.
+如果不是他,你就不会见到他
+
+
+6. 助动词should + 动词原形
+"should + 动词原形", 用于一切人称和数
+it is desired that everything should be ready by eight o'clock.
+希望一切在八点前准备就绪
+
+they suggested that we should meet at the station.
+他们建议我们在车站会面
+
+if you should see Celia, give her my best wishes.
+假如你见到希莉亚,代我向她致以最好的祝愿.
+
+
+7. 助动词should + have + 过去分词
+"助动词should + have + 过去分词", 用于一切人称和数,例如: 
+it is strange that she should have done it.
+真奇怪,她竟会干出这种事来.
+
+I should have taken his advice. 
+我真该接受他的忠告
+
+if the steamer should have left the port at noon, it will be passing through the canal now.
+轮船如果中午离港, 它现在大概正穿过运河.
+
+上述某些虚拟动词形式和陈述语气的某些动词形式相同,但它们的用法及其所表示的时间概念则完全不同,二者切不可混淆.
+1.虚拟语气的条件从句和结果主句中的用法.
+(1) 表示与现在事实相反的条件或结果
+虚拟语气用在与显式相反的条件句中时, 条件从句的谓语用动词的过去式(be的过去式用were), 结果主句的谓语动词用"should(第一人称)或would(第二,三人称)+动词原形"的形式.
+if I were you, I should/would not do such a thing. (美语一般用would, 没有人称之分)
+如果我是你的话,我就不会做这样的事
+
+if there were no gravity, we should not be able to walk.
+假如没有引力,我们就不能行走
+
+if they had time, they would study Italian too.
+假如他们有时间的话,他们也会学意大利语的
+
+
+(2) 表示与过去事实相反的条件和结果
+虚拟语气用在与过去事实相反的条件句中, 条件从句的谓语动词用"had + 过去分词"形式,结果主句的谓语动词用"should(第一人称)或would(第二,三人称)+have+过去分词"形式. 例如:
+he would have a chance to survive, if he had been taken to hospital in time. 
+如果他被及时送到医院,他就有机会活下来
+
+if I had listened to you, I would have left here.
+要是我当时听了你的话, 我现在应该已经离开这里了.
+
+if you had come a few minutes earlier, you would have met him.
+要是你早来几分钟,你就见到他了
+
+(3) 表示与将来事实可能相反的条件和结果
+虚拟语气用于与将来事实相反的条件句中,条件句的谓语动词用动词的过去式(be的过去式用were), 结果主句用"should(第一人称)或would(第二,三人称)+动词原形"的形式.
+if you dropped the glass, it would break.
+你如果将杯子掉下来, 它就会打碎.
+
+if my mother knew it, she would be angry.
+如果我妈妈知道了这件事,她是会很生气的.
+
+if it were Sunday tomorrow, my sister would go shopping with her classmates.
+如果明天是星期天,我的妹妹会和她的同学一起去购物
+
+
+在表示与将来事实可能相反的条件从句中, 条件从句的谓语也可用"were to + 动词原形"(比较正式, 常用于书面体中)和"should+ 动词原形"形式. 表示假想性很强,实现的可能性很小.
+if you were to come tomorrow, I might have time to see you.
+
+
+if you were to see her tomorrow, I would tell her about your decisions.
+我明天如果见到她, 就把你的决定告诉她.
+
+if you should meet Susan, tell her I want to see her.
+你如果见到苏珊,告诉她我想见她
+
+if it should rain tomorrow, what would we do?
+明天万一下雨,我们怎么办.
+
+
+
+2.有时条件从句中的动作和结果主句中的动作所发生的时间不一致
+当条件从句中的动作和结果主句中的动作所发生的时间不一致(比如一个是过去发生的, 一个是现在发生的),虚拟语气的谓语动词的形式应根据它所表示的时间加以调整.
+if he had followed the doctor's advice, he would be quite all right now.
+他当时若是听医生的话, 现在就痊愈了(从句说明过去, 主句说明现在)
+
+if I were you, I would have gone to the theatre.
+假如我是你,我会去看话剧了.(从句的时间包括现在, 主句说明过去)
+
+if I were not busy, I would have come to see you.
+如果我不忙的话, 我就去看你.(从句的时间说明过去, 主句说明从过去持续到现在)
+
+if you hadn't helped me, I couldn't have finished it on time and most likely I would be still working now.
+假如你没有帮助我, 我不可能按时完成工作,很可能现在还在干呢.(从句说明过去, 主句说明过去和现在)
+
+
+
+3.省去主句或从句的虚拟结构
+虚拟语气结构中的从句或主句有时形式上可以省略,但意义上仍存在
+(1) 省去了结果主句的虚拟语气结构, 常用于表示愿望
+if he were here!
+假如他在这里该多好啊!
+
+if I had never married!
+如果我从未结婚就好了
+
+这种结构也常用if only开头.例如:
+if only I were ten years younger.
+我要是能年轻十岁该多好
+
+if only I could speak several foreign languages
+我要是能讲几种外语就好了(用could/would表示将来)
+
+if you would only try harder!
+你如果再努力一试就好了(only亦可置于would等助动词之后)
+注意: if only有时只表示条件, 不表示愿望
+
+if only you had told me the truth before.
+要是你以前告诉我真相就好了(用过去完成时表示过去)
+
+if only I had known earlier, I'd have phoned you.
+我只要知道得早一点, 就会打电话给你了.
+
+
+(2) 省去了条件从句的虚拟语气结构
+you might stay here forever.
+你可以永远待在这里.(省去了if you wanted或类似条件)
+
+that would be fine. 
+那就太好了.(省去了if you should do it或类似条件)
+
+I would not have done it. 
+我是不会做那件事的(省去了if I were you 或类似条件)
+
+
+4.不用if的条件从句结构
+
+在书面语中,条件从句有时可以不用连词if, 而把谓语中的过去式were, had或should移至主语之前,但如果从句没有were,had或should,则一般不能这样做,例如: 
+were I in your position, I would do as what he said. 
+如果我处于你的地位, 我就按他说的去做
+
+were you to leave today, you would get there on time.
+如果你今天动身, 你就会按时到那儿
+
+had they not helped you, your project would have failed.
+如果没有他们的帮助, 你们的项目是会失败的
+
+should they come, tell them not to wait for me. 
+他们要是来了,让他们别等我了
+
+should it rain tomorrow, the sports meeting would be postponed.
+如果明天下雨,运动会将会延期举行.
+
+温馨提示:
+有时候虚拟语气不用条件从句而用介词短语,动词不定式等来表示.例如:
+we could not have done the work well without their help. 
+要是没有他们的帮助,我们不可能做好这些事情
+
+all this would have been impossible ten years ago. 
+这一切在10年前是不可能有的
+
+
+5.用陈述语气表示条件和结果
+在现代英语里,多用陈述语气表示条件和结果, 陈述语气的条件和结果所表示的往往是事实,如果不是事实,其可能性也比虚拟语气大.
+if it rains tomorrow, we shall not go out. 
+如果明天下雨的话,我们就不出去
+
+the dog won't attack you if you sit still.
+如果你安静地坐着,狗是不会咬你的
+
+if the train leaves at eight thirty, there is no time to lose.
+火车如果是八点半开,我们得抓紧时间了.
+
+
+6.虚拟语气和情态动词
+虚拟结构(不论从句或主句)常可用情态动词的过去式,即could, might,would等加不带to的动词不定式或不带to的动词不定式完成式来作谓语动词,这些情态动词除表示虚拟结构外,本身还有独立的意思.例如:
+if she were here, she might come with you.
+假如她在这里,她会跟你一起去的
+
+if I were you, I would join in the army.
+如果我是你, 我就愿意去参军
+
+but for your help, we would not have succeeded.
+要不是你们的帮助,我们是不可能成功的
+
+if she left at six, she should arrive in time.
+如果她6点动身,就会按时赶到
+
+![image-20220523012209875](C:\Users\May天\AppData\Roaming\Typora\typora-user-images\image-20220523012209875.png)
+
+
+
+7.虚拟语气的其他用法
+(1)虚拟语气用在主语从句中
+虚拟语气除了主要用于条件句中(即状语从句外),还可用于主语从句,在主语从句中,虚拟语气的谓语动词用"should + 动词原形(或should+ have+过去分词)"或只用动词原形(尤用于美国英语中),should在此状态下是时态助动词,本身没有实义,这种主语从句由连词that所引导,常用在it is natural(necessary, strange, important, essential, impossible, possible) that...这类句型里.例如:
+it was arranged that you should go and help Susan.
+已经做了安排,由你去帮助苏珊
+
+it is necessary that the question should be settled at once.
+必须马上解决这个问题
+
+it is important that we should speak politely.
+我们说话要有礼貌,这是很重要的
+
+it is essential that we  should tell her the truth.
+我们有必要告诉她真相
+
+it is strange that he should have gone away without telling us.
+真奇怪,他没有通知我们就走了
+
+
+
+(2) 虚拟语气用在宾语从句中
+虚拟语气同样也能用于宾语从句中,下列三种宾语从句可用虚拟语气:
+1)在动词wish后的宾语从句(常常省略连词that),表示不可实现的愿望,宾语从句中的动词如用过去式,则表示与现在事实相反;如用过去完成时,则表示与过去事实相反;例如: 
+I wish I knew my husband's secret.(=I don't know my husband's secret)
+我要是知道我丈夫的秘密就好了
+
+I wish I were a scientist. (=I am not a scientist)
+但愿我是个科学家
+
+I wish he hadn't gone.(=I'm sorry he has gone.)
+他要是没走该多好
+
+we wish you had come to our evening party!(=but you didn't)
+我们真希望你来参加我们的联欢晚会
+
+
+注意: 如果wish是过去式,后面宾语从句的从句的虚拟语气形式不变,仍用过去式或过去完成时,例如: 
+She wished she knew how to play golf.
+她那么希望会打高尔夫.(和过去事实相反)
+
+
+I wished I hadn't been so forgetful. Then I shouldn't have missed the concert.
+我要是不这样健忘该多好,那我就不会不去听音乐会.(和过去的过去的事实相反)
+
+
+2)有时在宾语从句中可用would或might加动词原形,表示有可能实现的愿望
+I wish he might stay with me.
+我希望他和我住在一起
+
+He wishes I would go with him.
+他希望我和他一起去
+
+I wish you would be quiet. 
+我希望你安静一些
+
+
+
+3) 动词demand要求, command命令, desire希望, maintain保持, urge鼓励, direct指导, arrange安排, suggest建议, order命令, insist保持, propose建议等后面的宾语从句, 用"should+动词原形"或只用动词原形来表示虚拟语气
+
+The expert proposed that children shouln't spend much time on TV.
+专家建议孩子不要过多地看电视
+
+My little daughter suggested that we should hold a family meeting. 
+我的小女儿建议我们今晚开家庭会议
+
+The committee proposed that we should discuss this question next time.
+委员会提议我们下次再讨论这个问题
+
+Most students insist that they should have more English classes.
+多数同学坚持要多上英语课
+
+
+
+(3) 虚拟语气用在定语从句中
+虚拟语气也能用于定语从句中,通常用在it is time(that)...句型中的定语从句里的,从句的谓语动词常用虚拟语气表示将来,动词用过去式形式:意思是"该干某件事了,时间已经有些晚了". 例如:
+it is time we left.
+我们该走了
+
+it is time we went to bed. 我们该睡觉了
+
+it is time we summed up our results. 我们该总结我们的成绩了.
+
+
+(4)虚拟语气用于表语从句和同位语从句
+在表示建议,劝告,命令等含义的名词后的表语从句和同位语从句中,谓语动词要用"should+动词原形"或动词原形结构
+My advice/suggestion is that you (should) practice English as often as possible. 
+我的建议是你尽可能经常地练习英语.
+
+The demand is that the composition (should) be finished tomorrow.
+要求是作文必须明天完成
+
+the boss gave orders that the work (should) be finished this weekend.
+老板发令这项工作必须周末完成
+
+it is my desire that all the members of the family (should) gather once a year.
+
+我的愿望是所有家庭成员一年团圆一次.
+
+
+
+(5) 虚拟语气用在状语从句中
+1) 由as if或as though所引导的状语从句表示比较或方式时,从句中的谓语动词常用虚拟语气,动词形式用动词的过去式(be用were), 或"had+ 过去分词"
+my mother looked after the orphan as if he were her own child. 
+我母亲像对自己的孩子一样照顾这个孤儿
+
+you speak as if you had really been there.
+你说得好像你真的到过那里似的
+
+注意: 下面句中的as if 从句用作表语.
+it looks as if it might rain.
+天好像要下雨了xie
+
+
+2) 在由lest 和in case等引导的目的状语从句中, 用"should +动词原形"(should可以省略)
+I will keep a T-shirt for you in case you should change your mind.
+我给你留一件T恤,说不定你会改变注意的
+
+my boyfriend explained again and again in case I (should) misunderstand him.
+我男朋友解释了一遍又一遍,生怕我误解他
+
+in case等引导的目的状语从句中的谓语有时也可用陈述语气,此时从句表示的就是真实情况,而不是虚拟情况.
+Take warm clothes in case the weather is cold.
+带上厚衣服,以防天气变冷
+
+in case he doesn't have your phone number, could you tell me what it is?
+以防他没有你的电话号码, 你可以告诉我你的电话号码吗
+
+
+
+3) 由连词wheather, if , even if/though, whatever, so long as引导的条件状语从句中可用虚拟语气,其谓语动词用动词原形
+I won't let you in whoever you may be
+不管你是谁,我都不会让你进去
+
+wheather the answer be right or not, I have to be rechecked.
+不管答案正确与否,我都得重新核对.
+
+however hard the task may be, I must fulfill it on time.
+不管任务多么艰巨,我都必须按时完成.
+
+
+4)以so that, in order that或起同样作用的that引导的结果状语从句,谓语多用"may或might+动词原形"结构构成, 在口语中也常用"can/could + 动词原形"结构,例如: 
+I live so that others may live better.
+我自己活着为的是使别人活得更好
+
+in order that people might understand this new product, I made a practical demonstration of it.
+为了使人们了解这个新产品,我做了一次示范表演.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
