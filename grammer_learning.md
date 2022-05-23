@@ -2785,6 +2785,266 @@ in order that people might understand this new product, I made a practical demon
 
 
 
+***************************
+倒装句:
+概念: 英语中的最基本的结构是主,谓结构,倒装就是将这种比较固定的结构加以颠倒,倒装是一种语法手段,用以表示一定句子结构的需要和强调某一句子成分的需要.
+主语和谓语是句子的核心,它们之间有两种语序,一种是主语在谓语之前称为自然语序,如称述句,二是主语在谓语之后,或使用与正常词序
+相反的词序,这种语序则称为倒装语序,使用倒装语序通常是为了表达的需要或语法结构的需要,有时也为了强调.
+
+倒装句的分类:
+部分倒装和完全倒装
+**部分倒装:** 指将谓语的一部分,如助动词或情态动词放至主语之前,如果句子的谓语没有助动词或情态动词,则需添加助动词do, does, did,并将其置于主语之前.需要部分倒装的情况有:
+1) 句首为否定或半否定的词语,如no, not, never, seldom, little, hardly, at no time, in no way, not until..等等,例如: 
+never have I watched such a moving film.
+我从未看过如此感人的电影
+
+Hardly had I gone out of the school when I met my father.
+我刚走出学校就遇见了爸爸
+
+
+2) not until引导主从复合句时, 主句倒装, 从句不倒装,注意: 如果否定词不在句首不倒装,例如:
+We didn't set out until it stopped raining.
+直到雨停了我们才出发
+
+Not until it stopped raining did we set out.
+直到雨停,我们才启程.
+
+
+**完全倒装:** 是指将句子中的谓语动词全部置于主语之前,此结构通常只用于一般现在时和一般过去时,常见的结构是: 
+1) here, there, now, then, thus等副词置于句首,谓语动词常用be, come, go, lie, run等表示来去或状态的动词.例如:
+There came the bus.
+公交车来了
+
+here is your pen.
+你的笔
+
+2)表示运动方向的副词或地点状语置于句首,谓语是表示运动的动词:
+Out rushed a missile from under the bomber.
+轰炸机肚底下窜出一枚导弹
+
+Ahead stands a tree. 
+前面有棵树
+
+注意: 
+上述全部倒装的句型结构的主语必须是名词,如果主语是人称代词则不能完全倒装,例如:
+Here she arrives. 她来了
+
+
+倒装句的用法:
+按照表达方式句子可分为四大类:陈述句,疑问句,祈使句和感叹句,这四大类型句子都有可能出现倒装句
+
+1.陈述句中出现的几种倒装句
+陈述句一般情况下用自然语序,但由于英语语法的某些原因,陈述句也要使用倒装语序.
+(1)表语倒装: 
+Such was my father, a man of great love for the family. 
+这就是我的爸爸,一个很爱家的男人
+
+inside the room are many books of his father. 
+房间里有很多他爸爸的藏书
+
+A very beautiful woman she is.
+她是一个很漂亮的女人(主语是人称代词时,主谓不倒装)
+
+
+(2) 宾语倒装
+so unreasonable was his condition that she startled.
+他的条件太离谱,令她瞠目结舌.
+
+A million dollars they offered for the house.
+他们出价100万美元去买那套房子
+
+Not a single mistake did he make in his homework.
+他的作业里没有一点错误
+
+Only a little she spke that night.
+那个晚上,她话说得很少.
+
+注意: 宾语在前时,多数属于强调部分,句子一般不加助动词,偶尔也有助动词出现.
+
+(3)主谓倒装: 
+Long long ago there was a princess in a castle.
+很久很久以前, 一座城堡里面住着一个公主.
+
+once upon a time there was a story about a butterfly and a snail.
+从前,有一个关于一只蝴蝶和一只蜗牛的故事.
+
+"Come here," said the man.
+那个男的说: "过来"
+
+At night, there came a terrible earthquake.
+晚上,可怕的地震发生了.
+
+(4)复合句中的倒装
+and he would not have passed the exam had it not been for you.
+要不是你,他不可能通过考试
+
+Were I you, I would tell her the truth.
+如果我是你,我就告诉她真相
+
+Not only did he read the book, but also remembered what he had read.
+他不仅读了这本书,还记住了所读的内容.
+
+Hardly(Scarcely) had he fallen asleep when a knock at the door wakened him.
+他刚睡着,一阵敲门声就把他惊醒了.
+
+the more you give, the more you receive.
+你付出越多,收获就越多.
+
+
+(5)其他倒装
+陈述句中为了保持句子平衡或为了强调表语,宾语,状语等成分,或使上下文紧密衔接时,使用倒装句.
+On the wall is a blackboard on which were writen some words, "Time waits for no man."
+墙上有一块黑板,上面写着: "时光不等人"
+
+They came to the castle, in front of which were an old tree.
+他们来到了这座城堡前,城堡前有棵树.(使上下文紧密衔接)
+
+Gone forever are the days when the Chinese people were in abyss of misery.
+中国人民生活在水深火热中的日子已经一去不复返了.(主语加上定语后太长而表语短,所以表语在前面,强调句子平衡)
+
+3.祈使句中出现倒装
+long live the king! 国王万岁!
+long live the People's Republic of China! 
+中华人民共和国万岁!
+may you succeed!祝你成功!
+Long may he live! 愿他长命百岁!
+
+
+
+
+****************************************************************
+各种情况引起的倒装
+1.here, there, now, then等引起的倒装(完全倒装)
+在以here, there, now, then等简短副词引起的句子中(前三个需用一般现在时), 当动词是be, come, go等时, 这类句子大多带有引起注意的含义,例如:
+Here comes an old lady.  一个老妇人走了过来.
+Look, there comes the bus. 瞧, 公共汽车过来了.
+Then came another question. 然后有一个问题提出来了.
+
+注: 如果主语是人称代词,则不用倒装,例如:
+here you are. 给你
+
+2.there be结构的倒装(完全倒装)
+在"there be"(或there + appear to be, come, exist, happen to be, lie, live,occur, remain,seem, seem to be, stand, used to be)等结构中,倒装形式为完全倒装.
+there were many stars in the sky this evening. 
+今晚天空中有很多星星
+
+3.省略if的非真实条件状语从句中的倒装(部分倒装)
+虚拟结构中的条件状语从句省去if时, were, had, should须移至主语之前,例如:
+had you worked harder at college, you would have got better job.
+如果你在大学期间读书用功些, 就会找到一份更好的工作.
+
+had they not given us such a constructive suggestion, we could not have done it so successfully.
+如果没有他们提供的这么一个有建设性的建议,我们不可能把那件事办得如此成功
+
+
+4.某些表示祝福的句子(部分倒装)
+may you be happy!
+愿你快乐!
+
+may your future become prosperous!
+祝你前程似锦
+
+
+5.副词so, neither, nor等引起的倒装
+为了避免句子部分内容不必要的重复,常用"so+be动词(助动词,情态动词)+主语" 或 "neither/nor+be动词(助动词,情态动词)+主语"
+的倒装句式.
+肯定: so + be动词(助动词,情态动词)+主语
+--he likes traveling.他喜欢旅游.
+--so do I.我也是
+
+否定: Neither/nor+be动词(助动词,情态动词)+主语
+--They can't cheat.他们不会作假
+--neither can I. 我也不会
+
+
+6.否定词位于句首时引起的倒装
+(1)never, seldom, hardly, little, few等引起的倒装:
+否定词never, seldom, rarely, hardly, barely, scarcely,little, few等位于句首时所引起的倒装句通常为部分倒装形式,如果谓语动词为be的一般现在时或者一般过去时,则为完全倒装
+Never shall I forget the days when I spent with you.
+我绝不会忘记跟你一起度过的那些日子.
+
+(2) nowhere, no longer, no more等引起的倒装
+nowhere无处, no longer不再, no more也不,这些否定词位于句首时所引起的倒装句通常为部分倒装形式,如果谓语动词为be的一般现在时或一般过去时,则为完全倒装形式.
+No longer was he in this company. 他不再在这家公司了.
+
+(3) not until, not a, not in the least等引起的倒装: 
+not until直到...才,  not a一个...也没有, not in the least 一点儿也不, not for a minute/moment一点儿也不等 位于句首时,通常引起倒装(not a之后的名词作主语除外), 其形式通常为部分倒装形式,如果谓语动词be的一般现在时或一般过去时,则为完全倒装形式,例如:
+Not until I began to work did I realize how much time I had wasted.
+一直到开始工作我才意识到我已经浪费了多少时间.
+
+(4) under no circumstances, by no means, in no way等引起的倒装: 
+in/under no circumstances无论如何不, by no means绝不, in no case无论如何不, in no way决不, on no account决不可, on no condition决不等短语位于句首所引起的倒装句通常为部分倒装形式,如果谓语动词为be的一般现在时或一般过去时,则为完全倒装形式.
+in no case should we break the rule.
+我们决不能破坏规则.
+
+
+7.关联连词位于句首时引起的倒装
+(1)not only...but also引起的倒装:
+not only...but also位于句首所引起的倒装句为部分倒装形式,如果谓语动词为be的一般现在时或一般过去时形式,则为完全倒装形式.
+Not only will help be given to people to find jobs, but also medical treatment will be provided for people who need it.
+不仅要给那些找工作的人提供帮助,而且也要给那些需要帮助的人提供医疗保健服务.
+
+(2)neither...nor引起的倒装:
+neither...nor位于句首所引起的倒装句为部分倒装形式,如果谓语动词为be的一般现在时或一般过去时形式,则为完全倒装形式.
+neither do I know it, nor do I care about it.
+我不知道我也不关心
+
+(3)hardly...when/no sooner...than引起的倒装
+hardly/scarcely/barely...when或no sooner...than位于句首所引起的倒装句为部分倒装形式,如果谓语动词为be的一般现在时或一般过去时形式,则为完全倒装形式.
+hadly had he arrived when the train left.
+他刚到火车就开走了
+
+No sooner had he arrived than the train left.
+他刚到火车就开走了
+
+(4)so...that引起的倒装
+so...that位于句首所引起的倒装句为部分倒装形式,如果谓语动词为be的一般现在时或一般过去时形式,则为完全倒装形式.
+so excited was he that he could not speak.
+他如此激动,以致说不出话来
+
+(5)such...that引起的倒装
+such...that位于句首所引起的倒装句为部分倒装形式,如果谓语动词为be的一般现在时或一般过去时形式,则为完全倒装形式.
+such was the force of the hurricane that all the houses were broken.
+飓风的威力如此之大,以至于所有的房屋都被吹破了.
+
+
+8.out, in, away, up, bang等表好似方位或拟声词放在句首,引起全部倒装, 但如果主语是代词,则不用写成倒装句
+Bang opened the door.
+砰地一声门开了
+
+away flew the swallow.
+那燕子飞走了
+
+away he went to the church.
+他离开去教堂了.
+
+
+9.so, often等表示程度,频率的副词放在句首时,句子一般要倒装
+so frightened was she that she did not dare to move an inch.
+她害怕得很,动也不敢动
+
+so cold was it that we all didn't want to go to school.
+天太冷了,我们都不想去上学.
+
+
+10. only引起的倒装
+当副词only位于句首并修饰状语或宾语时,引起句子的倒装,其形式通常为部分倒装. 如果谓语动词为be的一般现在时或一般过去时,则为完全倒装.
+only in this way can you make progress.
+只有用这种方法,你才可以取得进步
+注意: only修饰主语时,则不用倒装
+only Smiths knows this.
+只有史密斯知道此事
+
+11. the more..., the more...结构中的倒装
+the more..., the more...结构通常采用部分倒装,如果主句的主语较长,可以将谓语动词置于主语之前,形成完全倒装.
+the more you listen to English(宾语提前), the easier it becomes(表语提前).
+对于英语这门语言,你听的越多,越简单.
+
+
+
+
+
+
 
 
 
