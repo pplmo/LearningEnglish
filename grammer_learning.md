@@ -3027,7 +3027,7 @@ so cold was it that we all didn't want to go to school.
 天太冷了,我们都不想去上学.
 
 
-10. only引起的倒装
+10.only引起的倒装
 当副词only位于句首并修饰状语或宾语时,引起句子的倒装,其形式通常为部分倒装. 如果谓语动词为be的一般现在时或一般过去时,则为完全倒装.
 only in this way can you make progress.
 只有用这种方法,你才可以取得进步
@@ -3035,10 +3035,44 @@ only in this way can you make progress.
 only Smiths knows this.
 只有史密斯知道此事
 
-11. the more..., the more...结构中的倒装
+11.the more..., the more...结构中的倒装
 the more..., the more...结构通常采用部分倒装,如果主句的主语较长,可以将谓语动词置于主语之前,形成完全倒装.
 the more you listen to English(宾语提前), the easier it becomes(表语提前).
 对于英语这门语言,你听的越多,越简单.
+
+12.状语位于句首时所引起的倒装
+(1)当位于句首的状语时一些表示地点的介词短语或表示运动方向的副词(如away, back, down, in, off, out, up)时,常常引起倒装,其形式为全部倒装.
+away went the children.
+孩子们刷地跑开了
+
+(2)介词短语作地点状语,放在句首, 后面跟的是不及物动词be, come, sit, live, stand, lie, exist等常常引起倒装,其形式为全部倒装.
+Next to the table is a chair.
+
+
+13.表语谓语句首时所引起的倒装
+当作表语的形容词,副词,介词短语等位于句首时,常常引起倒装,其形式是完全倒装
+Beautiful is his new girlfriend. 他的新女朋友很漂亮
+
+
+14.状语从句中的倒装
+(1)让步状语从句中的倒装:
+在as引导的让步状语从句中,位于句首的可以是形容词,名词,副词,还可以是谓语动词的一部分,从而形成从句的部分倒装.
+hard as I studied, I could not catch up with them.
+虽然我努力学习,但赶不上他们.
+
+Object as you may, I'll give it up.
+纵使你反对,我也要放弃.
+
+
+(2)方式状语从句中的倒装:
+as引导的方式状语从句一般为正常语序,但是,如果主语比谓语长,可将谓语动词置于主语之前,形成完全倒装.例如:
+He believed, as did all his family, that their life would be better and better.
+他和他全家人一样,都认为他们的生活会越来越好.
+
+(3)比较状语从句的倒装
+由than引导的比较状语从句一般为正常语序,但是,如果主语较长,可将谓语动词置于主语之前,形成完全倒装.例如:
+Western area generally receives less sunshine than does eastern area.
+西部地区的日照通常比东部地区少
 
 
 
